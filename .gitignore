@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+# Local log files
+monitor.log
+monitor.bkp.log
+launchd.log
+
+# Private notes — never commit
+PRIVATE_NOTES.md
