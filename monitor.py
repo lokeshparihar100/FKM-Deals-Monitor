@@ -86,6 +86,7 @@ def build_snapshot(deals: list[dict], stats_lookup: dict[str, dict]) -> dict[str
             "net_price":            d["net_price"],
             "original_price":       d["original_price"],
             "claim_link":           d["claim_link"],
+            "tryouts_url":          f"https://tryouts.freekaamaal.com/deal/{d['slug']}",
             "product_budget":       d.get("product_budget") or 0,
             "is_sold_out":          d["is_sold_out"],
             "total_count":          stat["total_count"] if stat else None,
@@ -136,7 +137,7 @@ def _format_telegram(event: dict) -> str:
         f"Cashback: <b>Rs.{d['cashback']}</b>  |  You pay: <b>Rs.{d['original_price']}</b>  |  Net: <b>Rs.{d['net_price']}</b>\n"
         f"Platform: {d['platform']} / {d['store_name']}\n"
         f"Budget: {d['product_budget']} slots\n\n"
-        f"<a href=\"{d['claim_link']}\">Buy Now</a>"
+        f"<a href=\"{d['tryouts_url']}\">View Deal</a>"
     )
 
 
