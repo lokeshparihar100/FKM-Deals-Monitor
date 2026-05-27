@@ -6,5 +6,6 @@ monitor.log
 monitor.bkp.log
 launchd.log
 
-# Private notes — never commit
+# Private — never commit
 PRIVATE_NOTES.md
+.env

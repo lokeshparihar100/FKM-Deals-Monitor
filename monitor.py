@@ -11,6 +11,20 @@ except ImportError:
     print("Missing dependency: pip install requests")
     sys.exit(1)
 
+
+def _load_env_file() -> None:
+    env_file = Path(__file__).parent / ".env"
+    if not env_file.exists():
+        return
+    for line in env_file.read_text().splitlines():
+        line = line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            key, _, val = line.partition("=")
+            os.environ.setdefault(key.strip(), val.strip())
+
+_load_env_file()
+
+
 # --- Config ---
 STATE_FILE = Path(__file__).parent / "state.json"
 LOG_FILE   = Path(__file__).parent / "monitor.log"
