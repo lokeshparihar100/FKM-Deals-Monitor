@@ -9,3 +9,6 @@ launchd.log
 # Private — never commit
 PRIVATE_NOTES.md
 .env
+
+# Local-only tools
+local/
