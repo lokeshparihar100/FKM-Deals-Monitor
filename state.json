@@ -2950,7 +2950,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-cleaner-powder-descaler-pack-of-3-mpglyhol",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "474": {
@@ -3818,8 +3818,8 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/blush-glow-watermelon-facewash-100g-mpp3gfxa",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "430": {
     "name": "Premium Dried Redcherry - 200gm",
