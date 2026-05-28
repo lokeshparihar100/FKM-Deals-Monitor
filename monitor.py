@@ -96,6 +96,7 @@ def build_snapshot(deals: list[dict], stats_lookup: dict[str, dict]) -> dict[str
             "name":                 d["name"],
             "store_name":           campaigns.get("store_name", ""),
             "platform":             campaigns.get("platform", ""),
+            "campaign_type":        campaigns.get("campaign_type", ""),
             "cashback":             d["cashback"],
             "net_price":            d["net_price"],
             "original_price":       d["original_price"],
@@ -138,7 +139,7 @@ def _format_telegram(event: dict) -> str:
         f"{d['name']}\n\n"
         f"Cashback: <b>Rs.{d['cashback']}</b>  |  You pay: <b>Rs.{d['original_price']}</b>  |  Net: <b>Rs.{d['net_price']}</b>\n"
         f"Platform: {d['platform']} / {d['store_name']}\n"
-        f"Budget: {d['product_budget']} slots\n\n"
+        f"Type: <b>{d['campaign_type'].capitalize()}</b>  |  Budget: {d['product_budget']} slots\n\n"
         f"<a href=\"{d['tryouts_url']}\">View Deal</a>"
     )
 
