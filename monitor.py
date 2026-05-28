@@ -101,6 +101,7 @@ def build_snapshot(deals: list[dict], stats_lookup: dict[str, dict]) -> dict[str
             "original_price":       d["original_price"],
             "claim_link":           d["claim_link"],
             "tryouts_url":          f"https://tryouts.freekaamaal.com/deal/{d['slug']}",
+            "image":                d.get("image", ""),
             "product_budget":       d.get("product_budget") or 0,
             "is_sold_out":          d["is_sold_out"],
             "total_count":          stat["total_count"] if stat else None,
@@ -128,19 +129,6 @@ def detect_changes(current: dict, previous: dict) -> list[dict]:
 
 # --- Telegram ---
 
-def send_telegram(text: str) -> None:
-    if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
-        return
-    try:
-        requests.post(
-            f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage",
-            json={"chat_id": TELEGRAM_CHAT_ID, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True},
-            timeout=10,
-        )
-    except Exception as exc:
-        print(f"Telegram send failed: {exc}", flush=True)
-
-
 def _format_telegram(event: dict) -> str:
     d     = event["deal"]
     icon  = "NEW" if event["type"] == "NEW" else "RESTOCK"
@@ -153,6 +141,30 @@ def _format_telegram(event: dict) -> str:
         f"Budget: {d['product_budget']} slots\n\n"
         f"<a href=\"{d['tryouts_url']}\">View Deal</a>"
     )
+
+
+def send_telegram(event: dict) -> None:
+    if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
+        return
+    text  = _format_telegram(event)
+    image = event["deal"].get("image", "")
+    try:
+        if image:
+            resp = requests.post(
+                f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendPhoto",
+                json={"chat_id": TELEGRAM_CHAT_ID, "photo": image, "caption": text, "parse_mode": "HTML"},
+                timeout=10,
+            )
+            if resp.ok:
+                return
+        # fallback to text if no image or photo send failed
+        requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage",
+            json={"chat_id": TELEGRAM_CHAT_ID, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True},
+            timeout=10,
+        )
+    except Exception as exc:
+        print(f"Telegram send failed: {exc}", flush=True)
 
 
 # --- Logging ---
@@ -174,7 +186,7 @@ def log_event(event: dict) -> None:
     print(line, flush=True)
     with LOG_FILE.open("a", encoding="utf-8") as f:
         f.write(line + "\n")
-    send_telegram(_format_telegram(event))
+    send_telegram(event)
 
 
 def log_info(msg: str) -> None:
