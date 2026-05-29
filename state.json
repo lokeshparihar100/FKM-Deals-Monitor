@@ -1532,7 +1532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777478499_8348.jpg",
     "product_budget": 1200,
     "is_sold_out": false,
-    "total_count": 1006,
+    "total_count": 1007,
     "effectively_sold_out": false
   },
   "551": {
@@ -1788,7 +1788,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791077_7466.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 73,
+    "total_count": 74,
     "effectively_sold_out": false
   },
   "565": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 83,
+    "total_count": 84,
     "effectively_sold_out": false
   },
   "489": {
@@ -1948,7 +1948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775906282_2829.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 339,
+    "total_count": 340,
     "effectively_sold_out": false
   },
   "571": {
@@ -2188,7 +2188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "564": {
@@ -2908,7 +2908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778755770_7401.jpg",
     "product_budget": 106,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "37": {
@@ -4796,8 +4796,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779271806_6694.jpg",
     "product_budget": 53,
     "is_sold_out": false,
-    "total_count": 52,
-    "effectively_sold_out": false
+    "total_count": 53,
+    "effectively_sold_out": true
   },
   "426": {
     "name": "Premium Dried Kiwi - 200gm",
