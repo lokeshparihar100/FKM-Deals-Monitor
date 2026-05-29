@@ -1068,7 +1068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775841366_8975.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 219,
+    "total_count": 220,
     "effectively_sold_out": false
   },
   "462": {
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776336414_7352.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 51,
+    "total_count": 52,
     "effectively_sold_out": false
   },
   "38": {
@@ -1836,7 +1836,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 81,
+    "total_count": 82,
     "effectively_sold_out": false
   },
   "187": {
@@ -2428,7 +2428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793384_1502.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 82,
+    "total_count": 83,
     "effectively_sold_out": false
   },
   "491": {
@@ -3532,7 +3532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790589_7456.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 74,
+    "total_count": 75,
     "effectively_sold_out": false
   },
   "401": {
@@ -4508,8 +4508,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778755770_7401.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "475": {
     "name": "Stylish Gold-Plated Floral Dangle Earrings",
@@ -5036,7 +5036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777322709_7531.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 50,
+    "total_count": 51,
     "effectively_sold_out": false
   },
   "142": {
