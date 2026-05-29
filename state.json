@@ -956,7 +956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777478460_9837.jpg",
     "product_budget": 565,
     "is_sold_out": false,
-    "total_count": 524,
+    "total_count": 526,
     "effectively_sold_out": false
   },
   "595": {
@@ -1532,7 +1532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777478499_8348.jpg",
     "product_budget": 1200,
     "is_sold_out": false,
-    "total_count": 998,
+    "total_count": 1000,
     "effectively_sold_out": false
   },
   "551": {
@@ -4748,7 +4748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779271806_6694.jpg",
     "product_budget": 53,
     "is_sold_out": false,
-    "total_count": 51,
+    "total_count": 52,
     "effectively_sold_out": false
   },
   "426": {
@@ -4812,8 +4812,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780033341_4983.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "446": {
     "name": "Gilded Aura Gold-Plated - Foot Jewelry",
