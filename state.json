@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779184691_4053.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 492,
+    "total_count": 493,
     "effectively_sold_out": false
   },
   "340": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776427310_2019.jpg",
     "product_budget": 2500,
     "is_sold_out": false,
-    "total_count": 217,
+    "total_count": 218,
     "effectively_sold_out": false
   },
   "55": {
@@ -2188,7 +2188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "564": {
@@ -2316,7 +2316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779435335_3864.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "137": {
@@ -3148,7 +3148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1300,
     "is_sold_out": false,
-    "total_count": 1132,
+    "total_count": 1134,
     "effectively_sold_out": false
   },
   "404": {
@@ -3628,8 +3628,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778761370_2341.jpg",
     "product_budget": 90,
     "is_sold_out": false,
-    "total_count": 89,
-    "effectively_sold_out": false
+    "total_count": 90,
+    "effectively_sold_out": true
   },
   "469": {
     "name": "Blush & Glow Blueberry Facewash ( 100g )",
@@ -4044,7 +4044,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779949332_9399.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "12": {
@@ -4108,7 +4108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778155607_2942.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "80": {
@@ -4812,7 +4812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780033341_4983.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "446": {
