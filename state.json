@@ -828,8 +828,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775922974_2354.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 49,
-    "effectively_sold_out": false
+    "total_count": 50,
+    "effectively_sold_out": true
   },
   "486": {
     "name": "Magic Eraser Cleaning Sponge | Pack of 4 ( 2 Quantity )",
@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779184691_4053.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 541,
+    "total_count": 542,
     "effectively_sold_out": false
   },
   "340": {
@@ -1100,7 +1100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777048826_9284.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "601": {
@@ -1996,7 +1996,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791651_2308.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "369": {
@@ -3132,7 +3132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1300,
     "is_sold_out": false,
-    "total_count": 1183,
+    "total_count": 1184,
     "effectively_sold_out": false
   },
   "175": {
