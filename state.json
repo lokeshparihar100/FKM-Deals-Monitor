@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777531205_6810.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 36,
+    "total_count": 40,
     "effectively_sold_out": false
   },
   "450": {
@@ -156,7 +156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780243434_8016.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "611": {
@@ -172,7 +172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780243305_7153.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "613": {
@@ -188,7 +188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780243600_5168.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "614": {
@@ -204,8 +204,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780243849_6218.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "610": {
     "name": "Stretchie Tank Tops ( Any Colour, Any Size )",
@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780241581_8449.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "382": {
@@ -252,7 +252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780244313_5150.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "616": {
@@ -284,8 +284,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780244023_1663.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "357": {
     "name": "Dia Free 2X Tablets ( 30 Tablets )",
@@ -972,7 +972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779184691_4053.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 634,
+    "total_count": 637,
     "effectively_sold_out": false
   },
   "340": {
@@ -1228,7 +1228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778733974_6009.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 405,
+    "total_count": 406,
     "effectively_sold_out": false
   },
   "295": {
@@ -1660,7 +1660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777478499_8348.jpg",
     "product_budget": 1200,
     "is_sold_out": false,
-    "total_count": 1092,
+    "total_count": 1096,
     "effectively_sold_out": false
   },
   "551": {
@@ -2076,7 +2076,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775905889_6778.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 281,
+    "total_count": 282,
     "effectively_sold_out": false
   },
   "571": {
@@ -2332,7 +2332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791211_5168.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "561": {
@@ -2572,7 +2572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790950_1210.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "569": {
@@ -2748,7 +2748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777478333_3672.jpg",
     "product_budget": 900,
     "is_sold_out": false,
-    "total_count": 778,
+    "total_count": 779,
     "effectively_sold_out": false
   },
   "534": {
@@ -3260,7 +3260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793078_6425.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "549": {
@@ -3308,7 +3308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1300,
     "is_sold_out": false,
-    "total_count": 1251,
+    "total_count": 1253,
     "effectively_sold_out": false
   },
   "404": {
@@ -4204,7 +4204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483535_3602.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 95,
+    "total_count": 96,
     "effectively_sold_out": false
   },
   "81": {
