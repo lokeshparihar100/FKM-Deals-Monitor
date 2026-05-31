@@ -988,7 +988,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777531070_8925.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "400": {
@@ -1260,8 +1260,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779800981_5142.jpg",
     "product_budget": 16,
     "is_sold_out": false,
-    "total_count": 15,
-    "effectively_sold_out": false
+    "total_count": 16,
+    "effectively_sold_out": true
   },
   "496": {
     "name": "Ultra Pigmented 51 Colors Eyeshadow Palette with Brush ( Multicolor - 02 )",
@@ -2300,7 +2300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779435335_3864.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 62,
+    "total_count": 63,
     "effectively_sold_out": false
   },
   "137": {
@@ -2924,7 +2924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776427463_9935.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 241,
+    "total_count": 242,
     "effectively_sold_out": false
   },
   "37": {
@@ -3148,7 +3148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1300,
     "is_sold_out": false,
-    "total_count": 1231,
+    "total_count": 1232,
     "effectively_sold_out": false
   },
   "404": {
