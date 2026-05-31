@@ -876,7 +876,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779954985_2867.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "188": {
@@ -1260,7 +1260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779800981_5142.jpg",
     "product_budget": 16,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "496": {
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776334300_5797.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 81,
+    "total_count": 82,
     "effectively_sold_out": false
   },
   "584": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483681_6823.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 266,
+    "total_count": 267,
     "effectively_sold_out": false
   },
   "563": {
@@ -3148,7 +3148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1300,
     "is_sold_out": false,
-    "total_count": 1224,
+    "total_count": 1226,
     "effectively_sold_out": false
   },
   "404": {
@@ -4380,7 +4380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 613,
+    "total_count": 615,
     "effectively_sold_out": false
   },
   "590": {
@@ -4476,7 +4476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778663017_7476.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": true
   },
   "459": {
@@ -4604,8 +4604,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780127170_2569.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "429": {
     "name": "Premium Kandhari Munakka 250g King Size",
@@ -4892,7 +4892,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778657084_3558.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 65,
+    "total_count": 66,
     "effectively_sold_out": false
   },
   "603": {
