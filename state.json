@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777531205_6810.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 43,
     "effectively_sold_out": false
   },
   "450": {
@@ -156,8 +156,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780243434_8016.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "611": {
     "name": "Cuddle Tee ( Black )",
@@ -170,9 +170,9 @@
     "claim_link": "https://fkm.asia/4ura",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/cuddle-tee-black-mptyy0up",
     "image": "https://images.freekaamaal.com/product-images/product_1780243305_7153.jpg",
-    "product_budget": 6,
+    "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "613": {
@@ -188,8 +188,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780243600_5168.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "614": {
     "name": "Cuddle Tee ( Pink )",
@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780241581_8449.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "382": {
@@ -252,8 +252,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780244313_5150.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "616": {
     "name": "Cuddle Tee ( Blue )",
@@ -267,9 +267,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/cuddle-tee-blue-mptzfaoi",
     "image": "https://images.freekaamaal.com/product-images/product_1780244115_4282.jpg",
     "product_budget": 6,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": null,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "615": {
     "name": "Cuddle Tee ( Lavender )",
@@ -972,7 +972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779184691_4053.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 637,
+    "total_count": 640,
     "effectively_sold_out": false
   },
   "340": {
@@ -1116,7 +1116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777531070_8925.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "414": {
@@ -1228,7 +1228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778733974_6009.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 406,
+    "total_count": 407,
     "effectively_sold_out": false
   },
   "295": {
@@ -1660,7 +1660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777478499_8348.jpg",
     "product_budget": 1200,
     "is_sold_out": false,
-    "total_count": 1096,
+    "total_count": 1100,
     "effectively_sold_out": false
   },
   "551": {
@@ -1756,7 +1756,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776334300_5797.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 87,
+    "total_count": 88,
     "effectively_sold_out": false
   },
   "94": {
@@ -1916,7 +1916,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483681_6823.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 272,
+    "total_count": 273,
     "effectively_sold_out": false
   },
   "195": {
@@ -2044,7 +2044,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775906282_2829.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 361,
+    "total_count": 362,
     "effectively_sold_out": false
   },
   "169": {
@@ -2076,7 +2076,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775905889_6778.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 282,
+    "total_count": 283,
     "effectively_sold_out": false
   },
   "571": {
@@ -2092,7 +2092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793233_8921.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "567": {
@@ -2348,7 +2348,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 34,
     "effectively_sold_out": false
   },
   "131": {
@@ -2412,7 +2412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775906038_1193.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 59,
+    "total_count": 60,
     "effectively_sold_out": false
   },
   "76": {
@@ -2428,7 +2428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775906381_6493.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 113,
+    "total_count": 114,
     "effectively_sold_out": false
   },
   "422": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 107,
+    "total_count": 108,
     "effectively_sold_out": false
   },
   "572": {
@@ -2748,7 +2748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777478333_3672.jpg",
     "product_budget": 900,
     "is_sold_out": false,
-    "total_count": 779,
+    "total_count": 783,
     "effectively_sold_out": false
   },
   "534": {
@@ -3100,7 +3100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791528_3966.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 35,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "530": {
@@ -3308,7 +3308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1300,
     "is_sold_out": false,
-    "total_count": 1253,
+    "total_count": 1256,
     "effectively_sold_out": false
   },
   "404": {
@@ -3516,7 +3516,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775486131_1948.jpg",
     "product_budget": 3855,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "173": {
