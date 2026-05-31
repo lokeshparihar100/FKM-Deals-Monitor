@@ -508,7 +508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776345933_5942.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 91,
+    "total_count": 92,
     "effectively_sold_out": false
   },
   "511": {
@@ -1084,7 +1084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778733974_6009.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 400,
+    "total_count": 401,
     "effectively_sold_out": false
   },
   "295": {
@@ -1788,7 +1788,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 99,
+    "total_count": 100,
     "effectively_sold_out": false
   },
   "13": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483681_6823.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 270,
+    "total_count": 271,
     "effectively_sold_out": false
   },
   "563": {
@@ -1820,7 +1820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791077_7466.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 89,
+    "total_count": 90,
     "effectively_sold_out": false
   },
   "489": {
@@ -2492,7 +2492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 102,
+    "total_count": 103,
     "effectively_sold_out": false
   },
   "174": {
@@ -2908,7 +2908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778755770_7401.jpg",
     "product_budget": 106,
     "is_sold_out": false,
-    "total_count": 64,
+    "total_count": 65,
     "effectively_sold_out": false
   },
   "215": {
@@ -3148,7 +3148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1300,
     "is_sold_out": false,
-    "total_count": 1229,
+    "total_count": 1230,
     "effectively_sold_out": false
   },
   "404": {
@@ -3452,7 +3452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779435491_1491.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "535": {
@@ -3820,8 +3820,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775487445_3119.jpg",
     "product_budget": 35,
     "is_sold_out": false,
-    "total_count": 34,
-    "effectively_sold_out": false
+    "total_count": 35,
+    "effectively_sold_out": true
   },
   "543": {
     "name": "Silver Womens Bling Blogger Earcuffs",
@@ -4380,7 +4380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 618,
+    "total_count": 619,
     "effectively_sold_out": false
   },
   "590": {
