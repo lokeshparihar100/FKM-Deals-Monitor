@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777531205_6810.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "450": {
@@ -156,8 +156,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780243434_8016.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 11,
-    "effectively_sold_out": false
+    "total_count": 12,
+    "effectively_sold_out": true
   },
   "611": {
     "name": "Cuddle Tee ( Black )",
@@ -170,9 +170,9 @@
     "claim_link": "https://fkm.asia/4ura",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/cuddle-tee-black-mptyy0up",
     "image": "https://images.freekaamaal.com/product-images/product_1780243305_7153.jpg",
-    "product_budget": 12,
+    "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 15,
     "effectively_sold_out": true
   },
   "613": {
@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780241581_8449.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "382": {
@@ -972,7 +972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779184691_4053.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 644,
+    "total_count": 648,
     "effectively_sold_out": false
   },
   "340": {
@@ -1196,7 +1196,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776427310_2019.jpg",
     "product_budget": 2500,
     "is_sold_out": false,
-    "total_count": 224,
+    "total_count": 225,
     "effectively_sold_out": false
   },
   "55": {
@@ -1228,7 +1228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778733974_6009.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 407,
+    "total_count": 409,
     "effectively_sold_out": false
   },
   "295": {
@@ -1660,7 +1660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777478499_8348.jpg",
     "product_budget": 1200,
     "is_sold_out": false,
-    "total_count": 1105,
+    "total_count": 1110,
     "effectively_sold_out": false
   },
   "551": {
@@ -1900,7 +1900,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 105,
+    "total_count": 106,
     "effectively_sold_out": false
   },
   "13": {
@@ -1964,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791077_7466.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 95,
+    "total_count": 96,
     "effectively_sold_out": false
   },
   "187": {
@@ -2092,7 +2092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793233_8921.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "567": {
@@ -2348,7 +2348,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 35,
     "effectively_sold_out": false
   },
   "131": {
@@ -2396,7 +2396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793561_3822.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 131,
+    "total_count": 132,
     "effectively_sold_out": false
   },
   "73": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 109,
+    "total_count": 111,
     "effectively_sold_out": false
   },
   "572": {
@@ -2748,7 +2748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777478333_3672.jpg",
     "product_budget": 900,
     "is_sold_out": false,
-    "total_count": 786,
+    "total_count": 787,
     "effectively_sold_out": false
   },
   "534": {
@@ -3179,9 +3179,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/quick-easy-eyeshadow-palette-multicolor-02-18g-mpdwbggf",
     "image": "https://images.freekaamaal.com/product-images/product_1779271481_3115.jpg",
     "product_budget": 100,
-    "is_sold_out": false,
-    "total_count": 51,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 52,
+    "effectively_sold_out": true
   },
   "406": {
     "name": "Set Of 3 Alloy Gold-Plated Pearls Beaded Floral Hoop Earrings",
@@ -3308,7 +3308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1300,
     "is_sold_out": false,
-    "total_count": 1258,
+    "total_count": 1259,
     "effectively_sold_out": false
   },
   "404": {
@@ -3660,7 +3660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790589_7456.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 107,
+    "total_count": 108,
     "effectively_sold_out": false
   },
   "24": {
