@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777531205_6810.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "450": {
@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779184691_4053.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 618,
+    "total_count": 623,
     "effectively_sold_out": false
   },
   "340": {
@@ -1132,7 +1132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776341145_5442.jpg",
     "product_budget": 41,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "184": {
@@ -1532,7 +1532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777478499_8348.jpg",
     "product_budget": 1200,
     "is_sold_out": false,
-    "total_count": 1081,
+    "total_count": 1082,
     "effectively_sold_out": false
   },
   "551": {
@@ -2075,7 +2075,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/contour-bronzer-palette-shade-03-17g-mpdwnnkm",
     "image": "https://images.freekaamaal.com/product-images/product_1779272063_6684.jpg",
     "product_budget": 41,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 41,
     "effectively_sold_out": true
   },
@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776418602_7946.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 182,
+    "total_count": 183,
     "effectively_sold_out": false
   },
   "358": {
@@ -2395,9 +2395,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/ultra-professional-blush-palette-shade-01-mpdw1lnd",
     "image": "https://images.freekaamaal.com/product-images/product_1779271038_2539.jpg",
     "product_budget": 53,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 51,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "562": {
     "name": "Intimate Hair Removal Cream",
@@ -2492,7 +2492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 105,
+    "total_count": 106,
     "effectively_sold_out": false
   },
   "353": {
@@ -3036,7 +3036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779271481_3115.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "493": {
@@ -3051,9 +3051,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/anti-dust-facial-cleanser-50gm-mpdvqjc3",
     "image": "https://images.freekaamaal.com/product-images/product_1779270518_3939.jpg",
     "product_budget": 50,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 25,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "539": {
     "name": "Set Of 3 Alloy Gold-Plated Stones Studded Star Shaped Studs ",
@@ -3436,7 +3436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779435117_5635.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "540": {
@@ -4684,8 +4684,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778663306_6236.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "472": {
     "name": "Blush & Glow Blueberry Facewash ( 100g )",
