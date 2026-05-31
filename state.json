@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779184691_4053.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 584,
+    "total_count": 588,
     "effectively_sold_out": false
   },
   "340": {
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776334300_5797.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 80,
+    "total_count": 81,
     "effectively_sold_out": false
   },
   "584": {
@@ -1948,7 +1948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775906282_2829.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 353,
+    "total_count": 354,
     "effectively_sold_out": false
   },
   "280": {
@@ -3148,7 +3148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1300,
     "is_sold_out": false,
-    "total_count": 1218,
+    "total_count": 1222,
     "effectively_sold_out": false
   },
   "404": {
@@ -4044,8 +4044,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779949332_9399.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 29,
-    "effectively_sold_out": false
+    "total_count": 30,
+    "effectively_sold_out": true
   },
   "12": {
     "name": "Kitchen Degreaser 400ML Pack of 1",
@@ -4060,7 +4060,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483535_3602.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 92,
+    "total_count": 93,
     "effectively_sold_out": false
   },
   "425": {
@@ -4380,7 +4380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 610,
+    "total_count": 611,
     "effectively_sold_out": false
   },
   "590": {
