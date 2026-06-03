@@ -444,8 +444,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777048826_9284.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 49,
-    "effectively_sold_out": false
+    "total_count": 50,
+    "effectively_sold_out": true
   },
   "184": {
     "name": "Lacta Naturals Supplement ( 200g )",
