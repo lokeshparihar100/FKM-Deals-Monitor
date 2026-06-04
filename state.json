@@ -828,7 +828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780400822_3119.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 87,
+    "total_count": 89,
     "effectively_sold_out": false
   },
   "38": {
@@ -2428,8 +2428,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778755560_9801.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "587": {
     "name": "Blush & Glow Blueberry Facewash ( 100g )",
