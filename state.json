@@ -636,7 +636,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780400822_3119.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 134,
+    "total_count": 136,
     "effectively_sold_out": false
   },
   "551": {
@@ -3018,10 +3018,10 @@
     "claim_link": "https://fkm.asia/3zjj",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/organic-chia-seeds-200gm-movgc3x4",
     "image": "https://images.freekaamaal.com/product-images/product_1778156254_9369.jpg",
-    "product_budget": 24,
+    "product_budget": 30,
     "is_sold_out": false,
     "total_count": 24,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "432": {
     "name": "Organic Chia Seeds - 200gm",
