@@ -1148,7 +1148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793561_3822.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 161,
+    "total_count": 162,
     "effectively_sold_out": false
   },
   "73": {
@@ -1916,8 +1916,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778656697_4760.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 99,
-    "effectively_sold_out": false
+    "total_count": 100,
+    "effectively_sold_out": true
   },
   "532": {
     "name": "Moon Plus Round 6W Surface Downlight",
@@ -3020,7 +3020,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778156254_9369.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "432": {
