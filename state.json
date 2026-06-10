@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779878167_6373.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 37,
+    "total_count": 40,
     "effectively_sold_out": false
   },
   "544": {
@@ -204,7 +204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779878043_8894.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 37,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "87": {
@@ -508,7 +508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776341145_5442.jpg",
     "product_budget": 41,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "300": {
@@ -860,7 +860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 50,
+    "total_count": 51,
     "effectively_sold_out": false
   },
   "489": {
@@ -1324,7 +1324,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790950_1210.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 31,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "42": {
@@ -1916,7 +1916,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1500,
     "is_sold_out": false,
-    "total_count": 1405,
+    "total_count": 1408,
     "effectively_sold_out": false
   },
   "488": {
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780658046_4957.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 57,
+    "total_count": 59,
     "effectively_sold_out": false
   },
   "368": {
@@ -2268,8 +2268,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780655199_9215.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 24,
-    "effectively_sold_out": false
+    "total_count": 25,
+    "effectively_sold_out": true
   },
   "626": {
     "name": "Comfort All Night 6 Layer Extra Long Pads - 8 Pads XXXXL",
@@ -2284,7 +2284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780655166_9498.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "629": {
@@ -2524,7 +2524,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780658582_2798.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "425": {
@@ -2716,7 +2716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 739,
+    "total_count": 741,
     "effectively_sold_out": false
   },
   "590": {
