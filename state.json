@@ -252,8 +252,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776345933_5942.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 99,
-    "effectively_sold_out": false
+    "total_count": 100,
+    "effectively_sold_out": true
   },
   "96": {
     "name": "Female Only - Multivitamin - 60 Tablets ( For Women )",
@@ -1948,7 +1948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1500,
     "is_sold_out": false,
-    "total_count": 1450,
+    "total_count": 1451,
     "effectively_sold_out": false
   },
   "175": {
@@ -2092,7 +2092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775486370_2092.jpg",
     "product_budget": 661,
     "is_sold_out": false,
-    "total_count": 68,
+    "total_count": 69,
     "effectively_sold_out": false
   },
   "6": {
@@ -2556,7 +2556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781072131_3705.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "425": {
