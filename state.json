@@ -1132,7 +1132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776418602_7946.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 191,
+    "total_count": 192,
     "effectively_sold_out": false
   },
   "168": {
@@ -2012,8 +2012,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1500,
     "is_sold_out": false,
-    "total_count": 1499,
-    "effectively_sold_out": false
+    "total_count": 1500,
+    "effectively_sold_out": true
   },
   "488": {
     "name": "Kalyra Underarm Roll-On ( 50 Ml )",
@@ -2860,7 +2860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775911484_8920.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 35,
     "effectively_sold_out": false
   },
   "11": {
