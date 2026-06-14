@@ -892,7 +892,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 177,
+    "total_count": 178,
     "effectively_sold_out": false
   },
   "641": {
@@ -1900,7 +1900,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791528_3966.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 63,
+    "total_count": 65,
     "effectively_sold_out": false
   },
   "138": {
@@ -2220,8 +2220,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777449920_4007.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 84,
-    "effectively_sold_out": false
+    "total_count": 85,
+    "effectively_sold_out": true
   },
   "367": {
     "name": "Magic Foam Cleaner Spray - 460 Ml",
