@@ -140,8 +140,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779878167_6373.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 69,
-    "effectively_sold_out": false
+    "total_count": 70,
+    "effectively_sold_out": true
   },
   "544": {
     "name": "Nooky Dare Box (5 in one Box)",
@@ -1196,7 +1196,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 67,
+    "total_count": 68,
     "effectively_sold_out": false
   },
   "564": {
@@ -2908,7 +2908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 799,
+    "total_count": 800,
     "effectively_sold_out": false
   },
   "254": {
