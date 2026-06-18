@@ -716,7 +716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780400822_3119.jpg",
     "product_budget": 380,
     "is_sold_out": false,
-    "total_count": 237,
+    "total_count": 238,
     "effectively_sold_out": false
   },
   "551": {
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 186,
+    "total_count": 188,
     "effectively_sold_out": false
   },
   "353": {
@@ -1676,7 +1676,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779451283_1334.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 30,
+    "total_count": 31,
     "effectively_sold_out": false
   },
   "533": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781073469_5769.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "352": {
@@ -2428,7 +2428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790589_7456.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 190,
+    "total_count": 192,
     "effectively_sold_out": false
   },
   "537": {
@@ -2572,8 +2572,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781072514_4880.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 11,
-    "effectively_sold_out": false
+    "total_count": 12,
+    "effectively_sold_out": true
   },
   "26": {
     "name": "Kitchen Cleaner Pack of 1",
@@ -2748,7 +2748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780658582_2798.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 72,
+    "total_count": 73,
     "effectively_sold_out": false
   },
   "32": {
@@ -2844,7 +2844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781073644_5863.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "309": {
