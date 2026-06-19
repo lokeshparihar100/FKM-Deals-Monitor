@@ -924,7 +924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 238,
+    "total_count": 239,
     "effectively_sold_out": false
   },
   "563": {
@@ -1228,7 +1228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 89,
+    "total_count": 90,
     "effectively_sold_out": false
   },
   "564": {
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791211_5168.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "190": {
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790950_1210.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "572": {
@@ -2940,8 +2940,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781073347_5836.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 11,
-    "effectively_sold_out": false
+    "total_count": 12,
+    "effectively_sold_out": true
   },
   "83": {
     "name": "All Surface Cleaner Refill Pack ( 1 Litre ) ",
