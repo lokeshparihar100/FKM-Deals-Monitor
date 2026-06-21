@@ -924,7 +924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791077_7466.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 220,
+    "total_count": 221,
     "effectively_sold_out": false
   },
   "641": {
@@ -956,7 +956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 254,
+    "total_count": 255,
     "effectively_sold_out": false
   },
   "187": {
@@ -1068,7 +1068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791651_2308.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 79,
+    "total_count": 81,
     "effectively_sold_out": false
   },
   "571": {
@@ -1500,7 +1500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 208,
+    "total_count": 209,
     "effectively_sold_out": false
   },
   "353": {
@@ -1788,7 +1788,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781854165_6936.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "255": {
@@ -2044,7 +2044,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1800,
     "is_sold_out": false,
-    "total_count": 1532,
+    "total_count": 1533,
     "effectively_sold_out": false
   },
   "175": {
@@ -2316,8 +2316,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780658046_4957.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 99,
-    "effectively_sold_out": false
+    "total_count": 100,
+    "effectively_sold_out": true
   },
   "367": {
     "name": "Magic Foam Cleaner Spray - 460 Ml",
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779252686_2006.jpg",
     "product_budget": 162,
     "is_sold_out": false,
-    "total_count": 154,
+    "total_count": 155,
     "effectively_sold_out": false
   },
   "469": {
