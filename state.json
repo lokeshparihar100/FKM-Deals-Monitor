@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777308494_7716.jpg",
     "product_budget": 90,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "216": {
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 100,
+    "total_count": 101,
     "effectively_sold_out": false
   },
   "573": {
@@ -1340,7 +1340,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778150538_2613.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 132,
+    "total_count": 133,
     "effectively_sold_out": false
   },
   "137": {
@@ -1500,7 +1500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 213,
+    "total_count": 215,
     "effectively_sold_out": false
   },
   "353": {
@@ -1804,8 +1804,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776692653_9356.jpg",
     "product_budget": 41,
     "is_sold_out": false,
-    "total_count": 40,
-    "effectively_sold_out": false
+    "total_count": 41,
+    "effectively_sold_out": true
   },
   "485": {
     "name": "15W Meta Surface Light",
@@ -1980,7 +1980,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775911966_4139.jpg",
     "product_budget": 210,
     "is_sold_out": false,
-    "total_count": 123,
+    "total_count": 124,
     "effectively_sold_out": false
   },
   "644": {
@@ -2044,7 +2044,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1800,
     "is_sold_out": false,
-    "total_count": 1575,
+    "total_count": 1577,
     "effectively_sold_out": false
   },
   "175": {
@@ -3036,7 +3036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 884,
+    "total_count": 885,
     "effectively_sold_out": false
   },
   "590": {
