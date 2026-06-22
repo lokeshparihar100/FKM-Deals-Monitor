@@ -1996,7 +1996,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780921135_4628.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "646": {
@@ -2012,8 +2012,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780921510_8465.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "570": {
     "name": "Lip Brightening Balm for Dark Lips ( 10g )",
