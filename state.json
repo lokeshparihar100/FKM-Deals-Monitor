@@ -540,7 +540,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235461_7588.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "709": {
@@ -556,7 +556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235548_3466.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "710": {
@@ -588,7 +588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782129879_9731.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "712": {
@@ -684,8 +684,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235953_8144.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "170": {
     "name": "Acro Picture Light 6W, LED Wall Light",
@@ -1292,7 +1292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235365_4538.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "75": {
@@ -2380,7 +2380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1800,
     "is_sold_out": false,
-    "total_count": 1680,
+    "total_count": 1682,
     "effectively_sold_out": false
   },
   "643": {
@@ -3420,7 +3420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 910,
+    "total_count": 911,
     "effectively_sold_out": false
   },
   "590": {
@@ -3580,7 +3580,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782227433_3058.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "426": {
