@@ -796,7 +796,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776341145_5442.jpg",
     "product_budget": 41,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "184": {
@@ -1276,7 +1276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235720_4099.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "707": {
@@ -1292,8 +1292,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235365_4538.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "75": {
     "name": "Detan Body Wash - 300 Ml",
@@ -2028,7 +2028,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779451283_1334.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 34,
     "effectively_sold_out": false
   },
   "533": {
@@ -2380,7 +2380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1800,
     "is_sold_out": false,
-    "total_count": 1687,
+    "total_count": 1688,
     "effectively_sold_out": false
   },
   "643": {
@@ -3420,7 +3420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 913,
+    "total_count": 914,
     "effectively_sold_out": false
   },
   "590": {
@@ -3580,7 +3580,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782227433_3058.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "426": {
@@ -3868,7 +3868,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781003186_1870.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   }
 }
