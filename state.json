@@ -556,8 +556,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235548_3466.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "710": {
     "name": "Kids Premium Summer Cotton Pink Co-Ord Set ( Any Age )",
@@ -2380,7 +2380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1800,
     "is_sold_out": false,
-    "total_count": 1688,
+    "total_count": 1691,
     "effectively_sold_out": false
   },
   "643": {
@@ -2700,7 +2700,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779435491_1491.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "625": {
