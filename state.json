@@ -412,7 +412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782305784_6224.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "356": {
@@ -556,7 +556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235548_3466.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
     "effectively_sold_out": true
   },
   "710": {
@@ -1164,8 +1164,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782305531_2541.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "8": {
     "name": "Tap Cleaner & Limescale Remover ( 1500 Ml )",
@@ -1964,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782305405_1149.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "133": {
@@ -2364,7 +2364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775911966_4139.jpg",
     "product_budget": 210,
     "is_sold_out": false,
-    "total_count": 125,
+    "total_count": 126,
     "effectively_sold_out": false
   },
   "644": {
@@ -2524,7 +2524,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775912236_9917.jpg",
     "product_budget": 230,
     "is_sold_out": false,
-    "total_count": 140,
+    "total_count": 141,
     "effectively_sold_out": false
   },
   "532": {
