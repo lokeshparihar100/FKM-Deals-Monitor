@@ -1356,8 +1356,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235876_9415.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "567": {
     "name": "Foaming Intimate Wash for Men",
@@ -1644,7 +1644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778150538_2613.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 135,
+    "total_count": 136,
     "effectively_sold_out": false
   },
   "137": {
@@ -2108,7 +2108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781854165_6936.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "485": {
