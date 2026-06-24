@@ -588,8 +588,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782129879_9731.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 8,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "712": {
     "name": "Girl's Pink Striped Co-ord Set ( Any Age )",
@@ -1276,7 +1276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235720_4099.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "707": {
@@ -2268,7 +2268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782225928_8837.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "138": {
@@ -2380,7 +2380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1800,
     "is_sold_out": false,
-    "total_count": 1686,
+    "total_count": 1687,
     "effectively_sold_out": false
   },
   "643": {
@@ -3580,7 +3580,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782227433_3058.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "426": {
