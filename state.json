@@ -604,8 +604,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235797_1221.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "690": {
     "name": "Girls 2-Piece Outfit Set Pink ( Any Age & Size )",
@@ -1020,7 +1020,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780400822_3119.jpg",
     "product_budget": 380,
     "is_sold_out": false,
-    "total_count": 342,
+    "total_count": 343,
     "effectively_sold_out": false
   },
   "671": {
@@ -2380,7 +2380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1800,
     "is_sold_out": false,
-    "total_count": 1683,
+    "total_count": 1684,
     "effectively_sold_out": false
   },
   "643": {
