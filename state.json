@@ -556,7 +556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235548_3466.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": true
   },
   "710": {
@@ -588,8 +588,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782235461_7588.jpg",
     "product_budget": 7,
     "is_sold_out": false,
-    "total_count": 6,
-    "effectively_sold_out": false
+    "total_count": 7,
+    "effectively_sold_out": true
   },
   "712": {
     "name": "Girl's Pink Striped Co-ord Set ( Any Age )",
@@ -1516,7 +1516,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 125,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "212": {
@@ -2428,8 +2428,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781526949_5393.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "138": {
     "name": "Foot Spray - 100 Ml",
@@ -2460,7 +2460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781526428_8200.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "570": {
@@ -3372,7 +3372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781527137_6969.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "681": {
@@ -3404,7 +3404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 933,
+    "total_count": 935,
     "effectively_sold_out": false
   },
   "254": {
