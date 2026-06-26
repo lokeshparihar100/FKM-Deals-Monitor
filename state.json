@@ -748,7 +748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782476345_6988.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "771": {
@@ -1068,8 +1068,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782471269_4647.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "747": {
     "name": "Girls Party(Festive) Top Pant (Pink, Pack of 1, Any Age)",
@@ -1260,7 +1260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782477132_1329.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "670": {
@@ -3036,7 +3036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782467592_1428.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "673": {
@@ -3084,7 +3084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1800,
     "is_sold_out": false,
-    "total_count": 1760,
+    "total_count": 1762,
     "effectively_sold_out": false
   },
   "175": {
