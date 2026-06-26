@@ -396,8 +396,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782305784_6224.jpg",
     "product_budget": 7,
     "is_sold_out": false,
-    "total_count": 6,
-    "effectively_sold_out": false
+    "total_count": 7,
+    "effectively_sold_out": true
   },
   "669": {
     "name": "Bridal Glow Facial Kit For Radiant Bridal Look",
@@ -860,7 +860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782471091_9685.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "747": {
@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782471269_4647.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "717": {
@@ -940,7 +940,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776160659_9837.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "295": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782458392_6068.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "670": {
@@ -1372,7 +1372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 312,
+    "total_count": 313,
     "effectively_sold_out": false
   },
   "563": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781526588_1493.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "675": {
@@ -2716,8 +2716,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781526428_8200.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "570": {
     "name": "Lip Brightening Balm for Dark Lips ( 10g )",
@@ -2956,7 +2956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782465380_4314.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "483": {
@@ -3292,7 +3292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780658046_4957.jpg",
     "product_budget": 110,
     "is_sold_out": false,
-    "total_count": 101,
+    "total_count": 102,
     "effectively_sold_out": false
   },
   "634": {
@@ -3452,7 +3452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483535_3602.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 180,
+    "total_count": 181,
     "effectively_sold_out": false
   },
   "425": {
