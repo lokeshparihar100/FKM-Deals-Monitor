@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782475266_9271.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "702": {
@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782473964_7503.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "758": {
@@ -332,8 +332,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782474312_4104.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "179": {
     "name": "Megamite 800W Electric Room Heater",
@@ -1308,7 +1308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781002935_6161.jpg",
     "product_budget": 225,
     "is_sold_out": false,
-    "total_count": 62,
+    "total_count": 63,
     "effectively_sold_out": false
   },
   "682": {
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 319,
+    "total_count": 320,
     "effectively_sold_out": false
   },
   "563": {
@@ -1644,7 +1644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791077_7466.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 274,
+    "total_count": 275,
     "effectively_sold_out": false
   },
   "187": {
@@ -1836,7 +1836,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791651_2308.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 104,
+    "total_count": 105,
     "effectively_sold_out": false
   },
   "724": {
@@ -2188,7 +2188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778150538_2613.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 140,
+    "total_count": 141,
     "effectively_sold_out": false
   },
   "137": {
@@ -2380,7 +2380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 256,
+    "total_count": 259,
     "effectively_sold_out": false
   },
   "174": {
@@ -3468,7 +3468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790589_7456.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 266,
+    "total_count": 267,
     "effectively_sold_out": false
   },
   "626": {
