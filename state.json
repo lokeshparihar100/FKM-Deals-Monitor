@@ -1612,7 +1612,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 121,
+    "total_count": 122,
     "effectively_sold_out": false
   },
   "565": {
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 328,
+    "total_count": 329,
     "effectively_sold_out": false
   },
   "563": {
@@ -1644,7 +1644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791077_7466.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 280,
+    "total_count": 281,
     "effectively_sold_out": false
   },
   "187": {
@@ -3100,7 +3100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1800,
     "is_sold_out": false,
-    "total_count": 1790,
+    "total_count": 1793,
     "effectively_sold_out": false
   },
   "488": {
@@ -3356,7 +3356,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775486370_2092.jpg",
     "product_budget": 661,
     "is_sold_out": false,
-    "total_count": 82,
+    "total_count": 83,
     "effectively_sold_out": false
   },
   "6": {
@@ -3740,7 +3740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781073194_3526.jpg",
     "product_budget": 24,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "658": {
@@ -3756,8 +3756,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781072131_3705.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "659": {
     "name": "SPF 30 PA ++ Matte Sunblock Lotion With Broad Spectrum Protection ( 50 Ml )",
@@ -4140,7 +4140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 953,
+    "total_count": 954,
     "effectively_sold_out": false
   },
   "254": {
