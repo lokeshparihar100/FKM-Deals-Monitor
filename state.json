@@ -1116,8 +1116,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782305664_8356.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "737": {
     "name": "Baby Girls Midi/Knee Length Blue Party Dress ( Any Age )",
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782458392_6068.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "768": {
@@ -3100,7 +3100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 1800,
     "is_sold_out": false,
-    "total_count": 1793,
+    "total_count": 1794,
     "effectively_sold_out": false
   },
   "488": {
@@ -3116,7 +3116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779188019_9364.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 101,
+    "total_count": 102,
     "effectively_sold_out": false
   },
   "457": {
@@ -3420,8 +3420,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780656308_1715.jpg",
     "product_budget": 28,
     "is_sold_out": false,
-    "total_count": 27,
-    "effectively_sold_out": false
+    "total_count": 28,
+    "effectively_sold_out": true
   },
   "368": {
     "name": "Instant Stain Remover Fabric Spray - 100 Ml",
@@ -3932,8 +3932,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782226056_5989.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "772": {
     "name": "Rose Essential Oil ( 30 Ml )",
@@ -4140,7 +4140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 954,
+    "total_count": 955,
     "effectively_sold_out": false
   },
   "254": {
