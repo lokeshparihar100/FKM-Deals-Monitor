@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777563119_7285.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "705": {
@@ -28,7 +28,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777556143_1989.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "706": {
@@ -44,7 +44,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777532606_8547.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "449": {
@@ -108,7 +108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777531205_6810.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "450": {
@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777530968_2000.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "688": {
@@ -220,8 +220,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782474972_8369.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "752": {
     "name": "Kids 4 Printed Bamboo T-shirt ( Pack Of 4, Any Age )",
@@ -364,7 +364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777532745_5153.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "583": {
@@ -1372,7 +1372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782476011_5056.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "355": {
@@ -1612,7 +1612,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 123,
+    "total_count": 124,
     "effectively_sold_out": false
   },
   "565": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 76,
+    "total_count": 80,
     "effectively_sold_out": false
   },
   "711": {
@@ -1852,7 +1852,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 77,
+    "total_count": 80,
     "effectively_sold_out": false
   },
   "369": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 125,
     "is_sold_out": false,
-    "total_count": 31,
+    "total_count": 38,
     "effectively_sold_out": false
   },
   "746": {
@@ -2300,7 +2300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 77,
+    "total_count": 86,
     "effectively_sold_out": false
   },
   "353": {
@@ -2364,7 +2364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 267,
+    "total_count": 268,
     "effectively_sold_out": false
   },
   "572": {
@@ -2460,7 +2460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782475752_5114.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "761": {
@@ -2748,8 +2748,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781854165_6936.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "485": {
     "name": "15W Meta Surface Light",
@@ -2956,7 +2956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791528_3966.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 109,
+    "total_count": 110,
     "effectively_sold_out": false
   },
   "696": {
@@ -2972,7 +2972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782225928_8837.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "676": {
@@ -3004,7 +3004,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775911966_4139.jpg",
     "product_budget": 210,
     "is_sold_out": false,
-    "total_count": 132,
+    "total_count": 133,
     "effectively_sold_out": false
   },
   "138": {
@@ -3116,7 +3116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779188019_9364.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 103,
+    "total_count": 105,
     "effectively_sold_out": false
   },
   "457": {
@@ -3228,7 +3228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782465223_3805.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "455": {
@@ -3276,8 +3276,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782464818_6991.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 7,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "728": {
     "name": "Leather Card Holder | Customized Gift ( Any Colour )",
@@ -3292,7 +3292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782460977_6848.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "483": {
@@ -3388,7 +3388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775486508_3750.jpg",
     "product_budget": 84,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "402": {
@@ -3948,7 +3948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782478389_2132.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "694": {
@@ -3996,7 +3996,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 54,
+    "total_count": 55,
     "effectively_sold_out": false
   },
   "657": {
@@ -4044,7 +4044,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782478506_1967.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "665": {
@@ -4140,7 +4140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 964,
+    "total_count": 965,
     "effectively_sold_out": false
   },
   "254": {
@@ -4236,8 +4236,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782366810_7737.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "426": {
     "name": "Premium Dried Kiwi - 200gm",
