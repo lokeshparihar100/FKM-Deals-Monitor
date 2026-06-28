@@ -988,8 +988,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782475883_2110.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "701": {
     "name": "Magnesium Supplement for Deep Sleep & Recovery ( 20 Veg Capsules )",
