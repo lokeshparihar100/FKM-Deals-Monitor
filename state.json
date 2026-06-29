@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782471672_6615.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "744": {
@@ -1964,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782470443_3236.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "746": {
@@ -1996,7 +1996,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782471947_9206.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "750": {
@@ -2412,7 +2412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782714093_9179.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "174": {
@@ -3404,8 +3404,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782460977_6848.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "733": {
     "name": "Vegan Leather Pen Holder with Golden Name Print ( Any Colour )",
