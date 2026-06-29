@@ -892,8 +892,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782470725_3305.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "714": {
     "name": "Cotton Shirt & Pant Co-Ord Set ( Rust Colour Only )",
@@ -1852,7 +1852,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 110,
+    "total_count": 111,
     "effectively_sold_out": false
   },
   "132": {
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 1832,
+    "total_count": 1836,
     "effectively_sold_out": false
   },
   "488": {
