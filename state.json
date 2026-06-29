@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782471672_6615.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "744": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 96,
+    "total_count": 97,
     "effectively_sold_out": false
   },
   "711": {
@@ -1820,7 +1820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791651_2308.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 113,
+    "total_count": 114,
     "effectively_sold_out": false
   },
   "571": {
@@ -1852,7 +1852,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 104,
+    "total_count": 105,
     "effectively_sold_out": false
   },
   "132": {
@@ -2492,8 +2492,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782475752_5114.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "534": {
     "name": "15W Meta Surface Light",
@@ -2540,8 +2540,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782475654_5753.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "784": {
     "name": "250ml Stainless Steel Baby Feeding Bottle (6m+) with 2 Extra Silicone Nipples",
@@ -2556,7 +2556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782714969_6431.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "715": {
@@ -3644,7 +3644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780656308_1715.jpg",
     "product_budget": 28,
     "is_sold_out": false,
-    "total_count": 28,
+    "total_count": 29,
     "effectively_sold_out": true
   },
   "684": {
