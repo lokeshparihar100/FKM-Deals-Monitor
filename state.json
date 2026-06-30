@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782820773_9204.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "703": {
@@ -1964,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 127,
+    "total_count": 128,
     "effectively_sold_out": false
   },
   "132": {
@@ -2428,8 +2428,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 129,
-    "effectively_sold_out": false
+    "total_count": 130,
+    "effectively_sold_out": true
   },
   "353": {
     "name": "Organic Honey 500gm",
@@ -3868,7 +3868,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779435491_1491.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "535": {
@@ -4620,7 +4620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778657084_3558.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 101,
+    "total_count": 102,
     "effectively_sold_out": false
   },
   "258": {
