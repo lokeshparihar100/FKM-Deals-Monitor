@@ -107,9 +107,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/testosterone-support-for-men-60-capsules-mqqu1ji9",
     "image": "https://images.freekaamaal.com/product-images/product_1777531205_6810.jpg",
     "product_budget": 100,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 28,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "760": {
     "name": "Unisex Kids Printed T-shirt with Shorts Heart, Pizza & Leaf ( Pack Of 3, Any Age )",
@@ -156,7 +156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777530968_2000.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "688": {
@@ -1148,8 +1148,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782820437_8099.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "789": {
     "name": "Mamypoko Pants Premium Diapers ( 70 Counts, Size - M )",
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791077_7466.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 314,
+    "total_count": 315,
     "effectively_sold_out": false
   },
   "187": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 114,
+    "total_count": 115,
     "effectively_sold_out": false
   },
   "711": {
@@ -2444,7 +2444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 298,
+    "total_count": 299,
     "effectively_sold_out": false
   },
   "353": {
@@ -2956,7 +2956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915511_2320.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 99,
+    "total_count": 100,
     "effectively_sold_out": false
   },
   "399": {
@@ -3196,7 +3196,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791528_3966.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 128,
+    "total_count": 129,
     "effectively_sold_out": false
   },
   "781": {
@@ -3324,7 +3324,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 1943,
+    "total_count": 1946,
     "effectively_sold_out": false
   },
   "175": {
