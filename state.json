@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777563119_7285.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 45,
+    "total_count": 46,
     "effectively_sold_out": false
   },
   "705": {
@@ -28,7 +28,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777556143_1989.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 35,
     "effectively_sold_out": false
   },
   "706": {
@@ -44,7 +44,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777532606_8547.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "449": {
@@ -76,7 +76,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777531205_6810.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "759": {
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782458392_6068.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 51,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "768": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 101,
+    "total_count": 103,
     "effectively_sold_out": false
   },
   "711": {
@@ -1852,7 +1852,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 113,
+    "total_count": 116,
     "effectively_sold_out": false
   },
   "369": {
@@ -2012,7 +2012,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782472063_3266.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "168": {
@@ -2268,7 +2268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778150538_2613.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 101,
+    "total_count": 102,
     "effectively_sold_out": false
   },
   "782": {
@@ -2284,7 +2284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782714521_3244.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "562": {
@@ -2316,7 +2316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 115,
+    "total_count": 118,
     "effectively_sold_out": false
   },
   "569": {
@@ -2556,7 +2556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782714969_6431.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "534": {
@@ -2844,8 +2844,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780901429_4021.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 47,
-    "effectively_sold_out": false
+    "total_count": 50,
+    "effectively_sold_out": true
   },
   "642": {
     "name": "Anti-Acne Soap 75g ( Pack Of 2 )",
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 1864,
+    "total_count": 1874,
     "effectively_sold_out": false
   },
   "488": {
@@ -3836,7 +3836,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781072514_4880.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "26": {
@@ -3868,7 +3868,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782478627_1892.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "680": {
@@ -3900,7 +3900,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781072131_3705.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": true
   },
   "664": {
@@ -3932,7 +3932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483535_3602.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 206,
+    "total_count": 208,
     "effectively_sold_out": false
   },
   "659": {
@@ -4076,7 +4076,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782465523_7099.jpg",
     "product_budget": 11,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "667": {
@@ -4092,7 +4092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781073644_5863.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "309": {
@@ -4140,7 +4140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782478753_2568.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "697": {
@@ -4220,7 +4220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782478506_1967.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "665": {
@@ -4348,7 +4348,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 993,
+    "total_count": 996,
     "effectively_sold_out": false
   },
   "722": {
@@ -4364,8 +4364,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782367113_7158.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "254": {
     "name": "Lemon Grass Air Freshener Spray ( 200 Ml )",
@@ -4428,7 +4428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782227433_3058.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 30,
+    "total_count": 31,
     "effectively_sold_out": false
   },
   "660": {
