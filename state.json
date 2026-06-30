@@ -1228,7 +1228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782810928_4021.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "300": {
@@ -2396,7 +2396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 289,
+    "total_count": 290,
     "effectively_sold_out": false
   },
   "572": {
@@ -3548,7 +3548,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775486131_1948.jpg",
     "product_budget": 3855,
     "is_sold_out": false,
-    "total_count": 82,
+    "total_count": 83,
     "effectively_sold_out": false
   },
   "625": {
@@ -4108,8 +4108,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781073644_5863.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 11,
-    "effectively_sold_out": false
+    "total_count": 12,
+    "effectively_sold_out": true
   },
   "309": {
     "name": "Halo 10W Slim Round LED Ceiling Downlight ( Pack Of 1 )",
