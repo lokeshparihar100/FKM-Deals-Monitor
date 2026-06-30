@@ -11,9 +11,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/fierce-combo-for-him-collagen-biotin-supplement-bundle-mr0lgrcg",
     "image": "https://images.freekaamaal.com/product-images/product_1782820773_9204.jpg",
     "product_budget": 10,
-    "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "703": {
     "name": "Alpha Testosterone Support for Men ( 120 Capsules )",
@@ -28,7 +28,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777563119_7285.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 60,
     "effectively_sold_out": false
   },
   "705": {
@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782820585_5947.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "753": {
@@ -396,7 +396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777532745_5153.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 35,
     "effectively_sold_out": false
   },
   "296": {
@@ -1148,7 +1148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782820437_8099.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "789": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 362,
+    "total_count": 363,
     "effectively_sold_out": false
   },
   "641": {
@@ -1948,8 +1948,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 129,
-    "effectively_sold_out": false
+    "total_count": 130,
+    "effectively_sold_out": true
   },
   "132": {
     "name": "Bacne Body Wash - 300 Ml",
@@ -2108,7 +2108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776418602_7946.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 207,
+    "total_count": 208,
     "effectively_sold_out": false
   },
   "358": {
@@ -2155,9 +2155,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/100-organic-cotton-tampon-super-plus-tampons-mq6jevfe",
     "image": "https://images.freekaamaal.com/product-images/product_1781003309_4687.jpg",
     "product_budget": 50,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 23,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "561": {
     "name": "4% AHA & BHA Brightening Under Arm Roll-On",
@@ -2204,7 +2204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793561_3822.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 207,
+    "total_count": 208,
     "effectively_sold_out": false
   },
   "190": {
@@ -2683,9 +2683,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/good-sleep-curative-oil-20-ml-mq7ozmhi",
     "image": "https://images.freekaamaal.com/product-images/product_1781073083_2712.jpg",
     "product_budget": 15,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 3,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "133": {
     "name": "Underarm Roll On ( 50 Ml )",
@@ -3308,7 +3308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793078_6425.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 82,
+    "total_count": 83,
     "effectively_sold_out": false
   },
   "10": {
@@ -3324,7 +3324,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 1932,
+    "total_count": 1934,
     "effectively_sold_out": false
   },
   "175": {
@@ -3931,9 +3931,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/activated-bamboo-charcoal-shampoo-200-ml-mq7onf34",
     "image": "https://images.freekaamaal.com/product-images/product_1781072514_4880.jpg",
     "product_budget": 15,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 14,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "26": {
     "name": "Kitchen Cleaner Pack of 1",
@@ -3995,7 +3995,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/henna-100-free-of-ppd-parabens-hair-color-200gm-mq7p1x52",
     "image": "https://images.freekaamaal.com/product-images/product_1781073194_3526.jpg",
     "product_budget": 24,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 26,
     "effectively_sold_out": true
   },
@@ -4027,9 +4027,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/spf-30-pa-matte-sunblock-lotion-with-broad-spectrum-protection-50-ml-mq7ohjbl",
     "image": "https://images.freekaamaal.com/product-images/product_1781072239_9336.jpg",
     "product_budget": 15,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 5,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "658": {
     "name": "3 in 1 Jasmine Blossom Body Wash ( 220 Ml )",
@@ -4043,7 +4043,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/3-in-1-jasmine-blossom-body-wash-220-ml-mq7of8xd",
     "image": "https://images.freekaamaal.com/product-images/product_1781072131_3705.jpg",
     "product_budget": 15,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 17,
     "effectively_sold_out": true
   },
@@ -4315,7 +4315,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/lavender-face-wash-for-dry-skin-100g-mq7occtm",
     "image": "https://images.freekaamaal.com/product-images/product_1781071996_7107.jpg",
     "product_budget": 15,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 15,
     "effectively_sold_out": true
   },
@@ -4539,7 +4539,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/cold-pressed-coconut-oil-100-ml-mq7okops",
     "image": "https://images.freekaamaal.com/product-images/product_1781072380_2660.jpg",
     "product_budget": 15,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 18,
     "effectively_sold_out": true
   },
@@ -4604,7 +4604,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778657084_3558.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 102,
+    "total_count": 103,
     "effectively_sold_out": false
   },
   "258": {
