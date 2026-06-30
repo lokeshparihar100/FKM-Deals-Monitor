@@ -27,9 +27,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/alpha-testosterone-support-for-men-120-capsules-mqqu3l9s",
     "image": "https://images.freekaamaal.com/product-images/product_1777563119_7285.jpg",
     "product_budget": 100,
-    "is_sold_out": false,
-    "total_count": 60,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 62,
+    "effectively_sold_out": true
   },
   "705": {
     "name": "Veg Collagen Powder for Women & Men",
@@ -60,7 +60,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777532606_8547.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "449": {
@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782820585_5947.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "753": {
@@ -396,7 +396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777532745_5153.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 35,
+    "total_count": 37,
     "effectively_sold_out": false
   },
   "296": {
@@ -1035,9 +1035,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/magnesium-supplement-for-deep-sleep-recovery-20-veg-capsules-mqqtzy8n",
     "image": "https://images.freekaamaal.com/product-images/product_1777531070_8925.jpg",
     "product_budget": 100,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 16,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "414": {
     "name": "Vitamin D3 (600 IU) Tablets with K2 MK7 ( 120 Tablets )",
@@ -1148,7 +1148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782820437_8099.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "789": {
@@ -1596,7 +1596,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782477601_7132.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "716": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 363,
+    "total_count": 365,
     "effectively_sold_out": false
   },
   "641": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 111,
+    "total_count": 113,
     "effectively_sold_out": false
   },
   "711": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791651_2308.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 119,
+    "total_count": 120,
     "effectively_sold_out": false
   },
   "724": {
@@ -2444,7 +2444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 295,
+    "total_count": 298,
     "effectively_sold_out": false
   },
   "353": {
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775911966_4139.jpg",
     "product_budget": 210,
     "is_sold_out": false,
-    "total_count": 138,
+    "total_count": 139,
     "effectively_sold_out": false
   },
   "138": {
@@ -3324,7 +3324,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 1934,
+    "total_count": 1938,
     "effectively_sold_out": false
   },
   "175": {
@@ -4412,8 +4412,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781527137_6969.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 11,
-    "effectively_sold_out": false
+    "total_count": 12,
+    "effectively_sold_out": true
   },
   "681": {
     "name": "Blush & Glow Strawberry Facewash ( 100g )",
