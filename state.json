@@ -44,7 +44,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777556143_1989.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 41,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "706": {
@@ -1148,7 +1148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782820437_8099.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "789": {
@@ -1292,8 +1292,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782810928_4021.jpg",
     "product_budget": 22,
     "is_sold_out": false,
-    "total_count": 20,
-    "effectively_sold_out": false
+    "total_count": 22,
+    "effectively_sold_out": true
   },
   "305": {
     "name": "Digesti Care+ Juice - Provides Relief From Acidity & Bloating ( 1 Litre )",
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 356,
+    "total_count": 358,
     "effectively_sold_out": false
   },
   "641": {
@@ -1820,7 +1820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 109,
+    "total_count": 110,
     "effectively_sold_out": false
   },
   "711": {
@@ -1964,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 123,
+    "total_count": 124,
     "effectively_sold_out": false
   },
   "132": {
@@ -2204,7 +2204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791211_5168.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 79,
+    "total_count": 80,
     "effectively_sold_out": false
   },
   "573": {
@@ -2220,7 +2220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793561_3822.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 206,
+    "total_count": 207,
     "effectively_sold_out": false
   },
   "131": {
@@ -3340,7 +3340,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 1906,
+    "total_count": 1908,
     "effectively_sold_out": false
   },
   "175": {
@@ -4444,7 +4444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781779426_9114.jpg",
     "product_budget": 125,
     "is_sold_out": false,
-    "total_count": 79,
+    "total_count": 80,
     "effectively_sold_out": false
   },
   "11": {
