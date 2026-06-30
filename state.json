@@ -28,8 +28,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777556143_1989.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 39,
-    "effectively_sold_out": false
+    "total_count": 40,
+    "effectively_sold_out": true
   },
   "706": {
     "name": "Marine Collagen Powder for Women & Men ( 300g )",
@@ -1132,7 +1132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782801169_7449.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "737": {
@@ -2332,7 +2332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 286,
+    "total_count": 287,
     "effectively_sold_out": false
   },
   "572": {
@@ -2348,7 +2348,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793384_1502.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 172,
+    "total_count": 173,
     "effectively_sold_out": false
   },
   "74": {
@@ -2924,7 +2924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782713771_3327.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "306": {
@@ -3004,7 +3004,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782478900_1055.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "779": {
@@ -3100,7 +3100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791528_3966.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 121,
+    "total_count": 122,
     "effectively_sold_out": false
   },
   "781": {
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 1890,
+    "total_count": 1891,
     "effectively_sold_out": false
   },
   "488": {
@@ -4204,7 +4204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 57,
+    "total_count": 58,
     "effectively_sold_out": false
   },
   "773": {
@@ -4348,7 +4348,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775483299_8762.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 998,
+    "total_count": 999,
     "effectively_sold_out": false
   },
   "722": {
