@@ -44,8 +44,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777532606_8547.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 39,
-    "effectively_sold_out": false
+    "total_count": 40,
+    "effectively_sold_out": true
   },
   "449": {
     "name": "Power Dental Water Flosser - 300ml ( Grey )",
@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777530968_2000.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 35,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "688": {
@@ -364,7 +364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777532745_5153.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 28,
     "effectively_sold_out": false
   },
   "296": {
@@ -1132,7 +1132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782801169_7449.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "737": {
@@ -1468,7 +1468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775922751_9805.jpg",
     "product_budget": 90,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "348": {
@@ -1612,7 +1612,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 350,
+    "total_count": 351,
     "effectively_sold_out": false
   },
   "563": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 125,
     "is_sold_out": false,
-    "total_count": 55,
+    "total_count": 56,
     "effectively_sold_out": false
   },
   "212": {
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775482792_4115.jpg",
     "product_budget": 2000,
     "is_sold_out": false,
-    "total_count": 1891,
+    "total_count": 1892,
     "effectively_sold_out": false
   },
   "488": {
@@ -3372,7 +3372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782464637_4424.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "455": {
