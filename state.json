@@ -1212,8 +1212,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782890617_1317.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "73": {
     "name": "Anti Chafe Cream - 50 Ml",
@@ -1484,7 +1484,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782714969_6431.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "761": {
@@ -2396,7 +2396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776767012_2490.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "257": {
@@ -2412,7 +2412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776766909_8889.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   }
 }
