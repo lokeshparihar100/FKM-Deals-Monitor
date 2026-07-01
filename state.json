@@ -1420,8 +1420,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782890850_8489.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "763": {
     "name": "Kids Bamboo T-shirt Go Fast ( Pack Of 1, Any Age )",
@@ -1772,7 +1772,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782225928_8837.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "781": {
@@ -2236,7 +2236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782478753_2568.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "697": {
