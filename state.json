@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 133,
     "is_sold_out": false,
-    "total_count": 133,
+    "total_count": 134,
     "effectively_sold_out": true
   },
   "132": {
@@ -1308,8 +1308,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782890617_1317.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "137": {
     "name": "Kojic Soap - 75g ( Pack Of 2 )",
@@ -1388,8 +1388,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 130,
-    "effectively_sold_out": true
+    "total_count": 1,
+    "effectively_sold_out": false
   },
   "569": {
     "name": "Dark Spots & Acne Clearing Soap ( 2 x 75 g )",
