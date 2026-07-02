@@ -588,7 +588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782891121_3778.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "796": {
@@ -796,7 +796,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 140,
+    "total_count": 141,
     "effectively_sold_out": false
   },
   "563": {
@@ -924,7 +924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782891004_4782.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "707": {
@@ -1052,8 +1052,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 133,
     "is_sold_out": false,
-    "total_count": 131,
-    "effectively_sold_out": false
+    "total_count": 133,
+    "effectively_sold_out": true
   },
   "132": {
     "name": "Bacne Body Wash - 300 Ml",
@@ -1308,7 +1308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782890617_1317.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "137": {
@@ -1484,7 +1484,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782890850_8489.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "794": {
@@ -1884,7 +1884,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775911966_4139.jpg",
     "product_budget": 210,
     "is_sold_out": false,
-    "total_count": 139,
+    "total_count": 140,
     "effectively_sold_out": false
   },
   "676": {
