@@ -700,8 +700,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782477601_7132.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "716": {
     "name": "Extra Soft Muslin Jhabla Cloth for Baby (Pack of 4, Any Age)",
@@ -1356,7 +1356,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793561_3822.jpg",
     "product_budget": 400,
     "is_sold_out": true,
-    "total_count": 209,
+    "total_count": 210,
     "effectively_sold_out": true
   },
   "452": {
