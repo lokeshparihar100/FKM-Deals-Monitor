@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779451283_1334.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "642": {
@@ -2379,9 +2379,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/stretch-marks-cream-for-women-50gm-mquxzq6r",
     "image": "https://images.freekaamaal.com/product-images/product_1782479009_2349.jpg",
     "product_budget": 18,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 17,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "30": {
     "name": "Make Up & Ink Stain Remover",
