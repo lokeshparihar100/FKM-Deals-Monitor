@@ -11,9 +11,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/alpha-testosterone-support-for-men-120-capsules-mqqu3l9s",
     "image": "https://images.freekaamaal.com/product-images/product_1783242700_2704.jpg",
     "product_budget": 105,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 68,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "706": {
     "name": "Marine Collagen Powder for Women & Men ( 300g )",
@@ -27,9 +27,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/marine-collagen-powder-for-women-men-300g-mqqv43d2",
     "image": "https://images.freekaamaal.com/product-images/product_1777532606_8547.jpg",
     "product_budget": 65,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 54,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "449": {
     "name": "Power Dental Water Flosser - 300ml ( Grey )",
@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 160,
+    "total_count": 161,
     "effectively_sold_out": false
   },
   "187": {
