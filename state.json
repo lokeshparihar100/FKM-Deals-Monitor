@@ -1004,8 +1004,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658524_4214.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 49,
-    "effectively_sold_out": false
+    "total_count": 50,
+    "effectively_sold_out": true
   },
   "788": {
     "name": "Mamypoko Pants Premium Diapers ( 56 Counts, Size - S )",
@@ -1100,7 +1100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 530,
     "is_sold_out": false,
-    "total_count": 406,
+    "total_count": 407,
     "effectively_sold_out": false
   },
   "187": {
@@ -1404,7 +1404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782368895_8744.jpg",
     "product_budget": 125,
     "is_sold_out": false,
-    "total_count": 102,
+    "total_count": 103,
     "effectively_sold_out": false
   },
   "746": {
@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783601820_5514.jpg",
     "product_budget": 146,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "562": {
