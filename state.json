@@ -2508,7 +2508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783696099_2445.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "735": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783057945_8716.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "730": {
@@ -3004,8 +3004,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775487359_9641.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "699": {
     "name": "Zing-2-In- 1 Ultra thin kit | Intimacy spray+ Condoms",
