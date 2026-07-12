@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783601820_5514.jpg",
     "product_budget": 146,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "562": {
@@ -2508,8 +2508,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783696099_2445.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 13,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "735": {
     "name": "Infants Stainless Steel BPA Free Feeding Bottles 250Ml",
@@ -3100,7 +3100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783602062_8025.jpg",
     "product_budget": 159,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   }
 }
