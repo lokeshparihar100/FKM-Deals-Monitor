@@ -876,7 +876,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783415931_8728.jpg",
     "product_budget": 64,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "765": {
@@ -1100,8 +1100,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783409493_3917.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "641": {
     "name": "De-Tan & Detox Body Wash (300 ml)",
@@ -2396,7 +2396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658383_7542.jpg",
     "product_budget": 210,
     "is_sold_out": false,
-    "total_count": 145,
+    "total_count": 146,
     "effectively_sold_out": false
   },
   "88": {
@@ -2812,7 +2812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783417258_9910.jpg",
     "product_budget": 140,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "34": {
