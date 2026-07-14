@@ -1788,7 +1788,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783601820_5514.jpg",
     "product_budget": 146,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 59,
     "effectively_sold_out": false
   },
   "782": {
@@ -2875,9 +2875,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/eyebrow-and-eyelash-growth-serum-30-ml-mqqrhaoc",
     "image": "https://images.freekaamaal.com/product-images/product_1782226212_1633.jpg",
     "product_budget": 20,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 15,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "807": {
     "name": "No Chill Lime Chilli Seed Mix | 11g Protein | Pack of 5",
@@ -2924,7 +2924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783417258_9910.jpg",
     "product_budget": 140,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "34": {
