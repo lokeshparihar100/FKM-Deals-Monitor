@@ -1900,7 +1900,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775906154_7638.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 74,
+    "total_count": 75,
     "effectively_sold_out": false
   },
   "780": {
@@ -2204,8 +2204,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775487198_9771.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 44,
-    "effectively_sold_out": false
+    "total_count": 45,
+    "effectively_sold_out": true
   },
   "776": {
     "name": "Ayurvedic Oil For Women with Ayurvedic Herbs ( 30 Ml )",
@@ -2572,7 +2572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658023_9312.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 154,
+    "total_count": 155,
     "effectively_sold_out": false
   },
   "804": {
