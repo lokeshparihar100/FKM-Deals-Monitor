@@ -524,7 +524,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784015350_8324.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "188": {
@@ -2620,7 +2620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783928453_1552.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 22,
+    "total_count": 23,
     "effectively_sold_out": false
   },
   "774": {
@@ -2700,8 +2700,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1781779426_9114.jpg",
     "product_budget": 125,
     "is_sold_out": false,
-    "total_count": 124,
-    "effectively_sold_out": false
+    "total_count": 125,
+    "effectively_sold_out": true
   },
   "829": {
     "name": "Disposable Body Hair Removal Shaving Razor - 5 Razor",
