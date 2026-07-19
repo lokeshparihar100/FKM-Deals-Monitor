@@ -268,7 +268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783417382_5822.jpg",
     "product_budget": 36,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "844": {
@@ -2764,8 +2764,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782225928_8837.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "138": {
     "name": "Foot Spray - 100 Ml",
