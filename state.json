@@ -204,7 +204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783417382_5822.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "870": {
@@ -220,8 +220,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783417000_5614.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "824": {
     "name": "Kaolin Clay Instant Face Lifting Mask with Niacinamide & Turmeric & Vitamin B3 ( 118g )",
@@ -396,7 +396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775891746_9408.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 64,
+    "total_count": 65,
     "effectively_sold_out": false
   },
   "805": {
@@ -3404,7 +3404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778657084_3558.jpg",
     "product_budget": 170,
     "is_sold_out": false,
-    "total_count": 155,
+    "total_count": 156,
     "effectively_sold_out": false
   },
   "846": {
