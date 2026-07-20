@@ -1452,7 +1452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784533762_8351.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "565": {
@@ -1500,7 +1500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 248,
+    "total_count": 249,
     "effectively_sold_out": false
   },
   "818": {
@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778150538_2613.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 218,
+    "total_count": 219,
     "effectively_sold_out": false
   },
   "421": {
@@ -2300,8 +2300,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 399,
-    "effectively_sold_out": false
+    "total_count": 400,
+    "effectively_sold_out": true
   },
   "74": {
     "name": "Hair Removal Cream - 100 Ml",
@@ -3356,7 +3356,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784185192_3753.jpg",
     "product_budget": 225,
     "is_sold_out": false,
-    "total_count": 68,
+    "total_count": 69,
     "effectively_sold_out": false
   },
   "698": {
