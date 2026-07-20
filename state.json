@@ -1420,7 +1420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783416466_5989.jpg",
     "product_budget": 64,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "820": {
@@ -2796,7 +2796,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775911966_4139.jpg",
     "product_budget": 210,
     "is_sold_out": false,
-    "total_count": 161,
+    "total_count": 162,
     "effectively_sold_out": false
   },
   "736": {
@@ -3226,10 +3226,10 @@
     "claim_link": "https://fkm.asia/4v7g",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/disposable-body-hair-removal-shaving-razor-5-razor-mrdipu5d",
     "image": "https://images.freekaamaal.com/product-images/product_1783602210_2322.jpg",
-    "product_budget": 4,
+    "product_budget": 10,
     "is_sold_out": false,
     "total_count": 4,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "775": {
     "name": "Acne Marks Removal Cream ( 20g )",
@@ -3290,10 +3290,10 @@
     "claim_link": "https://fkm.asia/4v7g",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/disposable-body-hair-removal-shaving-razor-5-razor-mrnewbcr",
     "image": "https://images.freekaamaal.com/product-images/product_1784200455_7240.jpg",
-    "product_budget": 5,
+    "product_budget": 10,
     "is_sold_out": false,
     "total_count": 5,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "822": {
     "name": "Korean Hydrocolloid Overnight Acne Pimple Patch ( 36 Patches )",
