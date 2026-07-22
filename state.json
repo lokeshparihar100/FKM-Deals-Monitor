@@ -1004,7 +1004,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784687717_1073.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "861": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775891946_3692.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 167,
+    "total_count": 168,
     "effectively_sold_out": false
   },
   "864": {
@@ -1532,7 +1532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 530,
     "is_sold_out": false,
-    "total_count": 509,
+    "total_count": 510,
     "effectively_sold_out": false
   },
   "818": {
@@ -2219,9 +2219,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/becalm-facewash-80-ml-pack-of-1-movd0p8q",
     "image": "https://images.freekaamaal.com/product-images/product_1778150538_2613.jpg",
     "product_budget": 300,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 144,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "826": {
     "name": "Hair Removal Spray 200ml",
