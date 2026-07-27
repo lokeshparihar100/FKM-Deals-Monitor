@@ -972,7 +972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784687717_1073.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 78,
+    "total_count": 79,
     "effectively_sold_out": false
   },
   "861": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777320028_5672.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 55,
+    "total_count": 56,
     "effectively_sold_out": false
   },
   "908": {
@@ -3388,8 +3388,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778657084_3558.jpg",
     "product_budget": 170,
     "is_sold_out": false,
-    "total_count": 169,
-    "effectively_sold_out": false
+    "total_count": 170,
+    "effectively_sold_out": true
   },
   "910": {
     "name": "Nooky Flow-2-In- 1 Ultra thin Condom kit | Natural lube + Condoms Condom (2 Sheets)",
@@ -3404,7 +3404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785138583_8389.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "846": {
