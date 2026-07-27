@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784687717_1073.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 85,
+    "total_count": 86,
     "effectively_sold_out": false
   },
   "861": {
@@ -1212,7 +1212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783416143_8445.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 61,
+    "total_count": 62,
     "effectively_sold_out": false
   },
   "888": {
@@ -1452,7 +1452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783416466_5989.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 66,
+    "total_count": 67,
     "effectively_sold_out": false
   },
   "187": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726675_8122.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "908": {
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785147155_8906.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "781": {
@@ -3292,8 +3292,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784040186_2772.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 54,
-    "effectively_sold_out": false
+    "total_count": 55,
+    "effectively_sold_out": true
   },
   "899": {
     "name": "Khari Foods Afghan Black Raisins - 200g",
