@@ -218,10 +218,10 @@
     "claim_link": "https://fkm.asia/4v6t",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/uni-protect-5x-ceramide-spf-50-pa-sunscreen-50-ml-mragpkio",
     "image": "https://images.freekaamaal.com/product-images/product_1783417382_5822.jpg",
-    "product_budget": 36,
+    "product_budget": 41,
     "is_sold_out": false,
     "total_count": 36,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "844": {
     "name": "6-in-1 Multipurpose Trimmer & Epilator with 1 Year Warranty",
@@ -1067,9 +1067,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/10-niacinamide-face-serum-30-ml-mrouyzqh",
     "image": "https://images.freekaamaal.com/product-images/product_1783416320_8282.jpg",
     "product_budget": 25,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 16,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "863": {
     "name": "Assorted Nut Mix | 5 Flavours, 2 Each | Pack of 10 (330g)",
@@ -1418,10 +1418,10 @@
     "claim_link": "https://fkm.asia/4v6o",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-face-serum-30-ml-mrafxywb",
     "image": "https://images.freekaamaal.com/product-images/product_1783416466_5989.jpg",
-    "product_budget": 64,
+    "product_budget": 70,
     "is_sold_out": false,
     "total_count": 64,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "641": {
     "name": "De-Tan & Detox Body Wash (300 ml)",
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784098162_2987.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 127,
+    "total_count": 128,
     "effectively_sold_out": false
   },
   "750": {
@@ -3260,7 +3260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784040186_2772.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 51,
+    "total_count": 52,
     "effectively_sold_out": false
   },
   "899": {
