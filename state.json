@@ -1036,7 +1036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726349_9862.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "903": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726066_5780.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "904": {
@@ -1068,7 +1068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726220_8278.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "751": {
@@ -1356,7 +1356,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658524_4214.jpg",
     "product_budget": 110,
     "is_sold_out": false,
-    "total_count": 69,
+    "total_count": 70,
     "effectively_sold_out": false
   },
   "839": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726675_8122.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "908": {
@@ -1948,7 +1948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778150538_2613.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 256,
+    "total_count": 257,
     "effectively_sold_out": false
   },
   "137": {
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785147155_8906.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "781": {
@@ -2860,8 +2860,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658023_9312.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 199,
-    "effectively_sold_out": false
+    "total_count": 200,
+    "effectively_sold_out": true
   },
   "804": {
     "name": "Ethiek Ink & Pen Mark Stain Remover Spray 75ml",
@@ -3436,7 +3436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785138583_8389.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "846": {
