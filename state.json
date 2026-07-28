@@ -987,9 +987,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/10-niacinamide-face-serum-30-ml-mrouyzqh",
     "image": "https://images.freekaamaal.com/product-images/product_1783416320_8282.jpg",
     "product_budget": 25,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 16,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "868": {
     "name": "2% Kojic Acid Face Serum ( 30 Ml )",
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726220_8278.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 38,
+    "total_count": 39,
     "effectively_sold_out": false
   },
   "903": {
@@ -1147,9 +1147,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-face-serum-30-ml-mrafxyjn",
     "image": "https://images.freekaamaal.com/product-images/product_1783416320_8282.jpg",
     "product_budget": 100,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 66,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "815": {
     "name": "7in1 Red Wine Gel Face Mask ( 50gm )",
@@ -1162,10 +1162,10 @@
     "claim_link": "https://fkm.asia/4v6l",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/7in1-red-wine-gel-face-mask-50gm-mraft16t",
     "image": "https://images.freekaamaal.com/product-images/product_1783415931_8728.jpg",
-    "product_budget": 64,
+    "product_budget": 68,
     "is_sold_out": false,
     "total_count": 64,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "765": {
     "name": "Unisex Kids Printed T-shirt with Shorts Star ( Any Age )",
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785147155_8906.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "781": {
@@ -3036,7 +3036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784015757_2414.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "777": {
