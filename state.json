@@ -188,8 +188,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783417382_5822.jpg",
     "product_budget": 41,
     "is_sold_out": false,
-    "total_count": 40,
-    "effectively_sold_out": false
+    "total_count": 41,
+    "effectively_sold_out": true
   },
   "872": {
     "name": "Uni-Protect 5X Ceramide SPF 50 PA++++ Sunscreen ( 50 Ml )",
@@ -1340,7 +1340,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783416809_4559.jpg",
     "product_budget": 64,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "869": {
@@ -1516,7 +1516,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 286,
+    "total_count": 287,
     "effectively_sold_out": false
   },
   "187": {
@@ -1916,7 +1916,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777320028_5672.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 59,
+    "total_count": 60,
     "effectively_sold_out": false
   },
   "907": {
@@ -2268,7 +2268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 550,
     "is_sold_out": false,
-    "total_count": 488,
+    "total_count": 489,
     "effectively_sold_out": false
   },
   "74": {
@@ -2876,7 +2876,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775911966_4139.jpg",
     "product_budget": 210,
     "is_sold_out": false,
-    "total_count": 172,
+    "total_count": 173,
     "effectively_sold_out": false
   },
   "138": {
@@ -3036,7 +3036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775912236_9917.jpg",
     "product_budget": 230,
     "is_sold_out": false,
-    "total_count": 225,
+    "total_count": 226,
     "effectively_sold_out": false
   },
   "735": {
