@@ -188,7 +188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783417382_5822.jpg",
     "product_budget": 41,
     "is_sold_out": false,
-    "total_count": 36,
+    "total_count": 37,
     "effectively_sold_out": false
   },
   "872": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783416649_3841.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 60,
+    "total_count": 61,
     "effectively_sold_out": false
   },
   "866": {
@@ -1180,7 +1180,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783416143_8445.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 65,
+    "total_count": 67,
     "effectively_sold_out": false
   },
   "865": {
@@ -1340,7 +1340,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783416809_4559.jpg",
     "product_budget": 64,
     "is_sold_out": false,
-    "total_count": 51,
+    "total_count": 52,
     "effectively_sold_out": false
   },
   "869": {
@@ -1499,7 +1499,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-face-serum-30-ml-mrafxywb",
     "image": "https://images.freekaamaal.com/product-images/product_1783416466_5989.jpg",
     "product_budget": 70,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 70,
     "effectively_sold_out": true
   },
@@ -2268,7 +2268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 550,
     "is_sold_out": false,
-    "total_count": 484,
+    "total_count": 485,
     "effectively_sold_out": false
   },
   "74": {
