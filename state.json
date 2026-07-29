@@ -188,7 +188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783417382_5822.jpg",
     "product_budget": 41,
     "is_sold_out": false,
-    "total_count": 39,
+    "total_count": 40,
     "effectively_sold_out": false
   },
   "872": {
@@ -1050,10 +1050,10 @@
     "claim_link": "https://fkm.asia/4v6p",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-face-serum-30-ml-mrafxuaz",
     "image": "https://images.freekaamaal.com/product-images/product_1783416649_3841.jpg",
-    "product_budget": 100,
+    "product_budget": 63,
     "is_sold_out": false,
-    "total_count": 62,
-    "effectively_sold_out": false
+    "total_count": 63,
+    "effectively_sold_out": true
   },
   "866": {
     "name": "10% Niacinamide Face Serum ( 30 Ml )",
@@ -1179,9 +1179,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-face-serum-30-ml-mrafxyqr",
     "image": "https://images.freekaamaal.com/product-images/product_1783416143_8445.jpg",
     "product_budget": 100,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 68,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "865": {
     "name": "2% Salicylic Acid Face Serum ( 30 Ml )",
@@ -1308,7 +1308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784533762_8351.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 135,
+    "total_count": 136,
     "effectively_sold_out": false
   },
   "830": {
@@ -1500,7 +1500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783416466_5989.jpg",
     "product_budget": 70,
     "is_sold_out": true,
-    "total_count": 70,
+    "total_count": 71,
     "effectively_sold_out": true
   },
   "641": {
@@ -1516,7 +1516,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 285,
+    "total_count": 286,
     "effectively_sold_out": false
   },
   "187": {
@@ -2236,7 +2236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784199869_9011.jpg",
     "product_budget": 121,
     "is_sold_out": true,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": true
   },
   "572": {
@@ -2572,7 +2572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784688662_1431.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 59,
+    "total_count": 60,
     "effectively_sold_out": false
   },
   "642": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915511_2320.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 161,
+    "total_count": 162,
     "effectively_sold_out": false
   },
   "838": {
@@ -3116,7 +3116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784528177_4111.jpg",
     "product_budget": 100,
     "is_sold_out": true,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": true
   },
   "135": {
