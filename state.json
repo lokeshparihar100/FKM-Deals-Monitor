@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777556143_1989.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "931": {
@@ -28,7 +28,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783242700_2704.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 30,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "937": {
@@ -60,8 +60,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785418102_6064.jpg",
     "product_budget": 17,
     "is_sold_out": false,
-    "total_count": 13,
-    "effectively_sold_out": false
+    "total_count": 17,
+    "effectively_sold_out": true
   },
   "932": {
     "name": "Marine Collagen Powder for Women & Men ( 300g )",
@@ -76,7 +76,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777532606_8547.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "938": {
@@ -1548,7 +1548,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784014971_4229.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "38": {
@@ -1580,7 +1580,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 297,
+    "total_count": 298,
     "effectively_sold_out": false
   },
   "565": {
@@ -2300,7 +2300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 600,
     "is_sold_out": false,
-    "total_count": 508,
+    "total_count": 509,
     "effectively_sold_out": false
   },
   "572": {
@@ -2924,7 +2924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "736": {
