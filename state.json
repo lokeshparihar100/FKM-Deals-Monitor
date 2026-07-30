@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777556143_1989.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 23,
     "effectively_sold_out": false
   },
   "931": {
@@ -76,7 +76,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777532606_8547.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "938": {
@@ -1388,7 +1388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784533762_8351.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 151,
+    "total_count": 152,
     "effectively_sold_out": false
   },
   "851": {
@@ -1580,8 +1580,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 299,
-    "effectively_sold_out": false
+    "total_count": 300,
+    "effectively_sold_out": true
   },
   "565": {
     "name": "De-Tan & Detox Brightening Body Wash, SLS Free",
@@ -1596,7 +1596,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 610,
     "is_sold_out": false,
-    "total_count": 576,
+    "total_count": 578,
     "effectively_sold_out": false
   },
   "818": {
@@ -2124,7 +2124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778150538_2613.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 278,
+    "total_count": 279,
     "effectively_sold_out": false
   },
   "137": {
@@ -2300,7 +2300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791981_9595.jpg",
     "product_budget": 600,
     "is_sold_out": false,
-    "total_count": 510,
+    "total_count": 511,
     "effectively_sold_out": false
   },
   "572": {
@@ -2348,7 +2348,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785147155_8906.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "919": {
@@ -2620,7 +2620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784688662_1431.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 69,
+    "total_count": 70,
     "effectively_sold_out": false
   },
   "838": {
@@ -3212,7 +3212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783928453_1552.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 74,
+    "total_count": 75,
     "effectively_sold_out": false
   },
   "878": {
