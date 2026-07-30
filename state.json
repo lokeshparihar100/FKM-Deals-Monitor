@@ -11,7 +11,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/veg-collagen-powder-for-women-men-ms7gojan",
     "image": "https://images.freekaamaal.com/product-images/product_1777556143_1989.jpg",
     "product_budget": 30,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 30,
     "effectively_sold_out": true
   },
@@ -27,9 +27,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/alpha-testosterone-support-for-men-120-capsules-ms7g71p9",
     "image": "https://images.freekaamaal.com/product-images/product_1783242700_2704.jpg",
     "product_budget": 50,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 45,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "937": {
     "name": "Veg Collagen Powder for Women & Men",
@@ -43,9 +43,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/be-sexy-veg-collagen-builder-powder-mix-fruit-300g-ms7lc7wr",
     "image": "https://images.freekaamaal.com/product-images/product_1777556143_1989.jpg",
     "product_budget": 10,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 2,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "934": {
     "name": "Yeast Protein Powder, Double Chocolate Flavour, 25 Servings",
@@ -75,9 +75,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/marine-collagen-powder-for-women-men-300g-ms7gmlqy",
     "image": "https://images.freekaamaal.com/product-images/product_1777532606_8547.jpg",
     "product_budget": 30,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 27,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "938": {
     "name": "Marine Collagen Powder for Women & Men ( 300g )",
@@ -91,9 +91,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/marine-collagen-powder-for-women-men-300g-ms7lf3j6",
     "image": "https://images.freekaamaal.com/product-images/product_1777532606_8547.jpg",
     "product_budget": 10,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 6,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "834": {
     "name": "Portable Jet Spray For Travel ( Avoid Buying From Amazon Fresh & Amazon Now )",
@@ -171,9 +171,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/testosterone-support-for-men-60-capsules-ms7g4x4e",
     "image": "https://images.freekaamaal.com/product-images/product_1777531205_6810.jpg",
     "product_budget": 45,
-    "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "450": {
     "name": "PRO Oscillating Electric Toothbrush ( Black )",
@@ -203,9 +203,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/be-alpha-testosterone-support-sexual-health-product-60-capsules-ms7l90ww",
     "image": "https://images.freekaamaal.com/product-images/product_1777531205_6810.jpg",
     "product_budget": 20,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 3,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "929": {
     "name": "Magnesium Supplement for Deep Sleep & Recovery ( 60 Veg Capsules )",
@@ -219,9 +219,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/magnesium-supplement-for-deep-sleep-recovery-60-veg-capsules-ms7g241v",
     "image": "https://images.freekaamaal.com/product-images/product_1777530968_2000.jpg",
     "product_budget": 45,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 18,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "873": {
     "name": "Kaolin Clay Instant Face Lifting Mask with Niacinamide & Turmeric & Vitamin B3 ( 118g )",
@@ -524,7 +524,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783334856_1313.jpg",
     "product_budget": 280,
     "is_sold_out": false,
-    "total_count": 136,
+    "total_count": 137,
     "effectively_sold_out": false
   },
   "87": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784687717_1073.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 124,
+    "total_count": 125,
     "effectively_sold_out": false
   },
   "861": {
@@ -1532,7 +1532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658524_4214.jpg",
     "product_budget": 110,
     "is_sold_out": false,
-    "total_count": 77,
+    "total_count": 78,
     "effectively_sold_out": false
   },
   "839": {
@@ -2620,7 +2620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784688662_1431.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 70,
+    "total_count": 71,
     "effectively_sold_out": false
   },
   "838": {
