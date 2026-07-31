@@ -44,7 +44,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783242700_2704.jpg",
     "product_budget": 7,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "931": {
@@ -1596,8 +1596,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783416809_4559.jpg",
     "product_budget": 21,
     "is_sold_out": false,
-    "total_count": 20,
-    "effectively_sold_out": false
+    "total_count": 21,
+    "effectively_sold_out": true
   },
   "770": {
     "name": "Unisex Kids Pack of 4 Printed Assorted Organic Cotton Blend Jhabla ( Any Combo, Any Size )",
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791373_9763.jpg",
     "product_budget": 610,
     "is_sold_out": false,
-    "total_count": 587,
+    "total_count": 588,
     "effectively_sold_out": false
   },
   "187": {
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658023_9312.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 214,
+    "total_count": 215,
     "effectively_sold_out": false
   },
   "173": {
