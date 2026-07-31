@@ -11,9 +11,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/veg-collagen-powder-for-women-men-ms8fu4f1",
     "image": "https://images.freekaamaal.com/product-images/product_1777556143_1989.jpg",
     "product_budget": 32,
-    "is_sold_out": false,
-    "total_count": 24,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 25,
+    "effectively_sold_out": true
   },
   "933": {
     "name": "Veg Collagen Powder for Women & Men",
@@ -59,7 +59,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/alpha-testosterone-support-for-men-120-capsules-ms8fav6x",
     "image": "https://images.freekaamaal.com/product-images/product_1783242700_2704.jpg",
     "product_budget": 7,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 7,
     "effectively_sold_out": true
   },
@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785474365_8288.jpg",
     "product_budget": 8,
     "is_sold_out": true,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": true
   },
   "942": {
@@ -107,9 +107,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/marine-collagen-powder-for-women-men-300g-ms8frij1",
     "image": "https://images.freekaamaal.com/product-images/product_1777532606_8547.jpg",
     "product_budget": 33,
-    "is_sold_out": false,
-    "total_count": 20,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 21,
+    "effectively_sold_out": true
   },
   "934": {
     "name": "Yeast Protein Powder, Double Chocolate Flavour, 25 Servings",
@@ -219,9 +219,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/testosterone-support-for-men-60-capsules-ms8f8jix",
     "image": "https://images.freekaamaal.com/product-images/product_1777531205_6810.jpg",
     "product_budget": 20,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 7,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "930": {
     "name": "Testosterone Support for Men ( 60 Capsules )",
@@ -331,9 +331,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/magnesium-supplement-for-deep-sleep-recovery-60-veg-capsules-ms8f6ppn",
     "image": "https://images.freekaamaal.com/product-images/product_1777530968_2000.jpg",
     "product_budget": 22,
-    "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "929": {
     "name": "Magnesium Supplement for Deep Sleep & Recovery ( 60 Veg Capsules )",
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658023_9312.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 218,
+    "total_count": 219,
     "effectively_sold_out": false
   },
   "173": {
