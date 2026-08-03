@@ -2,7 +2,7 @@
   "18": {
     "name": "Mannlich Gift Pack ( 4 Items )",
     "store_name": "Mannlich",
-    "platform": "Other",
+    "platform": "Instamart",
     "campaign_type": "review",
     "cashback": 884,
     "net_price": 156,
@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775484408_2045.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "87": {
@@ -156,7 +156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726066_5780.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 66,
+    "total_count": 67,
     "effectively_sold_out": false
   },
   "924": {
@@ -1015,7 +1015,7 @@
     "cashback": 220,
     "net_price": 0,
     "original_price": 220,
-    "claim_link": "https://fkm.asia/2kw2",
+    "claim_link": "https://fkm.asia/4vr2",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/purple-whitening-toothpaste-125g-mnucbf51",
     "image": "https://images.freekaamaal.com/product-images/product_1775912236_9917.jpg",
     "product_budget": 300,
