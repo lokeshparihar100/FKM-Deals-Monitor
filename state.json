@@ -364,7 +364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785741447_2691.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "571": {
@@ -508,7 +508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785738476_9006.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "954": {
@@ -572,8 +572,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785478016_9741.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "976": {
     "name": " Becalm Facewash ( 80 Ml ) - Pack Of 1",
