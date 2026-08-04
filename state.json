@@ -524,7 +524,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785839639_2180.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "979": {
@@ -1100,8 +1100,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785839755_4902.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 8,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "926": {
     "name": "Walletkart Classic Passport Holder Wallet for Men & Women ( Any Colour )",
@@ -1420,7 +1420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785849713_1831.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "138": {
