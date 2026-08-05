@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785735033_3453.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "18": {
@@ -556,7 +556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785846225_9055.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "991": {
@@ -764,7 +764,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785752579_3188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "987": {
@@ -780,7 +780,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785839499_5005.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "76": {
@@ -1244,8 +1244,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785838070_4135.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "906": {
     "name": "Aloe Vera Gel for Face Skin & Hair ( 100g )",
@@ -1340,8 +1340,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785839264_7932.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "990": {
     "name": "Men Artificial Leather Wallet (4 Card Slots) Any Colour",
