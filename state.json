@@ -780,8 +780,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785839499_5005.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "76": {
     "name": "Underarm Roll On - 50 Ml",
@@ -924,7 +924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775486745_9638.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 152,
+    "total_count": 153,
     "effectively_sold_out": false
   },
   "562": {
@@ -1468,7 +1468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785849713_1831.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 28,
     "effectively_sold_out": false
   },
   "955": {
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775484828_1580.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "487": {
