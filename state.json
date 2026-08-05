@@ -87,7 +87,7 @@
     "cashback": 695,
     "net_price": 373,
     "original_price": 1068,
-    "claim_link": "",
+    "claim_link": "https://fkm.asia/4vvw",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/midnight-black-sling-bag-with-elephant-charm-msfwjo03",
     "image": "https://images.freekaamaal.com/product-images/product_1785923157_2771.jpg",
     "product_budget": 10,
@@ -107,9 +107,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/lotus-serenity-enchanting-turquoise-cow-tray-set-msfwf7qb",
     "image": "https://images.freekaamaal.com/product-images/product_1785922842_4780.jpg",
     "product_budget": 10,
-    "is_sold_out": false,
-    "total_count": null,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 1,
+    "effectively_sold_out": true
   },
   "87": {
     "name": "Teeth Whitening Combo",
@@ -1036,7 +1036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783601820_5514.jpg",
     "product_budget": 146,
     "is_sold_out": false,
-    "total_count": 100,
+    "total_count": 101,
     "effectively_sold_out": false
   },
   "562": {
@@ -1148,7 +1148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785731702_8810.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "174": {
@@ -1420,7 +1420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915511_2320.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 190,
+    "total_count": 191,
     "effectively_sold_out": false
   },
   "978": {
@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793078_6425.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 145,
+    "total_count": 146,
     "effectively_sold_out": false
   },
   "175": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784528177_4111.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 31,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "135": {
@@ -1884,7 +1884,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 96,
+    "total_count": 97,
     "effectively_sold_out": false
   },
   "969": {
