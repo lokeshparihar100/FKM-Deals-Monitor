@@ -44,7 +44,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783603730_4716.jpg",
     "product_budget": 38,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "967": {
@@ -1164,7 +1164,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790950_1210.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 153,
+    "total_count": 154,
     "effectively_sold_out": false
   },
   "927": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785562601_1741.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "85": {
@@ -1980,8 +1980,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 99,
-    "effectively_sold_out": false
+    "total_count": 100,
+    "effectively_sold_out": true
   },
   "969": {
     "name": "Balance 1-O-1 Acne Spot Corrector Bye - Bye Pimples Gel 15g",
@@ -2044,7 +2044,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785563315_7822.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "910": {
