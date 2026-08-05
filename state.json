@@ -76,7 +76,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785922728_9754.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "693": {
@@ -1948,7 +1948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785933760_7480.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "19": {
@@ -2092,8 +2092,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785934127_9946.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "828": {
     "name": "Pee Safe Pimple Patches ( 12 Count )",
