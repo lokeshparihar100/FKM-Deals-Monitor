@@ -139,9 +139,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/indian-miniature-art-wooden-tray-with-matching-coaster-msfwaet8",
     "image": "https://images.freekaamaal.com/product-images/product_1785922728_9754.jpg",
     "product_budget": 10,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 6,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "693": {
     "name": "Organic Cotton Shirt & Pant Co-ord Set for Kids GREEN ( Any Age & Size )",
@@ -171,9 +171,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/midnight-black-sling-bag-with-elephant-charm-msfwjo03",
     "image": "https://images.freekaamaal.com/product-images/product_1785923157_2771.jpg",
     "product_budget": 10,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 2,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1020": {
     "name": "Lotus Serenity: Enchanting Turquoise Cow Tray Set",
@@ -283,9 +283,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/elephant-cushion-covers-pack-of-2-msfw25it",
     "image": "https://images.freekaamaal.com/product-images/product_1785922321_9644.jpg",
     "product_budget": 10,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 1,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "188": {
     "name": "Perfora Instant Freshness Combo",
@@ -379,9 +379,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/glamour-red-crystal-embellished-velvet-cushion-covers-msfw70kc",
     "image": "https://images.freekaamaal.com/product-images/product_1785922562_1498.jpg",
     "product_budget": 10,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": null,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1005": {
     "name": "Boys Organic Cotton Shirt & Pant Co-ord Set for Kids ( Grey ) - Any Age",
@@ -556,7 +556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785847211_9584.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "994": {
@@ -860,7 +860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785846924_4990.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 28,
     "effectively_sold_out": false
   },
   "907": {
@@ -1900,7 +1900,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779188019_9364.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 108,
+    "total_count": 110,
     "effectively_sold_out": false
   },
   "88": {
