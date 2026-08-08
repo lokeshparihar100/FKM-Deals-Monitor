@@ -987,9 +987,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/special-edition-chocolate-gift-kit-for-couples-with-2-chocolate-1-task-cards-bar-ms9xq2vv",
     "image": "https://images.freekaamaal.com/product-images/product_1785562334_3899.jpg",
     "product_budget": 50,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 41,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "954": {
     "name": "Valentine Edition Chocolate Gift kit for couples With 2 Chocolate + 1 Saucy Card Bar (40 g)",
@@ -1002,7 +1002,7 @@
     "claim_link": "https://fkm.asia/4vpx",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/valentine-edition-chocolate-gift-kit-for-couples-with-2-chocolate-1-saucy-card-b-ms9xsv22",
     "image": "https://images.freekaamaal.com/product-images/product_1785562477_8251.jpg",
-    "product_budget": 50,
+    "product_budget": 40,
     "is_sold_out": false,
     "total_count": 37,
     "effectively_sold_out": false
@@ -1626,7 +1626,7 @@
     "claim_link": "https://fkm.asia/4vpz",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/mood-uplifting-premium-dark-chocolate-for-men-luxury-vegan-gluten-free-treat-bar-ms9y72f1",
     "image": "https://images.freekaamaal.com/product-images/product_1785563136_7590.jpg",
-    "product_budget": 50,
+    "product_budget": 32,
     "is_sold_out": false,
     "total_count": 27,
     "effectively_sold_out": false
@@ -1964,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785734707_7698.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "173": {
@@ -2012,7 +2012,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786097443_3389.jpg",
     "product_budget": 350,
     "is_sold_out": false,
-    "total_count": 74,
+    "total_count": 76,
     "effectively_sold_out": false
   },
   "135": {
@@ -2044,7 +2044,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786097015_2737.jpg",
     "product_budget": 900,
     "is_sold_out": false,
-    "total_count": 90,
+    "total_count": 91,
     "effectively_sold_out": false
   },
   "1029": {
