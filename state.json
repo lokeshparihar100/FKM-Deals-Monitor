@@ -876,7 +876,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785907515_7723.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "947": {
@@ -1004,8 +1004,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785562477_8251.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 39,
-    "effectively_sold_out": false
+    "total_count": 40,
+    "effectively_sold_out": true
   },
   "564": {
     "name": "Anti Chafe/Rash Intimate Cream for Men",
@@ -2012,7 +2012,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786097443_3389.jpg",
     "product_budget": 350,
     "is_sold_out": false,
-    "total_count": 133,
+    "total_count": 137,
     "effectively_sold_out": false
   },
   "135": {
@@ -2044,7 +2044,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786097015_2737.jpg",
     "product_budget": 900,
     "is_sold_out": false,
-    "total_count": 128,
+    "total_count": 129,
     "effectively_sold_out": false
   },
   "1029": {
