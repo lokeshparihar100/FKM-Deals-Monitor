@@ -156,7 +156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776427180_7916.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 192,
+    "total_count": 194,
     "effectively_sold_out": false
   },
   "1019": {
@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776427310_2019.jpg",
     "product_budget": 2500,
     "is_sold_out": false,
-    "total_count": 277,
+    "total_count": 278,
     "effectively_sold_out": false
   },
   "1005": {
@@ -860,7 +860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786349158_6288.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "36": {
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104183_2278.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 35,
     "effectively_sold_out": false
   },
   "1033": {
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "550": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104654_5390.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "39": {
@@ -2156,8 +2156,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785734707_7698.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 29,
-    "effectively_sold_out": false
+    "total_count": 30,
+    "effectively_sold_out": true
   },
   "1003": {
     "name": "Cotton Baby Dress for Girls ( Pack Of 1 ) Any Print & Any Age",
@@ -2524,7 +2524,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104396_4281.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   }
 }
