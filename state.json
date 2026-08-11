@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725512_8317.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1018": {
@@ -652,8 +652,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785908365_8606.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "924": {
     "name": "Herbal Hygiene Mint Liquid Hand Sanitizer Bottle (5 x 100 ml)",
@@ -1772,7 +1772,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 81,
+    "total_count": 82,
     "effectively_sold_out": false
   },
   "1031": {
@@ -2028,7 +2028,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104654_5390.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 83,
+    "total_count": 84,
     "effectively_sold_out": false
   },
   "39": {
