@@ -63,6 +63,22 @@
     "total_count": 18,
     "effectively_sold_out": true
   },
+  "1035": {
+    "name": "Koparo Products at Flat 90% Cashback ( Add In One Cart )",
+    "store_name": "KoparoClean",
+    "platform": "Instamart",
+    "campaign_type": "order",
+    "cashback": 921,
+    "net_price": 103,
+    "original_price": 1024,
+    "claim_link": "Koparo Lavender Fabric Conditioner - 850 Ml::https://fkm.asia/4w07|Koparo Degreaser - 400 Ml::https://fkm.asia/4w06|Koparo Natural Dishwash Liquid - 750 Ml::https://fkm.asia/4w04|Koparo Natural Dishwash Liquid - 2 Litre Refill Pack::https://fkm.asia/4w7w|Koparo Floor Cleaner - 1 Litre::https://fkm.asia/4w7x",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/koparo-products-at-flat-90-cashback-msmlnvz7",
+    "image": "https://images.freekaamaal.com/product-images/product_1786328172_3774.jpg",
+    "product_budget": 500,
+    "is_sold_out": false,
+    "total_count": 122,
+    "effectively_sold_out": false
+  },
   "1012": {
     "name": "PCOS Supplement with Myo Inositol & D Chiro Inositol ( 60 Tablets )",
     "store_name": "Carbamideforte",
@@ -348,7 +364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778657197_4879.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 67,
+    "total_count": 68,
     "effectively_sold_out": false
   },
   "874": {
@@ -364,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784354089_5957.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 180,
+    "total_count": 181,
     "effectively_sold_out": false
   },
   "691": {
@@ -398,22 +414,6 @@
     "is_sold_out": true,
     "total_count": 1,
     "effectively_sold_out": true
-  },
-  "1035": {
-    "name": "Koparo Products at Flat 90% Cashback ( Add In One Cart )",
-    "store_name": "KoparoClean",
-    "platform": "Instamart",
-    "campaign_type": "order",
-    "cashback": 578,
-    "net_price": 65,
-    "original_price": 643,
-    "claim_link": "Koparo Lavender Fabric Conditioner - 850 Ml::https://fkm.asia/4w07|Koparo Degreaser - 400 Ml::https://fkm.asia/4w06|Koparo Natural Dishwash Liquid - 750 Ml::https://fkm.asia/4w04",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/koparo-products-at-flat-90-cashback-msmlnvz7",
-    "image": "https://images.freekaamaal.com/product-images/product_1786328172_3774.jpg",
-    "product_budget": 500,
-    "is_sold_out": false,
-    "total_count": 122,
-    "effectively_sold_out": false
   },
   "188": {
     "name": "Perfora Instant Freshness Combo",
@@ -2188,7 +2188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104654_5390.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 100,
+    "total_count": 101,
     "effectively_sold_out": false
   },
   "39": {
@@ -2556,7 +2556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1400,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1028": {
