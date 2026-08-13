@@ -108,7 +108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786328172_3774.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 191,
+    "total_count": 192,
     "effectively_sold_out": false
   },
   "1012": {
@@ -460,8 +460,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785915038_5516.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "874": {
     "name": "Tea Tree Anti Dandruff Shampoo - 200ml",
@@ -476,7 +476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784354089_5957.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 195,
+    "total_count": 196,
     "effectively_sold_out": false
   },
   "691": {
@@ -524,7 +524,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786537167_4613.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": true
   },
   "188": {
@@ -668,7 +668,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785751305_9642.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1018": {
@@ -956,7 +956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786528515_7795.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 51,
     "effectively_sold_out": false
   },
   "1048": {
@@ -2268,7 +2268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 128,
+    "total_count": 129,
     "effectively_sold_out": false
   },
   "550": {
@@ -2476,7 +2476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104654_5390.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 133,
+    "total_count": 135,
     "effectively_sold_out": false
   },
   "39": {
