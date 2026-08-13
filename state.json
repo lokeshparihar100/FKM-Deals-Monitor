@@ -44,7 +44,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786013985_3346.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1065": {
@@ -588,7 +588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785907320_3899.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1002": {
@@ -748,7 +748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 65,
+    "total_count": 66,
     "effectively_sold_out": false
   },
   "789": {
@@ -1068,7 +1068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785847211_9584.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "563": {
@@ -1196,8 +1196,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786357800_3814.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 11,
-    "effectively_sold_out": false
+    "total_count": 12,
+    "effectively_sold_out": true
   },
   "21": {
     "name": "Teeth Whitening Serum 10ml x 2",
@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785908726_8183.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "976": {
@@ -2236,7 +2236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 129,
+    "total_count": 131,
     "effectively_sold_out": false
   },
   "1031": {
@@ -2492,7 +2492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104654_5390.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 135,
+    "total_count": 138,
     "effectively_sold_out": false
   },
   "39": {
@@ -2780,7 +2780,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
     "product_budget": 2130,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "173": {
