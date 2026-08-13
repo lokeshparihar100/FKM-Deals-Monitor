@@ -156,7 +156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786328172_3774.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 210,
+    "total_count": 212,
     "effectively_sold_out": false
   },
   "1012": {
@@ -1692,8 +1692,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785907849_9827.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "947": {
     "name": "Walletkart Clutch ( Any Colour )",
