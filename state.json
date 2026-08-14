@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786328172_3774.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 268,
+    "total_count": 276,
     "effectively_sold_out": false
   },
   "1128": {
@@ -396,7 +396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786328172_3774.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "1125": {
@@ -620,7 +620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786698654_8054.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "690": {
@@ -1276,7 +1276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786699483_7698.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1144": {
@@ -2220,7 +2220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359924_8791.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "76": {
@@ -2700,8 +2700,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785849713_1831.jpg",
     "product_budget": 149,
     "is_sold_out": false,
-    "total_count": 147,
-    "effectively_sold_out": false
+    "total_count": 149,
+    "effectively_sold_out": true
   },
   "1108": {
     "name": "Psyllium Husk Powder with Prebiotics ( 125gm )",
@@ -3826,7 +3826,7 @@
   "1150": {
     "name": "Keto Spicy Murukku Chakli Namkeen - 150g",
     "store_name": "Lofoods",
-    "platform": "Instamart",
+    "platform": "Blinkit",
     "campaign_type": "rating",
     "cashback": 143,
     "net_price": 16,
@@ -3836,7 +3836,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786700391_2208.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "34": {
