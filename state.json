@@ -396,7 +396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786328172_3774.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 345,
+    "total_count": 351,
     "effectively_sold_out": false
   },
   "1137": {
@@ -684,8 +684,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786684327_9687.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "840": {
     "name": "Multivitamin Ultra Tablets for Men ( 60 Tablets )",
@@ -2252,7 +2252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778656872_4744.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "948": {
@@ -2908,7 +2908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343056_2324.jpg",
     "product_budget": 163,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "960": {
@@ -3676,7 +3676,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786440355_5168.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1080": {
