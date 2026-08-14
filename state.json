@@ -384,7 +384,7 @@
     "effectively_sold_out": false
   },
   "1035": {
-    "name": "Koparo Products at Flat 90% Cashback ( Add In One Cart As Per Availability )",
+    "name": "Koparo Products at Flat 100% Cashback ( Add In One Cart As Per Availability )",
     "store_name": "KoparoClean",
     "platform": "Instamart",
     "campaign_type": "order",
@@ -396,7 +396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786328172_3774.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 292,
+    "total_count": 295,
     "effectively_sold_out": false
   },
   "1137": {
@@ -3260,7 +3260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783057945_8716.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "1003": {
@@ -3836,8 +3836,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786700391_2208.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "34": {
     "name": "Undergarment Liquid Detergent for Men/Women - 300 Ml",
