@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786727818_1088.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 408,
+    "total_count": 409,
     "effectively_sold_out": false
   },
   "1128": {
@@ -1420,8 +1420,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786541686_6380.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "563": {
     "name": "2% Salicylic Acid Acne Free Body Wash, SLS Free",
@@ -1836,7 +1836,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785846924_4990.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 101,
+    "total_count": 102,
     "effectively_sold_out": false
   },
   "973": {
@@ -3644,7 +3644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786621746_4772.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1060": {
