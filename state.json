@@ -412,8 +412,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786727818_1088.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 498,
-    "effectively_sold_out": false
+    "total_count": 501,
+    "effectively_sold_out": true
   },
   "693": {
     "name": "Organic Cotton Shirt & Pant Co-ord Set for Kids GREEN ( Any Age & Size )",
@@ -1084,7 +1084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786537477_2729.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "801": {
@@ -1484,7 +1484,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786533958_3923.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "959": {
