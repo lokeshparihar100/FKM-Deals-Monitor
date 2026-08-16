@@ -556,8 +556,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785914853_1266.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1009": {
     "name": "Nac Supplement For Lung Detox | N acetyl Cysteine 600mg ( 60 Tablets )",
@@ -1372,7 +1372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786528515_7795.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 80,
+    "total_count": 81,
     "effectively_sold_out": false
   },
   "1149": {
@@ -2380,7 +2380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776346719_9142.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 60,
+    "total_count": 61,
     "effectively_sold_out": false
   },
   "827": {
@@ -2860,7 +2860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 170,
+    "total_count": 171,
     "effectively_sold_out": false
   },
   "1108": {
@@ -2908,7 +2908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104183_2278.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 181,
+    "total_count": 182,
     "effectively_sold_out": false
   },
   "550": {
@@ -3196,7 +3196,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786729998_8939.jpg",
     "product_budget": 169,
     "is_sold_out": false,
-    "total_count": 156,
+    "total_count": 157,
     "effectively_sold_out": false
   },
   "955": {
@@ -3548,7 +3548,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784528177_4111.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 86,
+    "total_count": 87,
     "effectively_sold_out": false
   },
   "1030": {
