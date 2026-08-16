@@ -316,7 +316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1776427180_7916.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 229,
+    "total_count": 230,
     "effectively_sold_out": false
   },
   "1148": {
@@ -412,7 +412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786727818_1088.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 522,
+    "total_count": 525,
     "effectively_sold_out": false
   },
   "693": {
@@ -1420,7 +1420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782817035_2451.jpg",
     "product_budget": 140,
     "is_sold_out": false,
-    "total_count": 54,
+    "total_count": 55,
     "effectively_sold_out": false
   },
   "1048": {
@@ -2332,7 +2332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359924_8791.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "76": {
@@ -2860,7 +2860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 169,
+    "total_count": 170,
     "effectively_sold_out": false
   },
   "1108": {
@@ -2908,7 +2908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104183_2278.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 180,
+    "total_count": 181,
     "effectively_sold_out": false
   },
   "550": {
@@ -3164,7 +3164,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104654_5390.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 205,
+    "total_count": 206,
     "effectively_sold_out": false
   },
   "39": {
@@ -3340,8 +3340,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786526638_1267.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "970": {
     "name": "Teeth Whitening Toothpaste Combo-Dream White & Purple Toothpaste",
@@ -3420,7 +3420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786538849_2316.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "965": {
