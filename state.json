@@ -316,7 +316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712772_3720.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1148": {
@@ -396,7 +396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786727818_1088.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 663,
+    "total_count": 666,
     "effectively_sold_out": false
   },
   "1128": {
@@ -780,7 +780,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "997": {
@@ -940,7 +940,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712242_5171.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "901": {
@@ -1100,7 +1100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786975197_1077.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "801": {
@@ -1388,7 +1388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786528515_7795.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 86,
+    "total_count": 87,
     "effectively_sold_out": false
   },
   "1149": {
@@ -1548,7 +1548,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785847090_4426.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 34,
     "effectively_sold_out": false
   },
   "641": {
@@ -1916,7 +1916,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786527682_7854.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "991": {
@@ -2748,7 +2748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786968203_1971.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1157": {
@@ -2764,8 +2764,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786968203_1971.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "977": {
     "name": "Men Leather Two Fold Wallet",
