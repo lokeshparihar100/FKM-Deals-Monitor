@@ -76,8 +76,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786625797_2459.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1065": {
     "name": "No.1 Men's Trimmer* | Ultimate Precision",
@@ -395,9 +395,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/koparo-products-at-flat-90-cashback-msmlnvz7",
     "image": "https://images.freekaamaal.com/product-images/product_1786727818_1088.jpg",
     "product_budget": 1000,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 611,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1128": {
     "name": "Koparo Products at Flat 100% Cashback ( Add In One Cart As Per Availability )",
@@ -411,9 +411,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/koparo-products-at-flat-90-cashback-add-in-one-cart-as-per-availability-msrdrl4w",
     "image": "https://images.freekaamaal.com/product-images/product_1786727818_1088.jpg",
     "product_budget": 1000,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 83,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "693": {
     "name": "Organic Cotton Shirt & Pant Co-ord Set for Kids GREEN ( Any Age & Size )",
@@ -2332,7 +2332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359924_8791.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 52,
+    "total_count": 53,
     "effectively_sold_out": false
   },
   "1043": {
@@ -3532,7 +3532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
     "product_budget": 2130,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 34,
     "effectively_sold_out": false
   },
   "1142": {
@@ -3628,7 +3628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1400,
     "is_sold_out": false,
-    "total_count": 31,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "1029": {
