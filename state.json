@@ -42,10 +42,10 @@
     "claim_link": "https://fkm.asia/4vwv",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/electric-breast-pump-bpa-free-mshcmsfi",
     "image": "https://images.freekaamaal.com/product-images/product_1786013985_3346.jpg",
-    "product_budget": 6,
+    "product_budget": 7,
     "is_sold_out": false,
     "total_count": 6,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1131": {
     "name": "Premium Branded Bottle Sterilizer",
@@ -92,8 +92,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786451487_2526.jpg",
     "product_budget": 24,
     "is_sold_out": false,
-    "total_count": 23,
-    "effectively_sold_out": false
+    "total_count": 24,
+    "effectively_sold_out": true
   },
   "1127": {
     "name": "Portable Jet Spray ( Use One Time Purchase Option Only, Seller Recliff )",
@@ -396,7 +396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786727818_1088.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 672,
+    "total_count": 673,
     "effectively_sold_out": false
   },
   "1128": {
@@ -1532,7 +1532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785847211_9584.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 61,
+    "total_count": 62,
     "effectively_sold_out": false
   },
   "994": {
@@ -3708,7 +3708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1400,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "836": {
