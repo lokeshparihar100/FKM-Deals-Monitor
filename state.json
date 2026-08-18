@@ -316,7 +316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712772_3720.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1148": {
@@ -412,7 +412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786989069_5789.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 695,
+    "total_count": 696,
     "effectively_sold_out": false
   },
   "1137": {
@@ -1115,9 +1115,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/blinkit-products-at-flat-100-cashback-add-in-one-cart-as-per-availability-msszz69z",
     "image": "https://images.freekaamaal.com/product-images/product_1786982766_8353.jpg",
     "product_budget": 200,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 55,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "801": {
     "name": "Vitamin B-Complex Tablets (120 Veg Tablets )",
@@ -1196,7 +1196,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726066_5780.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 115,
+    "total_count": 116,
     "effectively_sold_out": false
   },
   "1140": {
@@ -2476,7 +2476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359924_8791.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 61,
+    "total_count": 62,
     "effectively_sold_out": false
   },
   "452": {
@@ -2924,7 +2924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786440191_5286.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "1033": {
@@ -3692,7 +3692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
     "product_budget": 2130,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "883": {
