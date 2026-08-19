@@ -1212,7 +1212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787136986_8401.jpg",
     "product_budget": 8,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1089": {
@@ -2188,7 +2188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787137162_6457.jpg",
     "product_budget": 7,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "979": {
@@ -4764,8 +4764,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786534336_6134.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1090": {
     "name": "Arjun Chhal Powder | Arjuna Ki Chaal | Supports Heart Health, Cholesterol Level (200 g)",
