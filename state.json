@@ -3356,7 +3356,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726513_4334.jpg",
     "product_budget": 36,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "550": {
@@ -3676,7 +3676,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104654_5390.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 239,
+    "total_count": 240,
     "effectively_sold_out": false
   },
   "39": {
@@ -3884,7 +3884,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786972194_4782.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1066": {
@@ -4207,22 +4207,6 @@
     "total_count": 34,
     "effectively_sold_out": false
   },
-  "1029": {
-    "name": "Koparo Degreaser - 400 Ml",
-    "store_name": "KoparoClean",
-    "platform": "Instamart",
-    "campaign_type": "order",
-    "cashback": 190,
-    "net_price": 22,
-    "original_price": 212,
-    "claim_link": "https://fkm.asia/4w06",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/koparo-degreaser-400-ml-msis6ihd",
-    "image": "https://images.freekaamaal.com/product-images/product_1786097190_6149.jpg",
-    "product_budget": 100,
-    "is_sold_out": true,
-    "total_count": 35,
-    "effectively_sold_out": true
-  },
   "1036": {
     "name": "Kitchen Cleaner Spray - 500 Ml",
     "store_name": "Happiplanet",
@@ -4253,6 +4237,22 @@
     "product_budget": 900,
     "is_sold_out": true,
     "total_count": 143,
+    "effectively_sold_out": true
+  },
+  "1029": {
+    "name": "Koparo Degreaser - 400 Ml",
+    "store_name": "KoparoClean",
+    "platform": "Instamart",
+    "campaign_type": "order",
+    "cashback": 190,
+    "net_price": 22,
+    "original_price": 212,
+    "claim_link": "https://fkm.asia/4w06",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/koparo-degreaser-400-ml-msis6ihd",
+    "image": "https://images.freekaamaal.com/product-images/product_1786097190_6149.jpg",
+    "product_budget": 100,
+    "is_sold_out": true,
+    "total_count": 35,
     "effectively_sold_out": true
   },
   "836": {
