@@ -1292,7 +1292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787052248_3810.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "1174": {
@@ -1484,8 +1484,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786688523_3352.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1048": {
     "name": "Hazelnut Arabica Instant Coffee | Freeze Dried (100 g )",
@@ -3148,7 +3148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 191,
+    "total_count": 192,
     "effectively_sold_out": false
   },
   "1031": {
@@ -3164,7 +3164,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104183_2278.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 205,
+    "total_count": 206,
     "effectively_sold_out": false
   },
   "550": {
@@ -3484,7 +3484,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104654_5390.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 237,
+    "total_count": 238,
     "effectively_sold_out": false
   },
   "39": {
@@ -3628,7 +3628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104396_4281.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 74,
+    "total_count": 75,
     "effectively_sold_out": false
   },
   "803": {
