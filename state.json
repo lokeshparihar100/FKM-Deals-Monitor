@@ -476,7 +476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786989069_5789.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 766,
+    "total_count": 770,
     "effectively_sold_out": false
   },
   "1137": {
@@ -892,7 +892,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786971312_2593.jpg",
     "product_budget": 11,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "1002": {
@@ -1020,7 +1020,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712242_5171.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 39,
+    "total_count": 40,
     "effectively_sold_out": false
   },
   "901": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
     "product_budget": 43,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "1177": {
@@ -1068,7 +1068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "902": {
@@ -1324,7 +1324,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726066_5780.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "905": {
@@ -1356,7 +1356,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726349_9862.jpg",
     "product_budget": 16,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1180": {
@@ -2108,7 +2108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786349158_6288.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 92,
+    "total_count": 93,
     "effectively_sold_out": false
   },
   "1098": {
@@ -3436,7 +3436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726513_4334.jpg",
     "product_budget": 36,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "928": {
@@ -3659,9 +3659,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/natural-fabric-conditioner-fabric-softener-1-litre-mnnb9wdr",
     "image": "https://images.freekaamaal.com/product-images/product_1775487198_9771.jpg",
     "product_budget": 70,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 62,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1169": {
     "name": "Stainless Steel Feeding Bottle for Babies 150ml",
