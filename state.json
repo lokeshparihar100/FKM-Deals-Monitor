@@ -172,7 +172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140803_5500.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1123": {
@@ -476,7 +476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786989069_5789.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 755,
+    "total_count": 757,
     "effectively_sold_out": false
   },
   "1137": {
@@ -1068,7 +1068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "902": {
@@ -1179,9 +1179,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/glow-up-enzyme-face-scrub-natural-extracts-50g-mrsu7rb0",
     "image": "https://images.freekaamaal.com/product-images/product_1784528518_2791.jpg",
     "product_budget": 16,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 10,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "952": {
     "name": "Purchase Any Product",
@@ -1276,7 +1276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787136986_8401.jpg",
     "product_budget": 8,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1089": {
@@ -1324,7 +1324,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726066_5780.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "905": {
@@ -1500,7 +1500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787052886_7953.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1173": {
@@ -1643,9 +1643,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/patchouli-dew-hair-perfume-50-ml-mrnf0pzu",
     "image": "https://images.freekaamaal.com/product-images/product_1784200664_9990.jpg",
     "product_budget": 11,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 4,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "787": {
     "name": "Mamypoko Pants Premium Diapers ( 62 Counts, Size - XS )",
@@ -2332,7 +2332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785846924_4990.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 143,
+    "total_count": 144,
     "effectively_sold_out": false
   },
   "975": {
@@ -2492,7 +2492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726675_8122.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1184": {
@@ -2891,9 +2891,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/korean-glass-skin-collagen-mask-mrnep4qk",
     "image": "https://images.freekaamaal.com/product-images/product_1784200125_6289.jpg",
     "product_budget": 12,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 4,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "569": {
     "name": "Dark Spots & Acne Clearing Soap ( 2 x 75 g )",
@@ -3308,7 +3308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786355963_4613.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1057": {
@@ -4268,7 +4268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784528177_4111.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 92,
+    "total_count": 93,
     "effectively_sold_out": false
   },
   "1030": {
