@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787141042_3258.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1154": {
@@ -2348,7 +2348,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785846924_4990.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 152,
+    "total_count": 153,
     "effectively_sold_out": false
   },
   "1184": {
@@ -3644,7 +3644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140443_5810.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "990": {
@@ -4492,7 +4492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140622_2876.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "843": {
@@ -4700,8 +4700,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786534936_9166.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1062": {
     "name": "FX10 Luxe Microfiber Cloth 350GSM 40×40 (Pack of 3)",
