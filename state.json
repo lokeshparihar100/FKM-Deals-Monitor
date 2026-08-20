@@ -940,7 +940,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787044329_6690.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "825": {
@@ -1452,7 +1452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787211754_1480.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "974": {
@@ -1852,7 +1852,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785847090_4426.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "995": {
@@ -2620,7 +2620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785752579_3188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 93,
+    "total_count": 94,
     "effectively_sold_out": false
   },
   "1105": {
@@ -2716,7 +2716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786355252_1079.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "190": {
@@ -3180,7 +3180,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786543907_6266.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "977": {
@@ -3436,7 +3436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786363848_5116.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "1167": {
@@ -3660,7 +3660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140443_5810.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 31,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "990": {
@@ -4156,8 +4156,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786538849_2316.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1193": {
     "name": "Comfort Maternity Panty | XXL-XXXL 5 Pcs",
@@ -4284,7 +4284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342819_3636.jpg",
     "product_budget": 580,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "1142": {
@@ -4508,7 +4508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140622_2876.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "843": {
