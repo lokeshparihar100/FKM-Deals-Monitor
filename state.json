@@ -1228,7 +1228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786537336_9036.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1192": {
@@ -1340,7 +1340,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726066_5780.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1180": {
@@ -1452,7 +1452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787216442_1607.jpg",
     "product_budget": 52,
     "is_sold_out": false,
-    "total_count": 22,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "974": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786528515_7795.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 102,
+    "total_count": 104,
     "effectively_sold_out": false
   },
   "1149": {
@@ -3660,7 +3660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140443_5810.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 46,
     "effectively_sold_out": false
   },
   "990": {
@@ -4508,7 +4508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140622_2876.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "843": {
@@ -4588,7 +4588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787216626_4721.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "487": {
@@ -4636,8 +4636,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786534588_9037.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1104": {
     "name": "Shatavari Tablet ( 60 Tablets )",
@@ -4652,7 +4652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786539061_1591.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1070": {
@@ -4796,7 +4796,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210583_1526.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 52,
+    "total_count": 53,
     "effectively_sold_out": false
   },
   "882": {
