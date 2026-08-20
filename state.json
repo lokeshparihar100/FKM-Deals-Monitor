@@ -204,8 +204,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785916150_4668.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1007": {
     "name": "PCOS Supplement with Myo Inositol & D Chiro Inositol ( 60 Tablets )",
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359306_9633.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1004": {
@@ -4332,7 +4332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775487445_3119.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 35,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "1028": {
@@ -4508,7 +4508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 102,
+    "total_count": 103,
     "effectively_sold_out": false
   },
   "1076": {
