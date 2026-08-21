@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229654_6657.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 846,
+    "total_count": 847,
     "effectively_sold_out": false
   },
   "1128": {
@@ -1084,7 +1084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "902": {
@@ -1290,10 +1290,10 @@
     "claim_link": "https://fkm.asia/4wjp",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/khari-foods-premium-dry-fruits-gift-pack-320g-mt01nmlo",
     "image": "https://images.freekaamaal.com/product-images/product_1787141042_3258.jpg",
-    "product_budget": 103,
-    "is_sold_out": false,
+    "product_budget": 100,
+    "is_sold_out": true,
     "total_count": 1,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1154": {
     "name": "Protein Chef Products at Flat 100% Cashback ( Add In One Cart As Per Availability )",
@@ -2476,7 +2476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726798_5154.jpg",
     "product_budget": 33,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "975": {
@@ -2508,7 +2508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726675_8122.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "908": {
@@ -3708,7 +3708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140443_5810.jpg",
     "product_budget": 103,
     "is_sold_out": false,
-    "total_count": 89,
+    "total_count": 91,
     "effectively_sold_out": false
   },
   "990": {
@@ -4828,7 +4828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210310_8848.jpg",
     "product_budget": 81,
     "is_sold_out": false,
-    "total_count": 73,
+    "total_count": 74,
     "effectively_sold_out": false
   },
   "1195": {
