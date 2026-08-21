@@ -1276,7 +1276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786537336_9036.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1192": {
@@ -4220,7 +4220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786526638_1267.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "1069": {
@@ -4732,8 +4732,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786533340_1961.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1083": {
     "name": "Gokshura Powder For Men|Boost Energy,Strength & Testosterone|100% Pure & Natural (100 g)",
@@ -4844,7 +4844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787216522_6441.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "881": {
