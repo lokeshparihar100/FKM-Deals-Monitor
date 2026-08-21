@@ -188,7 +188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786546311_8363.jpg",
     "product_budget": 21,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "18": {
@@ -204,7 +204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229093_7314.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1096": {
@@ -364,8 +364,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786535938_4585.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1153": {
     "name": "Rosemary & Redensyl Scalp Serum - 30ml",
@@ -1292,7 +1292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787141042_3258.jpg",
     "product_budget": 103,
     "is_sold_out": false,
-    "total_count": 89,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1154": {
@@ -1500,7 +1500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787216442_1607.jpg",
     "product_budget": 53,
     "is_sold_out": false,
-    "total_count": 55,
+    "total_count": 54,
     "effectively_sold_out": true
   },
   "974": {
@@ -1532,7 +1532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359306_9633.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1004": {
@@ -1964,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 337,
+    "total_count": 338,
     "effectively_sold_out": false
   },
   "1109": {
@@ -3100,7 +3100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785838638_2081.jpg",
     "product_budget": 10,
     "is_sold_out": true,
-    "total_count": 7,
+    "total_count": 6,
     "effectively_sold_out": true
   },
   "794": {
@@ -3372,7 +3372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786355963_4613.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 31,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "1182": {
@@ -3708,7 +3708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140443_5810.jpg",
     "product_budget": 103,
     "is_sold_out": false,
-    "total_count": 82,
+    "total_count": 83,
     "effectively_sold_out": false
   },
   "990": {
@@ -3724,7 +3724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785839880_8718.jpg",
     "product_budget": 10,
     "is_sold_out": true,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": true
   },
   "986": {
@@ -3996,8 +3996,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786357961_7934.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 11,
-    "effectively_sold_out": true
+    "total_count": 1,
+    "effectively_sold_out": false
   },
   "85": {
     "name": "Dream White Toothpaste - 150g",
@@ -4556,7 +4556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140622_2876.jpg",
     "product_budget": 103,
     "is_sold_out": false,
-    "total_count": 75,
+    "total_count": 76,
     "effectively_sold_out": false
   },
   "843": {
