@@ -1132,7 +1132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
     "product_budget": 43,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "789": {
@@ -2412,7 +2412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229504_1905.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 163,
+    "total_count": 164,
     "effectively_sold_out": false
   },
   "947": {
@@ -4252,8 +4252,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785734707_7698.jpg",
     "product_budget": 39,
     "is_sold_out": false,
-    "total_count": 38,
-    "effectively_sold_out": false
+    "total_count": 39,
+    "effectively_sold_out": true
   },
   "804": {
     "name": "Ethiek Ink & Pen Mark Stain Remover Spray 75ml",
@@ -4636,7 +4636,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787216626_4721.jpg",
     "product_budget": 103,
     "is_sold_out": false,
-    "total_count": 97,
+    "total_count": 99,
     "effectively_sold_out": false
   },
   "487": {
@@ -4652,7 +4652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 106,
+    "total_count": 107,
     "effectively_sold_out": false
   },
   "969": {
