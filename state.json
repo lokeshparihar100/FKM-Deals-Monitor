@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786537625_2282.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1012": {
@@ -1388,7 +1388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726220_8278.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "903": {
@@ -1420,8 +1420,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726066_5780.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "904": {
     "name": "Cupid Marshmallow Revitalizing Body Wash for Couples ( 300 Ml )",
@@ -2236,7 +2236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785915207_3020.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "36": {
@@ -3708,7 +3708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140443_5810.jpg",
     "product_budget": 103,
     "is_sold_out": false,
-    "total_count": 72,
+    "total_count": 73,
     "effectively_sold_out": false
   },
   "990": {
@@ -4172,7 +4172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775912236_9917.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 276,
+    "total_count": 277,
     "effectively_sold_out": false
   },
   "451": {
@@ -4188,7 +4188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778656697_4760.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 146,
+    "total_count": 147,
     "effectively_sold_out": false
   },
   "1103": {
