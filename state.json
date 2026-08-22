@@ -444,7 +444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229654_6657.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 868,
+    "total_count": 869,
     "effectively_sold_out": false
   },
   "1128": {
@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786989069_5789.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 127,
+    "total_count": 128,
     "effectively_sold_out": false
   },
   "1198": {
@@ -476,7 +476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787399155_1215.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "693": {
@@ -1884,7 +1884,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787244975_6556.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 50,
+    "total_count": 51,
     "effectively_sold_out": false
   },
   "995": {
@@ -2396,7 +2396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229504_1905.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 174,
+    "total_count": 176,
     "effectively_sold_out": false
   },
   "1000": {
@@ -3084,7 +3084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786612968_5082.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "1145": {
@@ -5020,8 +5020,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786535490_7169.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1081": {
     "name": "Natural Jamun Seed Powder For Digestion & Diabetes | Fibre Rich | With Vitamin C (200 g)",
