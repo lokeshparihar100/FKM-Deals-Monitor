@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229654_6657.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 860,
+    "total_count": 862,
     "effectively_sold_out": false
   },
   "1137": {
@@ -1100,7 +1100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
     "product_budget": 43,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "789": {
@@ -4348,8 +4348,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784528177_4111.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 99,
-    "effectively_sold_out": false
+    "total_count": 100,
+    "effectively_sold_out": true
   },
   "1030": {
     "name": "Koparo Lavender Fabric Conditioner - 850 Ml",
@@ -4812,7 +4812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210583_1526.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 69,
+    "total_count": 70,
     "effectively_sold_out": false
   },
   "882": {
