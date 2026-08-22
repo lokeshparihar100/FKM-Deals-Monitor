@@ -1100,7 +1100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "789": {
@@ -1340,7 +1340,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726220_8278.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 17,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "1179": {
@@ -1532,7 +1532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787052248_3810.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1011": {
@@ -1660,8 +1660,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786698944_3539.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 29,
-    "effectively_sold_out": false
+    "total_count": 30,
+    "effectively_sold_out": true
   },
   "830": {
     "name": "Patchouli Dew Hair Perfume ( 50 Ml )",
@@ -2108,7 +2108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343279_6194.jpg",
     "product_budget": 238,
     "is_sold_out": false,
-    "total_count": 80,
+    "total_count": 81,
     "effectively_sold_out": false
   },
   "1107": {
@@ -3788,7 +3788,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343056_2324.jpg",
     "product_budget": 163,
     "is_sold_out": false,
-    "total_count": 79,
+    "total_count": 80,
     "effectively_sold_out": false
   },
   "960": {
