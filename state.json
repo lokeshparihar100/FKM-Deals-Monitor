@@ -444,7 +444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229654_6657.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 854,
+    "total_count": 856,
     "effectively_sold_out": false
   },
   "1128": {
@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786989069_5789.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 123,
+    "total_count": 125,
     "effectively_sold_out": false
   },
   "1137": {
@@ -828,7 +828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 63,
+    "total_count": 64,
     "effectively_sold_out": false
   },
   "998": {
@@ -1036,7 +1036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712242_5171.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 60,
+    "total_count": 62,
     "effectively_sold_out": false
   },
   "901": {
@@ -1100,7 +1100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
     "product_budget": 43,
     "is_sold_out": false,
-    "total_count": 22,
+    "total_count": 23,
     "effectively_sold_out": false
   },
   "789": {
@@ -1404,8 +1404,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726220_8278.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "1181": {
     "name": "SMCT Base Microbial OUD Unisex Body Wash ( 300 Ml )",
@@ -2284,7 +2284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787245328_2791.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 174,
+    "total_count": 175,
     "effectively_sold_out": false
   },
   "893": {
@@ -2908,7 +2908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775486745_9638.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 171,
+    "total_count": 172,
     "effectively_sold_out": false
   },
   "927": {
@@ -3340,7 +3340,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726513_4334.jpg",
     "product_budget": 36,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 28,
     "effectively_sold_out": false
   },
   "1172": {
@@ -4812,7 +4812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210583_1526.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 68,
+    "total_count": 69,
     "effectively_sold_out": false
   },
   "882": {
