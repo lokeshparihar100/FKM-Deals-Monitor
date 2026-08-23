@@ -475,9 +475,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/koparo-clean-any-products-sitewide-upto-rs-5000-after-coupon-mt4b5gld",
     "image": "https://images.freekaamaal.com/product-images/product_1787399155_1215.jpg",
     "product_budget": 200,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 40,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1137": {
     "name": "Girls Striped Top with Trousers",
@@ -1884,7 +1884,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787244975_6556.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "995": {
