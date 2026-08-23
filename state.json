@@ -699,9 +699,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/girls-2-piece-outfit-set-pink-any-age-size-mqp6163y",
     "image": "https://images.freekaamaal.com/product-images/product_1782129726_8748.jpg",
     "product_budget": 25,
-    "is_sold_out": false,
-    "total_count": 23,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 24,
+    "effectively_sold_out": true
   },
   "1146": {
     "name": "Pants Skin Breathe Care | Baby Diapers Medium Size (M) | 62 Count | 7-12Kgs",
@@ -2860,7 +2860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787494976_7832.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "827": {
