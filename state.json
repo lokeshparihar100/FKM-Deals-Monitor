@@ -1580,8 +1580,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787052248_3810.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1174": {
     "name": "Metabolically Lean Effervescent Tablets - Apple ( 15 Tablets )",
@@ -2300,7 +2300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787245328_2791.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 184,
+    "total_count": 186,
     "effectively_sold_out": false
   },
   "991": {
@@ -2396,7 +2396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229504_1905.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 185,
+    "total_count": 187,
     "effectively_sold_out": false
   },
   "1000": {
@@ -3740,7 +3740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775487198_9771.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 64,
+    "total_count": 65,
     "effectively_sold_out": false
   },
   "1170": {
