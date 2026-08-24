@@ -1548,8 +1548,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787052886_7953.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1011": {
     "name": "Caffeine Tablets | Pre Workout For Men & Women ( 100 Veg Tablets )",
@@ -3388,7 +3388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 226,
+    "total_count": 227,
     "effectively_sold_out": false
   },
   "1046": {
