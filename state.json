@@ -92,8 +92,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785735033_3453.jpg",
     "product_budget": 22,
     "is_sold_out": false,
-    "total_count": 21,
-    "effectively_sold_out": false
+    "total_count": 22,
+    "effectively_sold_out": true
   },
   "1187": {
     "name": "No.1 Women's Trimmer* | Ultimate Precision",
@@ -3468,7 +3468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 228,
+    "total_count": 229,
     "effectively_sold_out": false
   },
   "1108": {
@@ -3500,7 +3500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104183_2278.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 241,
+    "total_count": 242,
     "effectively_sold_out": false
   },
   "550": {
