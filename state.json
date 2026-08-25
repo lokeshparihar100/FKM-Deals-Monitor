@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787653021_8967.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 31,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "1201": {
@@ -2300,7 +2300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786527682_7854.jpg",
     "product_budget": 17,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "1186": {
@@ -3420,7 +3420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104183_2278.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 250,
+    "total_count": 251,
     "effectively_sold_out": false
   },
   "1108": {
@@ -4060,7 +4060,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783057735_3221.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 17,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "1032": {
@@ -4380,7 +4380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
     "product_budget": 2130,
     "is_sold_out": false,
-    "total_count": 52,
+    "total_count": 53,
     "effectively_sold_out": false
   },
   "883": {
@@ -4412,7 +4412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787645982_8296.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1030": {
@@ -4508,7 +4508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1400,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "1028": {
@@ -4668,8 +4668,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787645731_9528.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 26,
-    "effectively_sold_out": false
+    "total_count": 27,
+    "effectively_sold_out": true
   },
   "1013": {
     "name": "Organic Harad Powder ( 200g )",
@@ -4972,7 +4972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210310_8848.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 81,
+    "total_count": 82,
     "effectively_sold_out": false
   },
   "1092": {
