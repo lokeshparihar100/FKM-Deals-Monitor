@@ -1036,7 +1036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785751305_9642.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 65,
+    "total_count": 66,
     "effectively_sold_out": false
   },
   "1018": {
@@ -1196,8 +1196,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786537477_2729.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1094": {
     "name": "Glucosamine Chondroitin MSM 1500mg Tablets for Cartilage & Joint Support (60 Tablets)",
@@ -3100,7 +3100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787047594_1628.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "174": {
