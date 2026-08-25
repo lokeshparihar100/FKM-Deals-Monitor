@@ -2620,7 +2620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785562334_3899.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "954": {
@@ -3052,7 +3052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785731702_8810.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 22,
+    "total_count": 23,
     "effectively_sold_out": false
   },
   "74": {
@@ -4028,8 +4028,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787646240_6615.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 26,
-    "effectively_sold_out": false
+    "total_count": 27,
+    "effectively_sold_out": true
   },
   "85": {
     "name": "Dream White Toothpaste - 150g",
@@ -4412,7 +4412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787645982_8296.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "1030": {
