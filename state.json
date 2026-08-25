@@ -4396,7 +4396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784528177_4111.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 110,
+    "total_count": 111,
     "effectively_sold_out": false
   },
   "1209": {
@@ -4508,7 +4508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1400,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "1028": {
@@ -4924,7 +4924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210583_1526.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "1195": {
@@ -4972,8 +4972,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210310_8848.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 84,
-    "effectively_sold_out": false
+    "total_count": 85,
+    "effectively_sold_out": true
   },
   "1092": {
     "name": "Neuherbs Wheatgrass Powder | Boost Immunity & Metabolism | Natural Detox | No Additives (100 g)",
