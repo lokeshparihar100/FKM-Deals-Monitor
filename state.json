@@ -1404,8 +1404,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786685542_7700.jpg",
     "product_budget": 7,
     "is_sold_out": false,
-    "total_count": 6,
-    "effectively_sold_out": false
+    "total_count": 7,
+    "effectively_sold_out": true
   },
   "1143": {
     "name": "White Care Combo – Fabric Whitener & Stain Eraser",
@@ -4380,7 +4380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
     "product_budget": 2130,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "883": {
@@ -4588,7 +4588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787646113_1452.jpg",
     "product_budget": 54,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "1191": {
