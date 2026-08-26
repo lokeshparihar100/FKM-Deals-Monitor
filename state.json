@@ -828,7 +828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 83,
+    "total_count": 84,
     "effectively_sold_out": false
   },
   "997": {
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782816881_5375.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1214": {
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787653021_8967.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "1068": {
@@ -1948,7 +1948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 346,
+    "total_count": 347,
     "effectively_sold_out": false
   },
   "563": {
@@ -2428,7 +2428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229504_1905.jpg",
     "product_budget": 270,
     "is_sold_out": false,
-    "total_count": 214,
+    "total_count": 215,
     "effectively_sold_out": false
   },
   "947": {
@@ -3468,7 +3468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787047854_4754.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1172": {
@@ -4588,8 +4588,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787646113_1452.jpg",
     "product_budget": 54,
     "is_sold_out": false,
-    "total_count": 53,
-    "effectively_sold_out": false
+    "total_count": 54,
+    "effectively_sold_out": true
   },
   "1191": {
     "name": "Khari Foods Healthy Makhana Dry Fruits Gift Pack - 100g",
