@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343279_6194.jpg",
     "product_budget": 238,
     "is_sold_out": false,
-    "total_count": 91,
+    "total_count": 92,
     "effectively_sold_out": false
   },
   "1107": {
@@ -2428,7 +2428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229504_1905.jpg",
     "product_budget": 270,
     "is_sold_out": false,
-    "total_count": 213,
+    "total_count": 214,
     "effectively_sold_out": false
   },
   "947": {
@@ -3087,22 +3087,6 @@
     "total_count": 177,
     "effectively_sold_out": true
   },
-  "174": {
-    "name": "Dream White Toothpaste 150gm & Toothbrush ( Combo )",
-    "store_name": "Perfora",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 287,
-    "net_price": 72,
-    "original_price": 359,
-    "claim_link": "https://fkm.asia/3gpw",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/dream-white-toothpaste-150gm-toothbrush-combo-mnzvtgjm",
-    "image": "https://images.freekaamaal.com/product-images/product_1776247298_5172.jpg",
-    "product_budget": 12,
-    "is_sold_out": false,
-    "total_count": 12,
-    "effectively_sold_out": true
-  },
   "1166": {
     "name": "Stainless Steel Baby Feeding Bottle 250ml (6m+) with 2 Extra Silicone Nipples",
     "store_name": "Kidbea",
@@ -3118,6 +3102,22 @@
     "is_sold_out": false,
     "total_count": 26,
     "effectively_sold_out": false
+  },
+  "174": {
+    "name": "Dream White Toothpaste 150gm & Toothbrush ( Combo )",
+    "store_name": "Perfora",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 287,
+    "net_price": 72,
+    "original_price": 359,
+    "claim_link": "https://fkm.asia/3gpw",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/dream-white-toothpaste-150gm-toothbrush-combo-mnzvtgjm",
+    "image": "https://images.freekaamaal.com/product-images/product_1776247298_5172.jpg",
+    "product_budget": 12,
+    "is_sold_out": false,
+    "total_count": 12,
+    "effectively_sold_out": true
   },
   "985": {
     "name": "Men Leather Two Fold Wallet Button Closure ( Any Colour )",
@@ -3226,10 +3226,10 @@
     "claim_link": "https://fkm.asia/4w9w",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/natural-disinfectant-floor-cleaner-jasmine-rose-2-x-1-l-msq64c0v",
     "image": "https://images.freekaamaal.com/product-images/product_1786543907_6266.jpg",
-    "product_budget": 15,
+    "product_budget": 26,
     "is_sold_out": false,
     "total_count": 16,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1157": {
     "name": "Bamboo Viscose Kids Crew Socks Any Colour ( 3-5 Years, Pack Of 2 )",
@@ -3258,10 +3258,10 @@
     "claim_link": "https://fkm.asia/4w9x",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/natural-disinfectant-floor-cleaner-lime-lemongrass-2-x-1-l-msq67y9q",
     "image": "https://images.freekaamaal.com/product-images/product_1786544066_6336.jpg",
-    "product_budget": 15,
+    "product_budget": 25,
     "is_sold_out": false,
     "total_count": 15,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "977": {
     "name": "Men Leather Two Fold Wallet",
@@ -3610,10 +3610,10 @@
     "claim_link": "https://fkm.asia/4w9v",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/organic-dishwash-liquid-lime-basil-2-x-0-75-l-msq60wrj",
     "image": "https://images.freekaamaal.com/product-images/product_1786543743_1620.jpg",
-    "product_budget": 15,
+    "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 15,
-    "effectively_sold_out": true
+    "total_count": 17,
+    "effectively_sold_out": false
   },
   "642": {
     "name": "Anti-Acne Soap 75g ( Pack Of 2 )",
@@ -4826,10 +4826,10 @@
     "claim_link": "https://fkm.asia/4wa7",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/silver-cleaner-liquid-300-ml-msrghuh8",
     "image": "https://images.freekaamaal.com/product-images/product_1786621746_4772.jpg",
-    "product_budget": 20,
+    "product_budget": 32,
     "is_sold_out": false,
-    "total_count": 20,
-    "effectively_sold_out": true
+    "total_count": 21,
+    "effectively_sold_out": false
   },
   "1062": {
     "name": "FX10 Luxe Microfiber Cloth 350GSM 40×40 (Pack of 3)",
@@ -4908,7 +4908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787645868_1227.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 28,
     "effectively_sold_out": true
   },
   "887": {
