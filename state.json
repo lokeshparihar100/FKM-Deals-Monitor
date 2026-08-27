@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140803_5500.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "1123": {
@@ -156,8 +156,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786546311_8363.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 24,
-    "effectively_sold_out": false
+    "total_count": 25,
+    "effectively_sold_out": true
   },
   "1096": {
     "name": "Veg Collagen Peptide Powder For Women & Men | Promote Skin Glow & Elasticity (200 g)",
@@ -2924,7 +2924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787048753_3583.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1172": {
@@ -3068,7 +3068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787048048_1223.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "29": {
@@ -3660,8 +3660,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786543743_1620.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 26,
-    "effectively_sold_out": false
+    "total_count": 27,
+    "effectively_sold_out": true
   },
   "642": {
     "name": "Anti-Acne Soap 75g ( Pack Of 2 )",
