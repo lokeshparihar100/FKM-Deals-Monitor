@@ -1084,7 +1084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712242_5171.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 79,
+    "total_count": 80,
     "effectively_sold_out": false
   },
   "902": {
@@ -2940,8 +2940,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787049040_4224.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1043": {
     "name": "Underarm Roll-On for Men, 2% Kojic & Salicylic Acid",
@@ -3356,7 +3356,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786544066_6336.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "1115": {
@@ -3580,7 +3580,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104183_2278.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 261,
+    "total_count": 262,
     "effectively_sold_out": false
   },
   "1182": {
