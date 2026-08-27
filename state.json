@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787244975_6556.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 72,
+    "total_count": 74,
     "effectively_sold_out": false
   },
   "830": {
@@ -2124,7 +2124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229504_1905.jpg",
     "product_budget": 270,
     "is_sold_out": false,
-    "total_count": 226,
+    "total_count": 227,
     "effectively_sold_out": false
   },
   "1183": {
@@ -2460,7 +2460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787047594_1628.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 28,
+    "total_count": 29,
     "effectively_sold_out": false
   },
   "947": {
@@ -2908,8 +2908,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787047854_4754.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1171": {
     "name": "Stainless Steel Baby Feeding Bottle 150ml (0m+) with 2 Extra Silicone Nipples",
@@ -3660,7 +3660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786543743_1620.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "642": {
