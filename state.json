@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787245173_8670.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 112,
+    "total_count": 113,
     "effectively_sold_out": false
   },
   "994": {
@@ -2364,7 +2364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787245328_2791.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 231,
+    "total_count": 232,
     "effectively_sold_out": false
   },
   "991": {
@@ -3292,8 +3292,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785301864_8819.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 99,
-    "effectively_sold_out": false
+    "total_count": 100,
+    "effectively_sold_out": true
   },
   "1170": {
     "name": "Stainless Steel Feeding Bottle 150ml for Babies",
