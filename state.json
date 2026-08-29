@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359306_9633.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1151": {
@@ -2684,7 +2684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791211_5168.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 203,
+    "total_count": 204,
     "effectively_sold_out": false
   },
   "1006": {
@@ -3052,8 +3052,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787048048_1223.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "826": {
     "name": "Hair Removal Spray 200ml",
