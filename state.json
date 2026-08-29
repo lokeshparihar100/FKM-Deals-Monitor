@@ -3292,8 +3292,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786688935_6901.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "919": {
     "name": "Roll-On Pain Relief Oil, Relieves Joint & Muscle Pain ( 50 Ml )",
@@ -3660,7 +3660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779451283_1334.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 84,
+    "total_count": 85,
     "effectively_sold_out": false
   },
   "1114": {
@@ -4092,7 +4092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1032": {
@@ -5356,7 +5356,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787645892_8655.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "1023": {
