@@ -268,7 +268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726957_9474.jpg",
     "product_budget": 35,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "967": {
@@ -540,7 +540,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725512_8317.jpg",
     "product_budget": 35,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "189": {
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787653021_8967.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 81,
+    "total_count": 82,
     "effectively_sold_out": false
   },
   "1068": {
@@ -2124,7 +2124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343279_6194.jpg",
     "product_budget": 238,
     "is_sold_out": false,
-    "total_count": 101,
+    "total_count": 102,
     "effectively_sold_out": false
   },
   "1107": {
@@ -2748,7 +2748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787048753_3583.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "1043": {
@@ -3132,7 +3132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786612968_5082.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "985": {
@@ -3500,7 +3500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726513_4334.jpg",
     "product_budget": 66,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "1046": {
@@ -3724,7 +3724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343056_2324.jpg",
     "product_budget": 163,
     "is_sold_out": false,
-    "total_count": 96,
+    "total_count": 97,
     "effectively_sold_out": false
   },
   "960": {
@@ -4316,7 +4316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784528177_4111.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 113,
+    "total_count": 114,
     "effectively_sold_out": false
   },
   "1030": {
@@ -4380,7 +4380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343467_2756.jpg",
     "product_budget": 644,
     "is_sold_out": false,
-    "total_count": 71,
+    "total_count": 72,
     "effectively_sold_out": false
   },
   "35": {
@@ -4748,8 +4748,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786621746_4772.jpg",
     "product_budget": 32,
     "is_sold_out": false,
-    "total_count": 31,
-    "effectively_sold_out": false
+    "total_count": 32,
+    "effectively_sold_out": true
   },
   "1083": {
     "name": "Gokshura Powder For Men|Boost Energy,Strength & Testosterone|100% Pure & Natural (100 g)",
@@ -5228,8 +5228,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787645892_8655.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 26,
-    "effectively_sold_out": false
+    "total_count": 27,
+    "effectively_sold_out": true
   },
   "1023": {
     "name": "Premium Instant Coffee Sachets 1g Each | 75 Single-Serve Sachets ( 75g )",
