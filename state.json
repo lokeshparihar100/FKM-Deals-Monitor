@@ -28,8 +28,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786625797_2459.jpg",
     "product_budget": 11,
     "is_sold_out": false,
-    "total_count": 10,
-    "effectively_sold_out": false
+    "total_count": 11,
+    "effectively_sold_out": true
   },
   "1130": {
     "name": "Premium Branded Bottle Sterilizer",
@@ -796,7 +796,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726798_5154.jpg",
     "product_budget": 63,
     "is_sold_out": false,
-    "total_count": 42,
+    "total_count": 43,
     "effectively_sold_out": false
   },
   "1183": {
@@ -812,7 +812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726675_8122.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 52,
+    "total_count": 53,
     "effectively_sold_out": false
   },
   "1058": {
@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785752579_3188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 124,
+    "total_count": 126,
     "effectively_sold_out": false
   },
   "1133": {
@@ -1116,7 +1116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785731702_8810.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "1126": {
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 17,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "1032": {
