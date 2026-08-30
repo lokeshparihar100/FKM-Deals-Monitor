@@ -28,7 +28,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788015323_5893.jpg",
     "product_budget": 65,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 35,
     "effectively_sold_out": false
   },
   "1188": {
@@ -44,7 +44,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140668_8641.jpg",
     "product_budget": 42,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 35,
     "effectively_sold_out": false
   },
   "1187": {
@@ -76,8 +76,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140803_5500.jpg",
     "product_budget": 32,
     "is_sold_out": false,
-    "total_count": 31,
-    "effectively_sold_out": false
+    "total_count": 32,
+    "effectively_sold_out": true
   },
   "1096": {
     "name": "Veg Collagen Peptide Powder For Women & Men | Promote Skin Glow & Elasticity (200 g)",
@@ -252,7 +252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 110,
+    "total_count": 111,
     "effectively_sold_out": false
   },
   "1159": {
@@ -652,7 +652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788084864_6314.jpg",
     "product_budget": 220,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "641": {
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726513_4334.jpg",
     "product_budget": 66,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 59,
     "effectively_sold_out": false
   },
   "838": {
@@ -1884,7 +1884,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783602062_8025.jpg",
     "product_budget": 159,
     "is_sold_out": false,
-    "total_count": 89,
+    "total_count": 90,
     "effectively_sold_out": false
   }
 }
