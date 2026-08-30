@@ -124,8 +124,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786536429_5321.jpg",
     "product_budget": 8,
     "is_sold_out": false,
-    "total_count": 7,
-    "effectively_sold_out": false
+    "total_count": 8,
+    "effectively_sold_out": true
   },
   "1219": {
     "name": "Mannlich Gift Pack ( 4 Items )",
@@ -572,7 +572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787245173_8670.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 147,
+    "total_count": 148,
     "effectively_sold_out": false
   },
   "994": {
@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785562334_3899.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 61,
+    "total_count": 62,
     "effectively_sold_out": false
   },
   "954": {
@@ -924,7 +924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785562477_8251.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 56,
+    "total_count": 57,
     "effectively_sold_out": false
   },
   "564": {
@@ -1196,7 +1196,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786612968_5082.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 59,
+    "total_count": 60,
     "effectively_sold_out": false
   },
   "919": {
@@ -1404,7 +1404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343056_2324.jpg",
     "product_budget": 163,
     "is_sold_out": false,
-    "total_count": 102,
+    "total_count": 103,
     "effectively_sold_out": false
   },
   "960": {
