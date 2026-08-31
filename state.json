@@ -28,7 +28,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788015323_5893.jpg",
     "product_budget": 65,
     "is_sold_out": false,
-    "total_count": 38,
+    "total_count": 39,
     "effectively_sold_out": false
   },
   "1188": {
@@ -411,9 +411,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/mamypoko-pants-premium-diapers-56-counts-size-s-mt6vihwd",
     "image": "https://images.freekaamaal.com/product-images/product_1782817035_2451.jpg",
     "product_budget": 50,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 27,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1220": {
     "name": "MINI BITES for Men and Women 40g ( Pack Of 2 )",
@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786612968_5082.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1170": {
@@ -972,7 +972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104183_2278.jpg",
     "product_budget": 366,
     "is_sold_out": false,
-    "total_count": 299,
+    "total_count": 300,
     "effectively_sold_out": false
   },
   "1033": {
@@ -1100,7 +1100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104654_5390.jpg",
     "product_budget": 360,
     "is_sold_out": false,
-    "total_count": 323,
+    "total_count": 324,
     "effectively_sold_out": false
   },
   "1160": {
@@ -1228,7 +1228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779188019_9364.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 172,
+    "total_count": 173,
     "effectively_sold_out": false
   },
   "451": {
@@ -1388,7 +1388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775487445_3119.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 41,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "1036": {
