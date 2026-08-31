@@ -204,7 +204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359306_9633.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1151": {
@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 63,
+    "total_count": 64,
     "effectively_sold_out": false
   },
   "842": {
@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787245173_8670.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 168,
+    "total_count": 170,
     "effectively_sold_out": false
   },
   "994": {
@@ -652,7 +652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787229504_1905.jpg",
     "product_budget": 310,
     "is_sold_out": false,
-    "total_count": 301,
+    "total_count": 304,
     "effectively_sold_out": false
   },
   "971": {
@@ -1020,7 +1020,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783601820_5514.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 162,
+    "total_count": 163,
     "effectively_sold_out": false
   },
   "29": {
@@ -1180,7 +1180,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104183_2278.jpg",
     "product_budget": 366,
     "is_sold_out": false,
-    "total_count": 289,
+    "total_count": 291,
     "effectively_sold_out": false
   },
   "1182": {
@@ -1275,9 +1275,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/floor-wash-ecofriendly-lemon-fresh-500-ml-msbzmspm",
     "image": "https://images.freekaamaal.com/product-images/product_1785686452_1660.jpg",
     "product_budget": 100,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 94,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "958": {
     "name": "Mood Uplifting Mini Bites Dark Chocolates for Couples Bar (20 g)",
