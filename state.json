@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787653021_8967.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 113,
+    "total_count": 115,
     "effectively_sold_out": false
   },
   "1201": {
@@ -412,7 +412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 365,
+    "total_count": 366,
     "effectively_sold_out": false
   },
   "21": {
@@ -476,7 +476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787227233_4221.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 114,
+    "total_count": 115,
     "effectively_sold_out": false
   },
   "837": {
@@ -572,7 +572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791211_5168.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 231,
+    "total_count": 232,
     "effectively_sold_out": false
   },
   "1006": {
@@ -620,8 +620,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786683973_8429.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "190": {
     "name": "Teeth Whitening Strips - Pack of 3",
@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 350,
     "is_sold_out": false,
-    "total_count": 273,
+    "total_count": 274,
     "effectively_sold_out": false
   },
   "1045": {
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
     "product_budget": 2130,
     "is_sold_out": false,
-    "total_count": 74,
+    "total_count": 75,
     "effectively_sold_out": false
   },
   "1038": {
@@ -1276,7 +1276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784528177_4111.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 134,
+    "total_count": 135,
     "effectively_sold_out": false
   },
   "1041": {
@@ -1500,7 +1500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783602062_8025.jpg",
     "product_budget": 159,
     "is_sold_out": false,
-    "total_count": 95,
+    "total_count": 96,
     "effectively_sold_out": false
   }
 }
