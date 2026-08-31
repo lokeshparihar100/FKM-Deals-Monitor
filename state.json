@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787245173_8670.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 176,
+    "total_count": 177,
     "effectively_sold_out": false
   },
   "994": {
@@ -492,8 +492,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787990914_8640.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1202": {
     "name": "Mamypoko Pants Premium Diapers ( 62 Counts, Size - XS )",
@@ -651,9 +651,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/mocemsa-studd-body-perfume-fresh-150-ml-msen5old",
     "image": "https://images.freekaamaal.com/product-images/product_1787229504_1905.jpg",
     "product_budget": 310,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 307,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "971": {
     "name": "Teeth Whitening Combo | Purple Serum & Purple Toothpaste",
@@ -1388,7 +1388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "1032": {
@@ -1548,7 +1548,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342819_3636.jpg",
     "product_budget": 580,
     "is_sold_out": false,
-    "total_count": 79,
+    "total_count": 80,
     "effectively_sold_out": false
   },
   "1037": {
@@ -1756,7 +1756,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210583_1526.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 65,
+    "total_count": 66,
     "effectively_sold_out": false
   },
   "881": {
