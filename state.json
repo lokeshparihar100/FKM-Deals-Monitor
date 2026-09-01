@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787140668_8641.jpg",
     "product_budget": 42,
     "is_sold_out": false,
-    "total_count": 39,
+    "total_count": 40,
     "effectively_sold_out": false
   },
   "1123": {
@@ -29,6 +29,22 @@
     "product_budget": 45,
     "is_sold_out": false,
     "total_count": 30,
+    "effectively_sold_out": false
+  },
+  "1233": {
+    "name": "Deep Sea Omega 3 Fish Oil Capsules 2500mg ( 60 Softgels )",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 809,
+    "net_price": 90,
+    "original_price": 899,
+    "claim_link": "https://fkm.asia/4wzj",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/deep-sea-omega-3-fish-oil-capsules-2500mg-60-softgels-mti7chxe",
+    "image": "https://images.freekaamaal.com/product-images/product_1788238964_1939.jpg",
+    "product_budget": 5,
+    "is_sold_out": false,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "1219": {
@@ -77,6 +93,22 @@
     "product_budget": 50,
     "is_sold_out": false,
     "total_count": 10,
+    "effectively_sold_out": false
+  },
+  "1236": {
+    "name": "Mini Deep Sea Omega 3 Fish Oil Capsules 1000mg ( 60 Softgels )",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 440,
+    "net_price": 49,
+    "original_price": 489,
+    "claim_link": "https://fkm.asia/4wzm",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/mini-deep-sea-omega-3-fish-oil-capsules-1000mg-60-softgels-mti7nztb",
+    "image": "https://images.freekaamaal.com/product-images/product_1788239515_5369.jpg",
+    "product_budget": 5,
+    "is_sold_out": false,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "1231": {
@@ -239,6 +271,38 @@
     "total_count": 20,
     "effectively_sold_out": false
   },
+  "1240": {
+    "name": "Ashwagandha 1000mg Tablets For Men & Women ( 60 Tablets )",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 282,
+    "net_price": 32,
+    "original_price": 314,
+    "claim_link": "https://fkm.asia/4wzq",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/ashwagandha-1000mg-tablets-for-men-women-60-tablets-mti84q6d",
+    "image": "https://images.freekaamaal.com/product-images/product_1788240332_4511.jpg",
+    "product_budget": 5,
+    "is_sold_out": false,
+    "total_count": null,
+    "effectively_sold_out": false
+  },
+  "1046": {
+    "name": "2% Kojic Acid Soap 75g ( Pack Of 2 )",
+    "store_name": "Mannlich",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 269,
+    "net_price": 0,
+    "original_price": 269,
+    "claim_link": "https://fkm.asia/4w0j",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-kojic-acid-soap-75g-pack-of-2-msn288iy",
+    "image": "https://images.freekaamaal.com/product-images/product_1786355963_4613.jpg",
+    "product_budget": 200,
+    "is_sold_out": false,
+    "total_count": 86,
+    "effectively_sold_out": false
+  },
   "1033": {
     "name": "2% Salicylic Acid Body Acne Wash for Men (300 ml)",
     "store_name": "Mannlich",
@@ -269,22 +333,6 @@
     "product_budget": 366,
     "is_sold_out": false,
     "total_count": 310,
-    "effectively_sold_out": false
-  },
-  "1046": {
-    "name": "2% Kojic Acid Soap 75g ( Pack Of 2 )",
-    "store_name": "Mannlich",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 269,
-    "net_price": 0,
-    "original_price": 269,
-    "claim_link": "https://fkm.asia/4w0j",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-kojic-acid-soap-75g-pack-of-2-msn288iy",
-    "image": "https://images.freekaamaal.com/product-images/product_1786355963_4613.jpg",
-    "product_budget": 200,
-    "is_sold_out": false,
-    "total_count": 86,
     "effectively_sold_out": false
   },
   "1045": {
@@ -399,22 +447,6 @@
     "total_count": 8,
     "effectively_sold_out": false
   },
-  "1037": {
-    "name": "Tap Cleaner & Limescale Remover - 500 Ml",
-    "store_name": "Happiplanet",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 200,
-    "net_price": 0,
-    "original_price": 200,
-    "claim_link": "https://fkm.asia/4w38",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tap-cleaner-limescale-remover-500-ml-msmu965f",
-    "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
-    "product_budget": 2130,
-    "is_sold_out": false,
-    "total_count": 75,
-    "effectively_sold_out": false
-  },
   "1038": {
     "name": "Washing Machine Cleaner & Descaler Tablets | 8 Tablets",
     "store_name": "Happiplanet",
@@ -429,6 +461,22 @@
     "product_budget": 580,
     "is_sold_out": false,
     "total_count": 87,
+    "effectively_sold_out": false
+  },
+  "1037": {
+    "name": "Tap Cleaner & Limescale Remover - 500 Ml",
+    "store_name": "Happiplanet",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 200,
+    "net_price": 0,
+    "original_price": 200,
+    "claim_link": "https://fkm.asia/4w38",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tap-cleaner-limescale-remover-500-ml-msmu965f",
+    "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
+    "product_budget": 2130,
+    "is_sold_out": false,
+    "total_count": 75,
     "effectively_sold_out": false
   },
   "1041": {
@@ -461,6 +509,38 @@
     "product_budget": 1400,
     "is_sold_out": false,
     "total_count": 70,
+    "effectively_sold_out": false
+  },
+  "1234": {
+    "name": "Spirulina Powder - 100g",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 179,
+    "net_price": 20,
+    "original_price": 199,
+    "claim_link": "https://fkm.asia/4wzk",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/spirulina-powder-100g-mti7gptk",
+    "image": "https://images.freekaamaal.com/product-images/product_1788239179_9486.jpg",
+    "product_budget": 5,
+    "is_sold_out": false,
+    "total_count": null,
+    "effectively_sold_out": false
+  },
+  "1238": {
+    "name": "Beetroot Powder 100g",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 179,
+    "net_price": 20,
+    "original_price": 199,
+    "claim_link": "https://fkm.asia/4wzo",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/beetroot-powder-100g-mti7xo3i",
+    "image": "https://images.freekaamaal.com/product-images/product_1788239977_5452.jpg",
+    "product_budget": 5,
+    "is_sold_out": false,
+    "total_count": null,
     "effectively_sold_out": false
   }
 }
