@@ -90,7 +90,7 @@
     "claim_link": "https://fkm.asia/4wzg",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/a2-gir-cow-ghee-500ml-mthpgkjo",
     "image": "https://images.freekaamaal.com/product-images/product_1788208916_1832.jpg",
-    "product_budget": 50,
+    "product_budget": 30,
     "is_sold_out": false,
     "total_count": 10,
     "effectively_sold_out": false
@@ -108,7 +108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788239515_5369.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1231": {
@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785752579_3188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 151,
+    "total_count": 152,
     "effectively_sold_out": false
   },
   "1043": {
@@ -447,6 +447,22 @@
     "total_count": 8,
     "effectively_sold_out": false
   },
+  "1037": {
+    "name": "Tap Cleaner & Limescale Remover - 500 Ml",
+    "store_name": "Happiplanet",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 200,
+    "net_price": 0,
+    "original_price": 200,
+    "claim_link": "https://fkm.asia/4w38",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tap-cleaner-limescale-remover-500-ml-msmu965f",
+    "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
+    "product_budget": 2130,
+    "is_sold_out": false,
+    "total_count": 76,
+    "effectively_sold_out": false
+  },
   "1038": {
     "name": "Washing Machine Cleaner & Descaler Tablets | 8 Tablets",
     "store_name": "Happiplanet",
@@ -461,22 +477,6 @@
     "product_budget": 580,
     "is_sold_out": false,
     "total_count": 88,
-    "effectively_sold_out": false
-  },
-  "1037": {
-    "name": "Tap Cleaner & Limescale Remover - 500 Ml",
-    "store_name": "Happiplanet",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 200,
-    "net_price": 0,
-    "original_price": 200,
-    "claim_link": "https://fkm.asia/4w38",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tap-cleaner-limescale-remover-500-ml-msmu965f",
-    "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
-    "product_budget": 2130,
-    "is_sold_out": false,
-    "total_count": 75,
     "effectively_sold_out": false
   },
   "1041": {
@@ -509,6 +509,22 @@
     "product_budget": 1400,
     "is_sold_out": false,
     "total_count": 70,
+    "effectively_sold_out": false
+  },
+  "1253": {
+    "name": "English Lavender Spray Burst ( 217 Ml ) - 2 Quantity",
+    "store_name": "Airvel",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 179,
+    "net_price": 77,
+    "original_price": 256,
+    "claim_link": "https://fkm.asia/4x06",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/english-lavender-spray-burst-217-ml-2-quantity-mtibqwhc",
+    "image": "https://images.freekaamaal.com/product-images/product_1788246361_3091.jpg",
+    "product_budget": 5,
+    "is_sold_out": false,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "1234": {
