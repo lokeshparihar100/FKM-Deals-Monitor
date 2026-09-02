@@ -28,7 +28,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786546311_8363.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 30,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "1233": {
@@ -44,8 +44,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788238964_1939.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1219": {
     "name": "Mannlich Gift Pack ( 4 Items )",
@@ -108,8 +108,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788239515_5369.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1231": {
     "name": "Himalayan Shilajit Gummies | 225mg ( 30 Gummies )",
@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788084864_6314.jpg",
     "product_budget": 220,
     "is_sold_out": false,
-    "total_count": 77,
+    "total_count": 84,
     "effectively_sold_out": false
   },
   "1229": {
@@ -204,7 +204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788206201_6841.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "1000": {
@@ -572,7 +572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788239977_5452.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1253": {
@@ -588,8 +588,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788246361_3091.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1254": {
     "name": "Mouth Spray Cool Mint + Elaichi Flavor ( 30g )",
@@ -604,7 +604,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788247389_7388.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 6,
     "effectively_sold_out": false
   }
 }
