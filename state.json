@@ -90,10 +90,10 @@
     "claim_link": "https://fkm.asia/4wzi",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/sea-buckthorn-juice-500-ml-pack-of-2-mthpliju",
     "image": "https://images.freekaamaal.com/product-images/product_1788209159_7662.jpg",
-    "product_budget": 10,
+    "product_budget": 9,
     "is_sold_out": false,
-    "total_count": 8,
-    "effectively_sold_out": false
+    "total_count": 9,
+    "effectively_sold_out": true
   },
   "1236": {
     "name": "Mini Deep Sea Omega 3 Fish Oil Capsules 1000mg ( 60 Softgels )",
@@ -252,7 +252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791211_5168.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 240,
+    "total_count": 241,
     "effectively_sold_out": false
   },
   "976": {
@@ -268,7 +268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785752579_3188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 154,
+    "total_count": 155,
     "effectively_sold_out": false
   },
   "1043": {
@@ -284,7 +284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786355252_1079.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "74": {
@@ -316,7 +316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788243025_8063.jpg",
     "product_budget": 65,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1222": {
@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786612968_5082.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "1240": {
@@ -540,7 +540,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242589_1798.jpg",
     "product_budget": 460,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1250": {
@@ -572,7 +572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242780_9092.jpg",
     "product_budget": 80,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1003": {
