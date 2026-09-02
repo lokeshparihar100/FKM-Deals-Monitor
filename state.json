@@ -95,22 +95,6 @@
     "total_count": 8,
     "effectively_sold_out": false
   },
-  "1230": {
-    "name": "A2 Gir Cow Ghee 500ML",
-    "store_name": "Kapiva",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 657,
-    "net_price": 282,
-    "original_price": 939,
-    "claim_link": "https://fkm.asia/4wzg",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/a2-gir-cow-ghee-500ml-mthpgkjo",
-    "image": "https://images.freekaamaal.com/product-images/product_1788208916_1832.jpg",
-    "product_budget": 30,
-    "is_sold_out": false,
-    "total_count": 25,
-    "effectively_sold_out": false
-  },
   "1236": {
     "name": "Mini Deep Sea Omega 3 Fish Oil Capsules 1000mg ( 60 Softgels )",
     "store_name": "Neuherbs",
@@ -205,6 +189,22 @@
     "product_budget": 238,
     "is_sold_out": false,
     "total_count": 135,
+    "effectively_sold_out": false
+  },
+  "1230": {
+    "name": "A2 Gir Cow Ghee 500ML",
+    "store_name": "Kapiva",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 337,
+    "net_price": 338,
+    "original_price": 675,
+    "claim_link": "https://fkm.asia/4x24",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/a2-gir-cow-ghee-500ml-mthpgkjo",
+    "image": "https://images.freekaamaal.com/product-images/product_1788208916_1832.jpg",
+    "product_budget": 30,
+    "is_sold_out": false,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "1228": {
@@ -316,7 +316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788243025_8063.jpg",
     "product_budget": 65,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1222": {
@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242190_2624.jpg",
     "product_budget": 80,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1031": {
@@ -716,7 +716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788243411_9667.jpg",
     "product_budget": 190,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "1254": {
