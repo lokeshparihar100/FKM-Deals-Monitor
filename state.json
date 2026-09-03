@@ -284,7 +284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429762_1023.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "830": {
@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429564_2826.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "641": {
@@ -460,8 +460,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788208916_1832.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 29,
-    "effectively_sold_out": false
+    "total_count": 30,
+    "effectively_sold_out": true
   },
   "1259": {
     "name": "3-In-1 Condoms With Chocolates & Blindfold",
@@ -716,7 +716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429424_6100.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "1249": {
@@ -1196,7 +1196,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788434071_7161.jpg",
     "product_budget": 98,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "1277": {
@@ -1340,7 +1340,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210310_8848.jpg",
     "product_budget": 131,
     "is_sold_out": false,
-    "total_count": 82,
+    "total_count": 84,
     "effectively_sold_out": false
   },
   "1254": {
