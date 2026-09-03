@@ -316,7 +316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784098304_9650.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "641": {
@@ -492,7 +492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788412630_4321.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "976": {
@@ -1132,8 +1132,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788239179_9486.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1251": {
     "name": "Aroma Gel Hanging Car Air Freshener Pack of 3",
