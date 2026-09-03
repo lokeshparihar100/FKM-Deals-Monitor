@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788350180_6310.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1232": {
@@ -124,7 +124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788350034_6099.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1270": {
@@ -268,8 +268,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788209034_3170.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "1221": {
     "name": "Kalyra Cramp Relief Roll-On for Women - 50ml",
@@ -428,7 +428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788206201_6841.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "1000": {
@@ -812,7 +812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788352893_2053.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1280": {
@@ -828,7 +828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788352597_9875.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1223": {
@@ -1068,7 +1068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788243411_9667.jpg",
     "product_budget": 190,
     "is_sold_out": false,
-    "total_count": 28,
+    "total_count": 29,
     "effectively_sold_out": false
   },
   "1254": {
