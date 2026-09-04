@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788015323_5893.jpg",
     "product_budget": 65,
     "is_sold_out": false,
-    "total_count": 42,
+    "total_count": 43,
     "effectively_sold_out": false
   },
   "1188": {
@@ -380,8 +380,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788508537_9025.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "1313": {
     "name": "Baby Boys & Baby Girls Full Sleeve Graphic Print Sweatshirt ( Any Age )",
@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788507290_2805.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1221": {
@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429564_2826.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 66,
+    "total_count": 67,
     "effectively_sold_out": false
   },
   "1279": {
@@ -956,7 +956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343279_6194.jpg",
     "product_budget": 238,
     "is_sold_out": false,
-    "total_count": 137,
+    "total_count": 138,
     "effectively_sold_out": false
   },
   "1338": {
@@ -1020,7 +1020,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788512525_5420.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1316": {
@@ -2076,7 +2076,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210310_8848.jpg",
     "product_budget": 131,
     "is_sold_out": false,
-    "total_count": 90,
+    "total_count": 92,
     "effectively_sold_out": false
   },
   "1339": {
