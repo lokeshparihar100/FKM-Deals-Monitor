@@ -252,7 +252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788437254_7522.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1318": {
@@ -492,7 +492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788507439_1842.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1287": {
@@ -556,7 +556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788439762_2544.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1329": {
@@ -604,8 +604,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788508819_8619.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "1236": {
     "name": "Mini Deep Sea Omega 3 Fish Oil Capsules 1000mg ( 60 Softgels )",
@@ -716,7 +716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788512669_8065.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1310": {
