@@ -700,8 +700,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788505819_9898.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "1265": {
     "name": "Cupid Marshmallow Revitalizing Body Wash - 300 Ml",
@@ -1996,7 +1996,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342819_3636.jpg",
     "product_budget": 580,
     "is_sold_out": false,
-    "total_count": 92,
+    "total_count": 93,
     "effectively_sold_out": false
   },
   "1294": {
