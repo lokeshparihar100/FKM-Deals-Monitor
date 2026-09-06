@@ -204,7 +204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788350180_6310.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1325": {
@@ -988,7 +988,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788352043_2806.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "1281": {
@@ -1228,7 +1228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788512794_6465.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "564": {
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791211_5168.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 262,
+    "total_count": 263,
     "effectively_sold_out": false
   },
   "1290": {
@@ -1388,8 +1388,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788506244_5309.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "1291": {
     "name": "New Light Gel Face Moisturiser ( 80 Ml )",
@@ -1404,7 +1404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429424_6100.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 88,
+    "total_count": 90,
     "effectively_sold_out": false
   },
   "1249": {
@@ -1996,7 +1996,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242589_1798.jpg",
     "product_budget": 460,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "1248": {
