@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788015323_5893.jpg",
     "product_budget": 65,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1188": {
@@ -1148,8 +1148,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788353405_5555.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1235": {
     "name": "Magnesium Bisglycinate Tablets 1600mg ( 60 Tablets )",
@@ -1180,7 +1180,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788501457_8896.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 60,
+    "total_count": 61,
     "effectively_sold_out": false
   },
   "1000": {
