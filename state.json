@@ -972,8 +972,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788513877_7983.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1231": {
     "name": "Himalayan Shilajit Gummies | 225mg ( 30 Gummies )",
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788515324_1295.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1222": {
@@ -2492,7 +2492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210583_1526.jpg",
     "product_budget": 135,
     "is_sold_out": false,
-    "total_count": 95,
+    "total_count": 96,
     "effectively_sold_out": false
   },
   "882": {
@@ -2508,7 +2508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210310_8848.jpg",
     "product_budget": 131,
     "is_sold_out": false,
-    "total_count": 104,
+    "total_count": 105,
     "effectively_sold_out": false
   },
   "1339": {
@@ -2652,7 +2652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783602062_8025.jpg",
     "product_budget": 559,
     "is_sold_out": false,
-    "total_count": 103,
+    "total_count": 104,
     "effectively_sold_out": false
   }
 }
