@@ -44,7 +44,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788240156_7549.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1187": {
@@ -76,7 +76,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786546311_8363.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 42,
+    "total_count": 43,
     "effectively_sold_out": false
   },
   "1324": {
@@ -524,7 +524,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788773354_9330.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1296": {
@@ -684,7 +684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788586722_8258.jpg",
     "product_budget": 24,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1236": {
@@ -700,7 +700,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788239515_5369.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1311": {
@@ -828,7 +828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429762_1023.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 133,
+    "total_count": 138,
     "effectively_sold_out": false
   },
   "1301": {
@@ -892,7 +892,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783602340_9904.jpg",
     "product_budget": 35,
     "is_sold_out": false,
-    "total_count": 30,
+    "total_count": 31,
     "effectively_sold_out": false
   },
   "1284": {
@@ -1036,7 +1036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429564_2826.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 125,
+    "total_count": 130,
     "effectively_sold_out": false
   },
   "641": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 387,
+    "total_count": 388,
     "effectively_sold_out": false
   },
   "1279": {
@@ -1484,7 +1484,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429424_6100.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 125,
+    "total_count": 128,
     "effectively_sold_out": false
   },
   "1249": {
@@ -1532,7 +1532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788412630_4321.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "1240": {
@@ -1644,7 +1644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 350,
     "is_sold_out": false,
-    "total_count": 302,
+    "total_count": 303,
     "effectively_sold_out": false
   },
   "1046": {
@@ -1820,7 +1820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788579592_1959.jpg",
     "product_budget": 48,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1034": {
@@ -1852,8 +1852,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788249591_3751.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1348": {
     "name": "Posture Corrector Belt for Men & Women ( Size L )",
@@ -1868,7 +1868,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788579592_1959.jpg",
     "product_budget": 63,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1349": {
@@ -1884,7 +1884,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788579592_1959.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1267": {
@@ -2012,7 +2012,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788587571_2278.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1334": {
@@ -2108,7 +2108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342819_3636.jpg",
     "product_budget": 580,
     "is_sold_out": false,
-    "total_count": 97,
+    "total_count": 98,
     "effectively_sold_out": false
   },
   "1037": {
@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788434071_7161.jpg",
     "product_budget": 98,
     "is_sold_out": false,
-    "total_count": 45,
+    "total_count": 46,
     "effectively_sold_out": false
   },
   "1277": {
@@ -2284,7 +2284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788243411_9667.jpg",
     "product_budget": 190,
     "is_sold_out": false,
-    "total_count": 73,
+    "total_count": 75,
     "effectively_sold_out": false
   },
   "882": {
@@ -2316,7 +2316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210583_1526.jpg",
     "product_budget": 135,
     "is_sold_out": false,
-    "total_count": 92,
+    "total_count": 93,
     "effectively_sold_out": false
   },
   "1339": {
