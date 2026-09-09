@@ -620,7 +620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788410778_1922.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 39,
+    "total_count": 40,
     "effectively_sold_out": false
   },
   "1355": {
@@ -636,8 +636,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788584157_9111.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": null,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "1262": {
     "name": "Black Soil Anti Dandruff Shampoo for Men & Women - 250 Ml ",
@@ -1532,7 +1532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786355252_1079.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 55,
+    "total_count": 56,
     "effectively_sold_out": false
   },
   "826": {
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429424_6100.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 143,
+    "total_count": 144,
     "effectively_sold_out": false
   },
   "1342": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788353059_5466.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1044": {
@@ -2348,7 +2348,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788434071_7161.jpg",
     "product_budget": 98,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "883": {
