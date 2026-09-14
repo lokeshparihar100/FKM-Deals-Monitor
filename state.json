@@ -1175,13 +1175,13 @@
     "cashback": 361,
     "net_price": 0,
     "original_price": 361,
-    "claim_link": "https://fkm.asia/4ww8",
+    "claim_link": "https://fkm.asia/4xqn",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/kalyra-cramp-relief-roll-on-for-women-50ml-mtfnkbv3",
     "image": "https://images.freekaamaal.com/product-images/product_1788084864_6314.jpg",
     "product_budget": 220,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 101,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1389": {
     "name": "Mocemsa Studd Pour Eau de Parfum - 25 Ml",
@@ -1548,7 +1548,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788501457_8896.jpg",
     "product_budget": 121,
     "is_sold_out": false,
-    "total_count": 39,
+    "total_count": 40,
     "effectively_sold_out": false
   },
   "1243": {
@@ -1916,7 +1916,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788438835_9943.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1305": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788243411_9667.jpg",
     "product_budget": 64,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "1036": {
