@@ -268,7 +268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775892074_5672.jpg",
     "product_budget": 310,
     "is_sold_out": false,
-    "total_count": 37,
+    "total_count": 38,
     "effectively_sold_out": false
   },
   "1320": {
@@ -844,8 +844,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789111053_4454.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "1398": {
     "name": "Wrist Forearm Splint (M)",
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043363_7369.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "1300": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788954789_6951.jpg",
     "product_budget": 9,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": true
   },
   "826": {
@@ -2716,7 +2716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788958121_6289.jpg",
     "product_budget": 2900,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "1234": {
@@ -2908,7 +2908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789477005_1604.jpg",
     "product_budget": 195,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1361": {
