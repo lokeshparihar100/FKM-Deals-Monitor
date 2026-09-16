@@ -4,8 +4,8 @@
     "store_name": "Firstcryp",
     "platform": "Other",
     "campaign_type": "review",
-    "cashback": 4223,
-    "net_price": 2275,
+    "cashback": 4548,
+    "net_price": 1950,
     "original_price": 6498,
     "claim_link": "https://fkm.asia/4xsz",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/electric-steam-sterilizer-and-dryer-mu2vxytj",
@@ -20,8 +20,8 @@
     "store_name": "Zeptop",
     "platform": "Zepto",
     "campaign_type": "review",
-    "cashback": 2306,
-    "net_price": 1242,
+    "cashback": 2483,
+    "net_price": 1065,
     "original_price": 3548,
     "claim_link": "https://fkm.asia/4xt0",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/premium-branded-bottle-sterilizer-mu2wexga",
@@ -300,7 +300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775892074_5672.jpg",
     "product_budget": 310,
     "is_sold_out": false,
-    "total_count": 42,
+    "total_count": 43,
     "effectively_sold_out": false
   },
   "1320": {
@@ -684,7 +684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429762_1023.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 195,
+    "total_count": 196,
     "effectively_sold_out": false
   },
   "1366": {
@@ -1036,7 +1036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429564_2826.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 133,
+    "total_count": 134,
     "effectively_sold_out": false
   },
   "1301": {
@@ -1612,7 +1612,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788344832_3599.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 28,
+    "total_count": 29,
     "effectively_sold_out": false
   },
   "1385": {
@@ -2556,7 +2556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789034361_4557.jpg",
     "product_budget": 33,
     "is_sold_out": false,
-    "total_count": 30,
+    "total_count": 31,
     "effectively_sold_out": false
   },
   "1407": {
@@ -2783,54 +2783,6 @@
     "total_count": 49,
     "effectively_sold_out": false
   },
-  "1369": {
-    "name": "Moroccan Detan Bar Soap for Tan Removal & Skin Brightening (100 g)",
-    "store_name": "Sayy",
-    "platform": "Flipkart",
-    "campaign_type": "review",
-    "cashback": 180,
-    "net_price": 20,
-    "original_price": 200,
-    "claim_link": "https://fkm.asia/4xfu",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/moroccan-detan-bar-soap-for-tan-removal-skin-brightening-100-g-mtshurac",
-    "image": "https://images.freekaamaal.com/product-images/product_1788862305_1060.jpg",
-    "product_budget": 150,
-    "is_sold_out": false,
-    "total_count": 91,
-    "effectively_sold_out": false
-  },
-  "1238": {
-    "name": "Beetroot Powder 100g",
-    "store_name": "Neuherbs",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 179,
-    "net_price": 20,
-    "original_price": 199,
-    "claim_link": "https://fkm.asia/4wzo",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/beetroot-powder-100g-mti7xo3i",
-    "image": "https://images.freekaamaal.com/product-images/product_1788239977_5452.jpg",
-    "product_budget": 5,
-    "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": true
-  },
-  "1418": {
-    "name": "Period Care M-L Disposable Period Panties For Women ( 10 Count )",
-    "store_name": "Everteen",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 179,
-    "net_price": 20,
-    "original_price": 199,
-    "claim_link": "https://fkm.asia/4xpa",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/period-care-m-l-disposable-period-panties-for-women-10-count-mtwzhvwv",
-    "image": "https://images.freekaamaal.com/product-images/product_1789132795_2917.jpg",
-    "product_budget": 50,
-    "is_sold_out": false,
-    "total_count": 17,
-    "effectively_sold_out": false
-  },
   "1234": {
     "name": "Spirulina Powder - 100g",
     "store_name": "Neuherbs",
@@ -2863,6 +2815,38 @@
     "total_count": 15,
     "effectively_sold_out": false
   },
+  "1418": {
+    "name": "Period Care M-L Disposable Period Panties For Women ( 10 Count )",
+    "store_name": "Everteen",
+    "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 179,
+    "net_price": 20,
+    "original_price": 199,
+    "claim_link": "https://fkm.asia/4xpa",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/period-care-m-l-disposable-period-panties-for-women-10-count-mtwzhvwv",
+    "image": "https://images.freekaamaal.com/product-images/product_1789132795_2917.jpg",
+    "product_budget": 50,
+    "is_sold_out": false,
+    "total_count": 17,
+    "effectively_sold_out": false
+  },
+  "1238": {
+    "name": "Beetroot Powder 100g",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 179,
+    "net_price": 20,
+    "original_price": 199,
+    "claim_link": "https://fkm.asia/4wzo",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/beetroot-powder-100g-mti7xo3i",
+    "image": "https://images.freekaamaal.com/product-images/product_1788239977_5452.jpg",
+    "product_budget": 5,
+    "is_sold_out": false,
+    "total_count": 5,
+    "effectively_sold_out": true
+  },
   "19": {
     "name": "Teeth Whitening Serum 10ml",
     "store_name": "Perfora",
@@ -2877,6 +2861,22 @@
     "product_budget": 150,
     "is_sold_out": false,
     "total_count": 37,
+    "effectively_sold_out": false
+  },
+  "1369": {
+    "name": "Moroccan Detan Bar Soap for Tan Removal & Skin Brightening (100 g)",
+    "store_name": "Sayy",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 178,
+    "net_price": 0,
+    "original_price": 178,
+    "claim_link": "https://fkm.asia/4xfu",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/moroccan-detan-bar-soap-for-tan-removal-skin-brightening-100-g-mtshurac",
+    "image": "https://images.freekaamaal.com/product-images/product_1788862305_1060.jpg",
+    "product_budget": 150,
+    "is_sold_out": false,
+    "total_count": 91,
     "effectively_sold_out": false
   },
   "1379": {
@@ -3036,7 +3036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789477005_1604.jpg",
     "product_budget": 195,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "1442": {
