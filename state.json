@@ -860,7 +860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712242_5171.jpg",
     "product_budget": 310,
     "is_sold_out": false,
-    "total_count": 86,
+    "total_count": 87,
     "effectively_sold_out": false
   },
   "1347": {
@@ -1115,9 +1115,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/fresh-start-smoothening-scrub-70gm-mtwss3pw",
     "image": "https://images.freekaamaal.com/product-images/product_1788429564_2826.jpg",
     "product_budget": 400,
-    "is_sold_out": false,
-    "total_count": 193,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 194,
+    "effectively_sold_out": true
   },
   "1460": {
     "name": "Brooklyn Ice Cream Combo Instamart ",
@@ -1132,7 +1132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789628790_8654.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 53,
     "effectively_sold_out": false
   },
   "1301": {
@@ -1388,7 +1388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789625613_3193.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1281": {
@@ -1564,7 +1564,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429424_6100.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 231,
+    "total_count": 232,
     "effectively_sold_out": false
   },
   "1395": {
@@ -2220,7 +2220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786355963_4613.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 128,
+    "total_count": 129,
     "effectively_sold_out": false
   },
   "1437": {
@@ -2284,7 +2284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789638904_3651.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1045": {
