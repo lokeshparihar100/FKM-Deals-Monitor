@@ -188,8 +188,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789563883_1724.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1123": {
     "name": "Best Trimmer For Men ( Top Selling )",
@@ -1132,7 +1132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789628790_8654.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1301": {
@@ -1379,7 +1379,7 @@
     "name": "2% Salicylic Acid Body Acne Body Wash (300 ml)",
     "store_name": "Mannlich",
     "platform": "Other",
-    "campaign_type": "review",
+    "campaign_type": "rating",
     "cashback": 356,
     "net_price": 0,
     "original_price": 356,
@@ -1388,7 +1388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789625613_3193.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1281": {
@@ -1907,7 +1907,7 @@
     "name": "Underarm Roll On for Men (50 ml)",
     "store_name": "Mannlich",
     "platform": "Other",
-    "campaign_type": "review",
+    "campaign_type": "rating",
     "cashback": 307,
     "net_price": 0,
     "original_price": 307,
@@ -2067,7 +2067,7 @@
     "name": "Anti-Acne Soap With 2% Salicylic Acid (2 pcs)",
     "store_name": "Mannlich",
     "platform": "Other",
-    "campaign_type": "review",
+    "campaign_type": "rating",
     "cashback": 287,
     "net_price": 0,
     "original_price": 287,
@@ -2076,7 +2076,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789625846_7428.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1380": {
@@ -2611,7 +2611,7 @@
     "name": "Lip Wrap Reviving Balm SPF 50 PA++++ (10 g)",
     "store_name": "Mannlich",
     "platform": "Other",
-    "campaign_type": "review",
+    "campaign_type": "rating",
     "cashback": 227,
     "net_price": 0,
     "original_price": 227,
