@@ -620,7 +620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785921361_6898.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 45,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1244": {
@@ -1164,7 +1164,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789628790_8654.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 131,
+    "total_count": 132,
     "effectively_sold_out": false
   },
   "1301": {
@@ -1420,7 +1420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789625613_3193.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1281": {
@@ -2364,7 +2364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789645371_4549.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1354": {
@@ -2780,8 +2780,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789641208_7940.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 59,
-    "effectively_sold_out": false
+    "total_count": 60,
+    "effectively_sold_out": true
   },
   "1392": {
     "name": "Lip Balm for Dark Lips - 10g",
