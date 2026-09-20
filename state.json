@@ -108,7 +108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789557552_3462.jpg",
     "product_budget": 35,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1239": {
@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789906804_4702.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "1414": {
@@ -620,7 +620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788513384_9121.jpg",
     "product_budget": 16,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "1016": {
@@ -1260,7 +1260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789713096_3145.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 59,
+    "total_count": 60,
     "effectively_sold_out": false
   },
   "1284": {
@@ -1659,9 +1659,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/new-light-gel-face-moisturiser-80-ml-mtwsoblo",
     "image": "https://images.freekaamaal.com/product-images/product_1788429424_6100.jpg",
     "product_budget": 500,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 287,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1300": {
     "name": "Unisex Kids Pack of 3 Patterned Ankle Length Socks ( Any Colour & Any Age )",
@@ -1820,7 +1820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242400_7842.jpg",
     "product_budget": 16,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1385": {
@@ -2892,7 +2892,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789907055_6551.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 114,
+    "total_count": 115,
     "effectively_sold_out": false
   },
   "1392": {
@@ -3356,7 +3356,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789477156_4618.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "1478": {
