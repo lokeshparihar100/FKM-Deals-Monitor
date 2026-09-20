@@ -124,7 +124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788240156_7549.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "1189": {
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789711371_4282.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1390": {
@@ -2284,7 +2284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042855_5188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 102,
+    "total_count": 103,
     "effectively_sold_out": false
   },
   "1303": {
@@ -3244,8 +3244,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210310_8848.jpg",
     "product_budget": 131,
     "is_sold_out": false,
-    "total_count": 130,
-    "effectively_sold_out": false
+    "total_count": 131,
+    "effectively_sold_out": true
   },
   "881": {
     "name": "Comfort All Night Pads | 8 Pads XXXXL",
@@ -3260,7 +3260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787210583_1526.jpg",
     "product_budget": 135,
     "is_sold_out": false,
-    "total_count": 112,
+    "total_count": 113,
     "effectively_sold_out": false
   },
   "1339": {
