@@ -364,7 +364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1775892074_5672.jpg",
     "product_budget": 310,
     "is_sold_out": true,
-    "total_count": 63,
+    "total_count": 64,
     "effectively_sold_out": true
   },
   "1320": {
@@ -476,7 +476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784354265_9650.jpg",
     "product_budget": 104,
     "is_sold_out": true,
-    "total_count": 56,
+    "total_count": 57,
     "effectively_sold_out": true
   },
   "1297": {
@@ -860,7 +860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788773354_9330.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "1295": {
@@ -1916,8 +1916,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788240807_5405.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 29,
-    "effectively_sold_out": false
+    "total_count": 30,
+    "effectively_sold_out": true
   },
   "1333": {
     "name": "Baby Boys & Baby Girls Solid Ankle Length (Pack of 3)",
@@ -2396,7 +2396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 126,
+    "total_count": 127,
     "effectively_sold_out": false
   },
   "1352": {
@@ -2892,8 +2892,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789907055_6551.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 119,
-    "effectively_sold_out": false
+    "total_count": 120,
+    "effectively_sold_out": true
   },
   "1392": {
     "name": "Lip Balm for Dark Lips - 10g",
