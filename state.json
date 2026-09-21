@@ -540,7 +540,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789711522_4777.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "1298": {
@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429762_1023.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1366": {
@@ -1468,8 +1468,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788515324_1295.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1389": {
     "name": "Mocemsa Studd Pour Eau de Parfum - 25 Ml",
@@ -2092,7 +2092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788515979_5035.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1413": {
@@ -3388,7 +3388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789988620_6489.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1485": {
@@ -3452,7 +3452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789991894_6421.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1520": {
@@ -3468,7 +3468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789994572_6360.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1493": {
@@ -3532,7 +3532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789990066_7592.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1496": {
@@ -3948,7 +3948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789987702_8166.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1513": {
@@ -3964,7 +3964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993189_7579.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1360": {
