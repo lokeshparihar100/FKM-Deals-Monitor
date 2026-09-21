@@ -1276,8 +1276,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788515794_8829.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "1310": {
     "name": "Baby Boys & Baby Girls Casual T-shirt Pyjama Set ( Yellow ) Any Age",
@@ -2556,7 +2556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789645371_4549.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 96,
+    "total_count": 97,
     "effectively_sold_out": false
   },
   "1351": {
@@ -2620,7 +2620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789891383_3499.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "1315": {
