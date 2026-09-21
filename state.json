@@ -44,7 +44,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789112538_1196.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1449": {
@@ -556,8 +556,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788437254_7522.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1318": {
     "name": "Kidbea Baby Girls Wide Leg Mid Rise Pink Jeans ( Any Age )",
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789983925_2527.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 235,
+    "total_count": 236,
     "effectively_sold_out": false
   },
   "1345": {
@@ -2460,7 +2460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789969333_3374.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1303": {
@@ -2556,7 +2556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788348223_4466.jpg",
     "product_budget": 180,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1304": {
@@ -2652,7 +2652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789984075_3859.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 105,
+    "total_count": 106,
     "effectively_sold_out": false
   },
   "1045": {
@@ -3596,7 +3596,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789891648_3460.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1361": {
