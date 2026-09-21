@@ -316,7 +316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789557401_6985.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1464": {
@@ -2508,8 +2508,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788438835_9943.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "1437": {
     "name": "Tea Tree Anti Dandruff shampoo - 100 Ml",
@@ -3532,7 +3532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789891648_3460.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 37,
+    "total_count": 38,
     "effectively_sold_out": false
   },
   "1060": {
