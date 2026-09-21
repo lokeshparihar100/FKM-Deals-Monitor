@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789983925_2527.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 243,
+    "total_count": 244,
     "effectively_sold_out": false
   },
   "1301": {
@@ -2012,7 +2012,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
     "product_budget": 47,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "968": {
@@ -2172,8 +2172,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785752579_3188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 199,
-    "effectively_sold_out": false
+    "total_count": 200,
+    "effectively_sold_out": true
   },
   "1289": {
     "name": "Premium Dark Chocolate for Men & Women (Pack of 1)",
@@ -3484,7 +3484,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789989694_3794.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1489": {
@@ -3516,7 +3516,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995128_9212.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1495": {
