@@ -60,7 +60,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790075278_5070.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1449": {
@@ -1388,7 +1388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789713096_3145.jpg",
     "product_budget": 160,
     "is_sold_out": false,
-    "total_count": 83,
+    "total_count": 84,
     "effectively_sold_out": false
   },
   "1284": {
@@ -1468,8 +1468,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242190_2624.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1321": {
     "name": "Short For Baby Boys Casual Solid Pure Cotton (Beige, Pack of 1) Any Age",
@@ -1596,7 +1596,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242400_7842.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1473": {
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790082134_8109.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 28,
     "effectively_sold_out": false
   },
   "1040": {
@@ -1884,7 +1884,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788084864_6314.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 77,
+    "total_count": 78,
     "effectively_sold_out": false
   },
   "1479": {
@@ -2284,7 +2284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785752579_3188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 216,
+    "total_count": 219,
     "effectively_sold_out": true
   },
   "1289": {
