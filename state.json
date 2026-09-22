@@ -1452,8 +1452,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788439590_5922.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1401": {
     "name": "Rainforest Pure Wood Car Air Perfume - 30 Ml",
@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
     "product_budget": 47,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "1514": {
@@ -4268,7 +4268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995315_2663.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1513": {
@@ -4284,7 +4284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993189_7579.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1360": {
