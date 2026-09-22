@@ -684,7 +684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785921361_6898.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 78,
+    "total_count": 79,
     "effectively_sold_out": false
   },
   "1244": {
@@ -2700,8 +2700,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789891383_3499.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 54,
-    "effectively_sold_out": false
+    "total_count": 55,
+    "effectively_sold_out": true
   },
   "1315": {
     "name": "Vest For Boys Viscose (White, Pack of 1) Any Age",
