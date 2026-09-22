@@ -252,7 +252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789996453_9345.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1241": {
@@ -684,7 +684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785921361_6898.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 81,
+    "total_count": 82,
     "effectively_sold_out": false
   },
   "1244": {
@@ -1963,9 +1963,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/the-joker-tin-can-fiber-car-perfume-40g-mtui3icc",
     "image": "https://images.freekaamaal.com/product-images/product_1788242400_7842.jpg",
     "product_budget": 16,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 13,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1259": {
     "name": "3-In-1 Condoms With Chocolates & Blindfold",
@@ -3292,7 +3292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995978_2932.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1373": {
@@ -3964,7 +3964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789992782_4928.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "487": {
