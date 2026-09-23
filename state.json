@@ -892,7 +892,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429762_1023.jpg",
     "product_budget": 500,
     "is_sold_out": true,
-    "total_count": 325,
+    "total_count": 326,
     "effectively_sold_out": true
   },
   "1468": {
@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429762_1023.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "1363": {
@@ -940,8 +940,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788773354_9330.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 24,
-    "effectively_sold_out": false
+    "total_count": 25,
+    "effectively_sold_out": true
   },
   "1242": {
     "name": "Hair Biotin Capsules for Hair Growth ( 60 Capsules )",
@@ -1516,7 +1516,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242190_2624.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1389": {
@@ -1660,7 +1660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 95,
     "is_sold_out": false,
-    "total_count": 45,
+    "total_count": 46,
     "effectively_sold_out": false
   },
   "1424": {
@@ -1676,7 +1676,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347865_2510.jpg",
     "product_budget": 122,
     "is_sold_out": false,
-    "total_count": 42,
+    "total_count": 43,
     "effectively_sold_out": false
   },
   "1549": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043363_7369.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 63,
+    "total_count": 64,
     "effectively_sold_out": false
   },
   "1542": {
@@ -1820,7 +1820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788243025_8063.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1300": {
@@ -2348,7 +2348,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788579592_1959.jpg",
     "product_budget": 33,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "826": {
@@ -2828,7 +2828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789984075_3859.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 136,
+    "total_count": 137,
     "effectively_sold_out": false
   },
   "1045": {
