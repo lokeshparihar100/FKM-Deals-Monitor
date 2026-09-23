@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429762_1023.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 34,
     "effectively_sold_out": false
   },
   "1363": {
@@ -1228,7 +1228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788429564_2826.jpg",
     "product_budget": 240,
     "is_sold_out": false,
-    "total_count": 41,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "1460": {
@@ -1659,9 +1659,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/smct-base-microbial-oud-unisex-body-wash-300-ml-mu0yhcd0",
     "image": "https://images.freekaamaal.com/product-images/product_1788348041_6267.jpg",
     "product_budget": 70,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 44,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1424": {
     "name": "Cupid Marshmallow Revitalizing Body Wash - 300 Ml",
@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790082134_8109.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 34,
     "effectively_sold_out": false
   },
   "1040": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343279_6194.jpg",
     "product_budget": 238,
     "is_sold_out": false,
-    "total_count": 170,
+    "total_count": 171,
     "effectively_sold_out": false
   },
   "1338": {
@@ -2732,7 +2732,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789476832_4679.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1305": {
@@ -2812,7 +2812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789984075_3859.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 128,
+    "total_count": 129,
     "effectively_sold_out": false
   },
   "1364": {
@@ -3724,7 +3724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993680_7447.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1238": {
@@ -3756,7 +3756,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995847_4963.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1529": {
@@ -4028,7 +4028,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789992782_4928.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "487": {
@@ -4060,7 +4060,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789477005_1604.jpg",
     "product_budget": 137,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1555": {
