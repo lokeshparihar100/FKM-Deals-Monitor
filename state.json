@@ -156,7 +156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790081427_9900.jpg",
     "product_budget": 52,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "1187": {
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790082134_8109.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 71,
+    "total_count": 72,
     "effectively_sold_out": false
   },
   "1040": {
@@ -2252,7 +2252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788412630_4321.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 28,
+    "total_count": 29,
     "effectively_sold_out": false
   },
   "976": {
@@ -2812,7 +2812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789476832_4679.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1480": {
@@ -2860,7 +2860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789984075_3859.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 144,
+    "total_count": 146,
     "effectively_sold_out": false
   },
   "1045": {
@@ -3500,7 +3500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790162096_7774.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1277": {
@@ -3612,8 +3612,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789987898_5560.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1484": {
     "name": "Manjistha Powder - 100g",
@@ -3836,7 +3836,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995847_4963.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1238": {
@@ -3900,7 +3900,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789990066_7592.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1489": {
@@ -4172,7 +4172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789477005_1604.jpg",
     "product_budget": 137,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "881": {
