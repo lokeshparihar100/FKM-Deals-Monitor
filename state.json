@@ -764,7 +764,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785921361_6898.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 92,
+    "total_count": 93,
     "effectively_sold_out": false
   },
   "1476": {
@@ -2556,7 +2556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1454": {
@@ -3948,8 +3948,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995128_9212.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "1519": {
     "name": "Ashwagandha Powder - 100 Gm",
@@ -4236,7 +4236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789477156_4618.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "1554": {
@@ -4252,7 +4252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789477005_1604.jpg",
     "product_budget": 137,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "882": {
