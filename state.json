@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993366_3442.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "968": {
@@ -2796,7 +2796,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789476832_4679.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "1481": {
@@ -4028,8 +4028,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789988620_6489.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1486": {
     "name": "Methi Seeds Powder - 200g",
