@@ -1372,7 +1372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995736_9427.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "1474": {
@@ -1756,7 +1756,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790232799_5298.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 121,
+    "total_count": 122,
     "effectively_sold_out": false
   },
   "1040": {
@@ -3548,7 +3548,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788957929_1749.jpg",
     "product_budget": 2500,
     "is_sold_out": false,
-    "total_count": 85,
+    "total_count": 86,
     "effectively_sold_out": false
   },
   "1038": {
@@ -3868,8 +3868,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789994572_6360.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "1515": {
     "name": "Jamun Seed Powder - 200g",
