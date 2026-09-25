@@ -460,8 +460,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788507136_7183.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1367": {
     "name": "Triple Magnesium ( 60 Tablets )",
@@ -1884,7 +1884,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788243025_8063.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1300": {
