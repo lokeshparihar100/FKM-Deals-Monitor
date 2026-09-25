@@ -1756,7 +1756,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790232799_5298.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 116,
+    "total_count": 118,
     "effectively_sold_out": false
   },
   "1040": {
@@ -3468,7 +3468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995978_2932.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1003": {
@@ -3964,7 +3964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789989115_2670.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1488": {
@@ -4444,8 +4444,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789987702_8166.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1526": {
     "name": "Activated Charcoal Powder- 100g",
