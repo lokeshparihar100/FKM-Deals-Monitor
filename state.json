@@ -956,7 +956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789713096_3145.jpg",
     "product_budget": 160,
     "is_sold_out": false,
-    "total_count": 99,
+    "total_count": 100,
     "effectively_sold_out": false
   },
   "1284": {
@@ -1452,7 +1452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042431_3977.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 135,
+    "total_count": 136,
     "effectively_sold_out": false
   },
   "1390": {
@@ -1468,7 +1468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 100,
+    "total_count": 101,
     "effectively_sold_out": false
   },
   "1382": {
@@ -2076,7 +2076,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042682_8464.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 80,
+    "total_count": 81,
     "effectively_sold_out": false
   },
   "1394": {
@@ -2092,7 +2092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042855_5188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 116,
+    "total_count": 117,
     "effectively_sold_out": false
   },
   "1553": {
@@ -2604,7 +2604,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042562_6633.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 50,
+    "total_count": 51,
     "effectively_sold_out": false
   },
   "1544": {
@@ -2700,7 +2700,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788954362_1893.jpg",
     "product_budget": 66,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "1374": {
@@ -3339,7 +3339,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/power-cleanse-shampoo-150-ml-mudmzvjn",
     "image": "https://images.freekaamaal.com/product-images/product_1789477156_4618.jpg",
     "product_budget": 30,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 30,
     "effectively_sold_out": true
   },
