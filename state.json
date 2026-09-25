@@ -1756,7 +1756,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790232799_5298.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 120,
+    "total_count": 121,
     "effectively_sold_out": false
   },
   "1040": {
@@ -3132,7 +3132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242589_1798.jpg",
     "product_budget": 419,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "1440": {
@@ -4492,8 +4492,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789989481_5609.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1359": {
     "name": "Ortho Ankle Support, Heel & Foot Support for Pain Relief ( Size XL )",
