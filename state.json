@@ -508,7 +508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790328978_3761.jpg",
     "product_budget": 7,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1271": {
@@ -620,7 +620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788508113_4541.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1327": {
@@ -1260,7 +1260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790232799_5298.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 143,
+    "total_count": 145,
     "effectively_sold_out": false
   },
   "1040": {
@@ -1324,7 +1324,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242400_7842.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1395": {
@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787645641_7797.jpg",
     "product_budget": 135,
     "is_sold_out": false,
-    "total_count": 63,
+    "total_count": 68,
     "effectively_sold_out": false
   },
   "1372": {
@@ -2844,8 +2844,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789991894_6421.jpg",
     "product_budget": 16,
     "is_sold_out": false,
-    "total_count": 15,
-    "effectively_sold_out": false
+    "total_count": 16,
+    "effectively_sold_out": true
   },
   "1490": {
     "name": "Brahmi Powder - 100g",
@@ -3132,7 +3132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789132476_5245.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 30,
+    "total_count": 31,
     "effectively_sold_out": false
   },
   "487": {
@@ -3404,7 +3404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790345115_6879.jpg",
     "product_budget": 110,
     "is_sold_out": false,
-    "total_count": 28,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "1356": {
