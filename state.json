@@ -268,7 +268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789996453_9345.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1241": {
@@ -1084,7 +1084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242190_2624.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1389": {
@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787645641_7797.jpg",
     "product_budget": 135,
     "is_sold_out": false,
-    "total_count": 103,
+    "total_count": 105,
     "effectively_sold_out": false
   },
   "1372": {
@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789984075_3859.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 175,
+    "total_count": 176,
     "effectively_sold_out": false
   },
   "1364": {
@@ -2380,8 +2380,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788352597_9875.jpg",
     "product_budget": 34,
     "is_sold_out": false,
-    "total_count": 33,
-    "effectively_sold_out": false
+    "total_count": 34,
+    "effectively_sold_out": true
   },
   "1299": {
     "name": "Unisex Kids Pack of 2 Above Ankle Socks ( Any Colour & Age )",
@@ -3196,7 +3196,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789132288_2663.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 41,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "1339": {
