@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789557838_3544.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1399": {
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 95,
     "is_sold_out": false,
-    "total_count": 52,
+    "total_count": 53,
     "effectively_sold_out": false
   },
   "1549": {
@@ -1564,7 +1564,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
     "product_budget": 47,
     "is_sold_out": false,
-    "total_count": 22,
+    "total_count": 23,
     "effectively_sold_out": false
   },
   "1243": {
@@ -1692,8 +1692,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787645641_7797.jpg",
     "product_budget": 135,
     "is_sold_out": false,
-    "total_count": 134,
-    "effectively_sold_out": false
+    "total_count": 135,
+    "effectively_sold_out": true
   },
   "1469": {
     "name": "Teeth Whitening Strips - Pack of 3",
@@ -2604,7 +2604,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788954362_1893.jpg",
     "product_budget": 66,
     "is_sold_out": false,
-    "total_count": 31,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "1038": {
@@ -3388,7 +3388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790345115_6879.jpg",
     "product_budget": 110,
     "is_sold_out": false,
-    "total_count": 70,
+    "total_count": 72,
     "effectively_sold_out": false
   },
   "1356": {
