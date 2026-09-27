@@ -796,7 +796,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788410778_1922.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 64,
+    "total_count": 65,
     "effectively_sold_out": false
   },
   "1225": {
@@ -956,7 +956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790332282_4468.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 64,
+    "total_count": 65,
     "effectively_sold_out": false
   },
   "1474": {
@@ -1276,7 +1276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790232799_5298.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 178,
+    "total_count": 179,
     "effectively_sold_out": false
   },
   "1040": {
@@ -1452,7 +1452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042431_3977.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 142,
+    "total_count": 143,
     "effectively_sold_out": false
   },
   "1390": {
@@ -2972,8 +2972,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789990066_7592.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "1489": {
     "name": "Aloe Vera Powder - 100g",
