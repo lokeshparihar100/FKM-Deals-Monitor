@@ -684,7 +684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788586722_8258.jpg",
     "product_budget": 24,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "1317": {
@@ -972,7 +972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789713096_3145.jpg",
     "product_budget": 160,
     "is_sold_out": false,
-    "total_count": 107,
+    "total_count": 108,
     "effectively_sold_out": false
   },
   "1284": {
@@ -1372,7 +1372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788243025_8063.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "1466": {
@@ -1468,7 +1468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 106,
+    "total_count": 107,
     "effectively_sold_out": false
   },
   "1385": {
@@ -1772,7 +1772,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786355252_1079.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 77,
+    "total_count": 78,
     "effectively_sold_out": false
   },
   "1352": {
@@ -3212,7 +3212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789132288_2663.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 45,
+    "total_count": 46,
     "effectively_sold_out": false
   },
   "1339": {
@@ -3388,8 +3388,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788585510_1557.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1378": {
     "name": "Premium Fox Nuts/Phool Makhana, 100 g",
@@ -3420,7 +3420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790345115_6879.jpg",
     "product_budget": 110,
     "is_sold_out": false,
-    "total_count": 90,
+    "total_count": 91,
     "effectively_sold_out": false
   },
   "1356": {
@@ -3436,7 +3436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788584354_4383.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   }
 }
