@@ -1276,8 +1276,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242400_7842.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1395": {
     "name": "Mannlich Foaming Intimate Wash for Men - 150 Ml",
@@ -1580,7 +1580,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785752579_3188.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 257,
+    "total_count": 258,
     "effectively_sold_out": false
   },
   "1289": {
@@ -1676,7 +1676,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786355252_1079.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 79,
+    "total_count": 80,
     "effectively_sold_out": false
   },
   "1372": {
@@ -2684,7 +2684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343467_2756.jpg",
     "product_budget": 644,
     "is_sold_out": false,
-    "total_count": 124,
+    "total_count": 125,
     "effectively_sold_out": false
   },
   "1387": {
