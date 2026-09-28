@@ -1276,7 +1276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343279_6194.jpg",
     "product_budget": 238,
     "is_sold_out": false,
-    "total_count": 184,
+    "total_count": 186,
     "effectively_sold_out": false
   },
   "1338": {
@@ -2988,8 +2988,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789991002_5650.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "1491": {
     "name": "Shatavari 60 Tablets for Women",
