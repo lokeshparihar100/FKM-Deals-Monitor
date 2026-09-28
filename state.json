@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789384260_9420.jpg",
     "product_budget": 38,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "1568": {
@@ -746,9 +746,9 @@
     "claim_link": "https://fkm.asia/4y9z",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/brown-cherries-dark-roast-mocha-instant-coffee-100g-mul8zgib",
     "image": "https://images.freekaamaal.com/product-images/product_1790599908_9076.jpg",
-    "product_budget": 25,
+    "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1583": {
@@ -1260,7 +1260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790232799_5298.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 218,
+    "total_count": 219,
     "effectively_sold_out": false
   },
   "1040": {
@@ -1276,7 +1276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343279_6194.jpg",
     "product_budget": 238,
     "is_sold_out": false,
-    "total_count": 186,
+    "total_count": 187,
     "effectively_sold_out": false
   },
   "1338": {
@@ -1324,7 +1324,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043363_7369.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 87,
+    "total_count": 88,
     "effectively_sold_out": false
   },
   "1542": {
@@ -1596,7 +1596,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 105,
+    "total_count": 107,
     "effectively_sold_out": false
   },
   "1290": {
@@ -3087,22 +3087,6 @@
     "total_count": 51,
     "effectively_sold_out": false
   },
-  "1555": {
-    "name": "Power Cleanse Shampoo 150 ml",
-    "store_name": "Detoxie",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 162,
-    "net_price": 17,
-    "original_price": 179,
-    "claim_link": "https://fkm.asia/4xs2",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/power-cleanse-shampoo-150-ml-mudmzvjn",
-    "image": "https://images.freekaamaal.com/product-images/product_1789477156_4618.jpg",
-    "product_budget": 30,
-    "is_sold_out": true,
-    "total_count": 30,
-    "effectively_sold_out": true
-  },
   "1554": {
     "name": "Hard Water Hair Mask - 150g ",
     "store_name": "Detoxie",
@@ -3118,6 +3102,22 @@
     "is_sold_out": false,
     "total_count": 49,
     "effectively_sold_out": false
+  },
+  "1555": {
+    "name": "Power Cleanse Shampoo 150 ml",
+    "store_name": "Detoxie",
+    "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 162,
+    "net_price": 17,
+    "original_price": 179,
+    "claim_link": "https://fkm.asia/4xs2",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/power-cleanse-shampoo-150-ml-mudmzvjn",
+    "image": "https://images.freekaamaal.com/product-images/product_1789477156_4618.jpg",
+    "product_budget": 30,
+    "is_sold_out": true,
+    "total_count": 30,
+    "effectively_sold_out": true
   },
   "1339": {
     "name": "Baby Girls Midi/Knee Length Casual Dress (Multicolor, Pack Of 1) Any Age & Any Design",
