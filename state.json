@@ -588,8 +588,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788508113_4541.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "1327": {
     "name": "Girls Solid Flared Pink Skirt ( Any Age )",
@@ -668,7 +668,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582314_2118.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 78,
+    "total_count": 79,
     "effectively_sold_out": false
   },
   "1363": {
@@ -1004,7 +1004,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242190_2624.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 35,
     "effectively_sold_out": false
   },
   "1220": {
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789984075_3859.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 197,
+    "total_count": 198,
     "effectively_sold_out": false
   },
   "1403": {
@@ -2316,7 +2316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788410236_8061.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1306": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788954362_1893.jpg",
     "product_budget": 66,
     "is_sold_out": false,
-    "total_count": 37,
+    "total_count": 38,
     "effectively_sold_out": false
   },
   "1374": {
@@ -2716,7 +2716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1400,
     "is_sold_out": false,
-    "total_count": 112,
+    "total_count": 113,
     "effectively_sold_out": false
   },
   "1559": {
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789034818_4510.jpg",
     "product_budget": 110,
     "is_sold_out": false,
-    "total_count": 99,
+    "total_count": 100,
     "effectively_sold_out": false
   },
   "1573": {
