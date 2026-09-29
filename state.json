@@ -140,8 +140,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790081427_9900.jpg",
     "product_budget": 52,
     "is_sold_out": false,
-    "total_count": 51,
-    "effectively_sold_out": false
+    "total_count": 52,
+    "effectively_sold_out": true
   },
   "1187": {
     "name": "No.1 Women's Trimmer* | Ultimate Precision",
@@ -252,7 +252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790328843_2088.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "1370": {
@@ -652,7 +652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788523972_1106.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 70,
+    "total_count": 71,
     "effectively_sold_out": false
   },
   "1583": {
@@ -1660,7 +1660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788346096_3134.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 42,
+    "total_count": 43,
     "effectively_sold_out": false
   },
   "74": {
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 66,
+    "total_count": 67,
     "effectively_sold_out": false
   },
   "1350": {
@@ -1836,7 +1836,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658023_9312.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 147,
+    "total_count": 148,
     "effectively_sold_out": false
   },
   "1404": {
@@ -2188,7 +2188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788410236_8061.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 56,
+    "total_count": 57,
     "effectively_sold_out": false
   },
   "1306": {
@@ -2572,7 +2572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790162096_7774.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 90,
+    "total_count": 91,
     "effectively_sold_out": false
   },
   "1489": {
@@ -2732,7 +2732,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788958121_6289.jpg",
     "product_budget": 2900,
     "is_sold_out": false,
-    "total_count": 95,
+    "total_count": 96,
     "effectively_sold_out": false
   },
   "1576": {
