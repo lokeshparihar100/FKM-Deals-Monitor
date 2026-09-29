@@ -252,7 +252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790328843_2088.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1370": {
@@ -492,7 +492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349216_1285.jpg",
     "product_budget": 64,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1476": {
@@ -588,7 +588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582314_2118.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 114,
+    "total_count": 115,
     "effectively_sold_out": false
   },
   "1363": {
@@ -780,7 +780,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582444_5266.jpg",
     "product_budget": 240,
     "is_sold_out": false,
-    "total_count": 115,
+    "total_count": 117,
     "effectively_sold_out": false
   },
   "1460": {
@@ -1084,7 +1084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790574257_5714.jpg",
     "product_budget": 105,
     "is_sold_out": false,
-    "total_count": 75,
+    "total_count": 76,
     "effectively_sold_out": false
   },
   "968": {
@@ -1148,7 +1148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343279_6194.jpg",
     "product_budget": 238,
     "is_sold_out": false,
-    "total_count": 195,
+    "total_count": 196,
     "effectively_sold_out": false
   },
   "1338": {
@@ -1212,7 +1212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582564_5111.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 92,
+    "total_count": 93,
     "effectively_sold_out": false
   },
   "1395": {
@@ -2092,7 +2092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 73,
+    "total_count": 74,
     "effectively_sold_out": false
   },
   "1575": {
@@ -2492,7 +2492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
     "product_budget": 2130,
     "is_sold_out": false,
-    "total_count": 111,
+    "total_count": 112,
     "effectively_sold_out": false
   },
   "1517": {
@@ -2940,8 +2940,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789994788_3818.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "1526": {
     "name": "Activated Charcoal Powder- 100g",
