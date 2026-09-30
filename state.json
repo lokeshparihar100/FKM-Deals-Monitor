@@ -2332,7 +2332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778656697_4760.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 274,
+    "total_count": 275,
     "effectively_sold_out": false
   },
   "1334": {
@@ -2364,7 +2364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788348561_4746.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 28,
+    "total_count": 29,
     "effectively_sold_out": false
   },
   "1560": {
@@ -2620,8 +2620,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789989287_8192.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "1536": {
     "name": "Kasturi Haldi Powder - 100g",
