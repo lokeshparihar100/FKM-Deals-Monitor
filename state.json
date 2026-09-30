@@ -588,7 +588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582314_2118.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 132,
+    "total_count": 134,
     "effectively_sold_out": false
   },
   "1363": {
@@ -780,7 +780,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582444_5266.jpg",
     "product_budget": 240,
     "is_sold_out": false,
-    "total_count": 133,
+    "total_count": 134,
     "effectively_sold_out": false
   },
   "1460": {
@@ -1084,7 +1084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790574257_5714.jpg",
     "product_budget": 105,
     "is_sold_out": false,
-    "total_count": 96,
+    "total_count": 97,
     "effectively_sold_out": false
   },
   "968": {
@@ -1116,7 +1116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347865_2510.jpg",
     "product_budget": 122,
     "is_sold_out": false,
-    "total_count": 64,
+    "total_count": 65,
     "effectively_sold_out": false
   },
   "1549": {
@@ -1212,7 +1212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582564_5111.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 105,
+    "total_count": 106,
     "effectively_sold_out": false
   },
   "1395": {
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 125,
+    "total_count": 127,
     "effectively_sold_out": false
   },
   "1290": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788579592_1959.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 17,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "1518": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042682_8464.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 93,
+    "total_count": 94,
     "effectively_sold_out": false
   },
   "1383": {
@@ -2092,7 +2092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 83,
+    "total_count": 84,
     "effectively_sold_out": false
   },
   "1575": {
@@ -2428,7 +2428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788954362_1893.jpg",
     "product_budget": 66,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "1038": {
@@ -2476,7 +2476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788957929_1749.jpg",
     "product_budget": 2500,
     "is_sold_out": false,
-    "total_count": 106,
+    "total_count": 108,
     "effectively_sold_out": false
   },
   "1037": {
@@ -2956,8 +2956,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995315_2663.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "1513": {
     "name": "Wheatgrass Powder - 100g",
