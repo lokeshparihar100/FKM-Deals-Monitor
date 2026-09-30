@@ -444,7 +444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788350034_6099.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "1337": {
@@ -588,7 +588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582314_2118.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 147,
+    "total_count": 148,
     "effectively_sold_out": false
   },
   "1363": {
@@ -715,9 +715,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/you-me-combo-set-of-2-premium-dark-mood-uplifting-chocolates-mtl1gpe3",
     "image": "https://images.freekaamaal.com/product-images/product_1788410778_1922.jpg",
     "product_budget": 120,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 80,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1308": {
     "name": "Bamboo Muslin Newborn Baby Sleeveless Jhabla Vest ( Pack Of 5 ), Any Colour & Age",
@@ -764,8 +764,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784098304_9650.jpg",
     "product_budget": 71,
     "is_sold_out": false,
-    "total_count": 70,
-    "effectively_sold_out": false
+    "total_count": 71,
+    "effectively_sold_out": true
   },
   "1467": {
     "name": "Fresh Start Smoothening Scrub - 70gm",
@@ -1116,7 +1116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347865_2510.jpg",
     "product_budget": 122,
     "is_sold_out": false,
-    "total_count": 74,
+    "total_count": 75,
     "effectively_sold_out": false
   },
   "1549": {
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 135,
+    "total_count": 136,
     "effectively_sold_out": false
   },
   "1290": {
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 78,
+    "total_count": 79,
     "effectively_sold_out": false
   },
   "1350": {
@@ -1948,7 +1948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788242589_1798.jpg",
     "product_budget": 419,
     "is_sold_out": false,
-    "total_count": 95,
+    "total_count": 96,
     "effectively_sold_out": false
   },
   "1304": {
@@ -2012,7 +2012,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789984075_3859.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 216,
+    "total_count": 217,
     "effectively_sold_out": false
   },
   "1364": {
@@ -2092,7 +2092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 89,
+    "total_count": 90,
     "effectively_sold_out": false
   },
   "1575": {
@@ -2492,7 +2492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
     "product_budget": 2130,
     "is_sold_out": false,
-    "total_count": 121,
+    "total_count": 122,
     "effectively_sold_out": false
   },
   "1517": {
@@ -2844,7 +2844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 180,
+    "total_count": 181,
     "effectively_sold_out": false
   },
   "1555": {
