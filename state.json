@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790847049_9667.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1467": {
@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790846794_9502.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1587": {
@@ -444,7 +444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785752579_3188.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 289,
+    "total_count": 290,
     "effectively_sold_out": false
   },
   "1595": {
@@ -996,8 +996,8 @@
     "store_name": "Ragecoffee",
     "platform": "Meesho",
     "campaign_type": "review",
-    "cashback": 192,
-    "net_price": 46,
+    "cashback": 191,
+    "net_price": 47,
     "original_price": 238,
     "claim_link": "https://fkm.asia/4ybr",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/instant-coffee-sachets-pack-of-10-free-frother-mup9wub4",
