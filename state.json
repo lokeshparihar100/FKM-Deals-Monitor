@@ -28,7 +28,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788955125_4564.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "1414": {
@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790847049_9667.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "1467": {
@@ -284,7 +284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 446,
+    "total_count": 447,
     "effectively_sold_out": false
   },
   "1466": {
@@ -300,7 +300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582564_5111.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 135,
+    "total_count": 136,
     "effectively_sold_out": false
   },
   "1395": {
@@ -428,7 +428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 163,
+    "total_count": 164,
     "effectively_sold_out": false
   },
   "976": {
@@ -1148,8 +1148,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790602955_9285.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 52,
-    "effectively_sold_out": false
+    "total_count": 60,
+    "effectively_sold_out": true
   },
   "1585": {
     "name": "Natural Disinfectant Surface & Floor Cleaning Liquid | 500 ML",
@@ -1164,7 +1164,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790602277_8970.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 55,
     "effectively_sold_out": false
   },
   "1592": {
