@@ -156,8 +156,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791006981_4994.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "1414": {
     "name": "Purple Magic Whitening Serum, 60ml",
@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785751305_9642.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 80,
+    "total_count": 81,
     "effectively_sold_out": false
   },
   "1608": {
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789034361_4557.jpg",
     "product_budget": 140,
     "is_sold_out": false,
-    "total_count": 113,
+    "total_count": 114,
     "effectively_sold_out": false
   },
   "1594": {
