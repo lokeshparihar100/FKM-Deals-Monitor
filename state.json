@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785751305_9642.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 82,
+    "total_count": 83,
     "effectively_sold_out": false
   },
   "1608": {
@@ -924,8 +924,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791007882_4786.jpg",
     "product_budget": 1,
     "is_sold_out": false,
-    "total_count": null,
-    "effectively_sold_out": false
+    "total_count": 1,
+    "effectively_sold_out": true
   },
   "1566": {
     "name": "Anti-Acne Soap 75g ( Pack Of 2 )",
