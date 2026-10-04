@@ -188,8 +188,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791033131_8297.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1570": {
     "name": "Inflammation Relief Supplement 500 mg ( 60 Veg Tablets )",
@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785751305_9642.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 83,
+    "total_count": 84,
     "effectively_sold_out": false
   },
   "1608": {
@@ -1068,7 +1068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658023_9312.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 190,
+    "total_count": 191,
     "effectively_sold_out": false
   },
   "1606": {
