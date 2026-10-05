@@ -26,25 +26,9 @@
     "claim_link": "https://fkm.asia/4ycf",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/dare-box-5-items-in-1-gift-box-perfect-for-gifting-musfmxcy",
     "image": "https://images.freekaamaal.com/product-images/product_1791034357_8561.jpg",
-    "product_budget": 5,
+    "product_budget": 10,
     "is_sold_out": false,
     "total_count": 5,
-    "effectively_sold_out": true
-  },
-  "1615": {
-    "name": "Nooky Nurse Roleplay Costume Set for Women",
-    "store_name": "Nooky",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 944,
-    "net_price": 236,
-    "original_price": 1180,
-    "claim_link": "https://fkm.asia/4yca",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/nooky-nurse-roleplay-costume-set-for-women-musf36tm",
-    "image": "https://images.freekaamaal.com/product-images/product_1791033442_8691.jpg",
-    "product_budget": 5,
-    "is_sold_out": false,
-    "total_count": null,
     "effectively_sold_out": false
   },
   "1617": {
@@ -58,10 +42,10 @@
     "claim_link": "https://fkm.asia/4ycc",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/nooky-ms-saree-tonight-roleplay-costume-set-for-women-musfa5wg",
     "image": "https://images.freekaamaal.com/product-images/product_1791036260_6423.jpg",
-    "product_budget": 5,
+    "product_budget": 9,
     "is_sold_out": false,
     "total_count": 5,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1614": {
     "name": "Nooky Police Roleplay Costume Set for Women",
@@ -74,9 +58,25 @@
     "claim_link": "https://fkm.asia/4yc9",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/nooky-police-roleplay-costume-set-for-women-musezonc",
     "image": "https://images.freekaamaal.com/product-images/product_1791033290_5450.jpg",
-    "product_budget": 5,
+    "product_budget": 9,
     "is_sold_out": false,
     "total_count": 1,
+    "effectively_sold_out": false
+  },
+  "1615": {
+    "name": "Nooky Nurse Roleplay Costume Set for Women",
+    "store_name": "Nooky",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 944,
+    "net_price": 236,
+    "original_price": 1180,
+    "claim_link": "https://fkm.asia/4yca",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/nooky-nurse-roleplay-costume-set-for-women-musf36tm",
+    "image": "https://images.freekaamaal.com/product-images/product_1791033442_8691.jpg",
+    "product_budget": 9,
+    "is_sold_out": false,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "1598": {
@@ -186,10 +186,10 @@
     "claim_link": "https://fkm.asia/4yc8",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/nooky-dream-box-4-in-1-date-night-kit-for-couples-black-musewdbc",
     "image": "https://images.freekaamaal.com/product-images/product_1791033131_8297.jpg",
-    "product_budget": 5,
+    "product_budget": 9,
     "is_sold_out": false,
     "total_count": 5,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1414": {
     "name": "Purple Magic Whitening Serum, 60ml",
@@ -623,22 +623,6 @@
     "total_count": null,
     "effectively_sold_out": false
   },
-  "641": {
-    "name": "De-Tan & Detox Body Wash (300 ml)",
-    "store_name": "Mannlich",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 359,
-    "net_price": 0,
-    "original_price": 359,
-    "claim_link": "https://fkm.asia/4ut4",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/de-tan-detox-body-wash-300-ml-mq52z2ue",
-    "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
-    "product_budget": 500,
-    "is_sold_out": false,
-    "total_count": 448,
-    "effectively_sold_out": false
-  },
   "1473": {
     "name": "2% Salicylic Acid Body Acne Wash for Men (300 ml)",
     "store_name": "Mannlich",
@@ -653,6 +637,22 @@
     "product_budget": 200,
     "is_sold_out": false,
     "total_count": 115,
+    "effectively_sold_out": false
+  },
+  "641": {
+    "name": "De-Tan & Detox Body Wash (300 ml)",
+    "store_name": "Mannlich",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 359,
+    "net_price": 0,
+    "original_price": 359,
+    "claim_link": "https://fkm.asia/4ut4",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/de-tan-detox-body-wash-300-ml-mq52z2ue",
+    "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
+    "product_budget": 500,
+    "is_sold_out": false,
+    "total_count": 448,
     "effectively_sold_out": false
   },
   "1623": {
@@ -719,22 +719,6 @@
     "total_count": null,
     "effectively_sold_out": false
   },
-  "1466": {
-    "name": "New Light Gel Face Moisturiser ( 80 Ml )",
-    "store_name": "Asaya",
-    "platform": "Amazon",
-    "campaign_type": "rating",
-    "cashback": 339,
-    "net_price": 0,
-    "original_price": 339,
-    "claim_link": "https://fkm.asia/4x57",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/new-light-gel-face-moisturiser-80-ml-mu5hj9ql",
-    "image": "https://images.freekaamaal.com/product-images/product_1790582564_5111.jpg",
-    "product_budget": 300,
-    "is_sold_out": false,
-    "total_count": 146,
-    "effectively_sold_out": false
-  },
   "1395": {
     "name": "Mannlich Foaming Intimate Wash for Men - 150 Ml",
     "store_name": "Mannlich",
@@ -749,6 +733,22 @@
     "product_budget": 300,
     "is_sold_out": false,
     "total_count": 143,
+    "effectively_sold_out": false
+  },
+  "1466": {
+    "name": "New Light Gel Face Moisturiser ( 80 Ml )",
+    "store_name": "Asaya",
+    "platform": "Amazon",
+    "campaign_type": "rating",
+    "cashback": 339,
+    "net_price": 0,
+    "original_price": 339,
+    "claim_link": "https://fkm.asia/4x57",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/new-light-gel-face-moisturiser-80-ml-mu5hj9ql",
+    "image": "https://images.freekaamaal.com/product-images/product_1790582564_5111.jpg",
+    "product_budget": 300,
+    "is_sold_out": false,
+    "total_count": 146,
     "effectively_sold_out": false
   },
   "1610": {
@@ -847,22 +847,6 @@
     "total_count": 42,
     "effectively_sold_out": false
   },
-  "1390": {
-    "name": "2% Salicylic Acid Body Acne Wash for Men (300 ml)",
-    "store_name": "Mannlich",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 323,
-    "net_price": 36,
-    "original_price": 359,
-    "claim_link": "https://fkm.asia/4xmu",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-body-acne-wash-for-men-300-ml-mtukp01c",
-    "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
-    "product_budget": 200,
-    "is_sold_out": false,
-    "total_count": 152,
-    "effectively_sold_out": false
-  },
   "1391": {
     "name": "De-Tan & Detox Body Wash (300 ml)",
     "store_name": "Mannlich",
@@ -878,6 +862,22 @@
     "is_sold_out": true,
     "total_count": 179,
     "effectively_sold_out": true
+  },
+  "1390": {
+    "name": "2% Salicylic Acid Body Acne Wash for Men (300 ml)",
+    "store_name": "Mannlich",
+    "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 323,
+    "net_price": 36,
+    "original_price": 359,
+    "claim_link": "https://fkm.asia/4xmu",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-body-acne-wash-for-men-300-ml-mtukp01c",
+    "image": "https://images.freekaamaal.com/product-images/product_1786104512_2706.jpg",
+    "product_budget": 200,
+    "is_sold_out": false,
+    "total_count": 152,
+    "effectively_sold_out": false
   },
   "973": {
     "name": "13 Herbs Hair Oil for Hair Growth & Hair Fall Control ( 50 Ml )",
@@ -911,22 +911,6 @@
     "total_count": 19,
     "effectively_sold_out": false
   },
-  "1396": {
-    "name": "Underarm Roll-On for Men - 50 Ml",
-    "store_name": "Mannlich",
-    "platform": "Blinkit",
-    "campaign_type": "rating",
-    "cashback": 309,
-    "net_price": 0,
-    "original_price": 309,
-    "claim_link": "https://fkm.asia/4xn8",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/underarm-roll-on-for-men-50-ml-mtulf0a4",
-    "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
-    "product_budget": 200,
-    "is_sold_out": false,
-    "total_count": 176,
-    "effectively_sold_out": false
-  },
   "1630": {
     "name": "Tinted Sunscreen with SPF 50++++ ( 50 Ml )",
     "store_name": "Neud",
@@ -941,6 +925,22 @@
     "product_budget": 8,
     "is_sold_out": false,
     "total_count": 1,
+    "effectively_sold_out": false
+  },
+  "1396": {
+    "name": "Underarm Roll-On for Men - 50 Ml",
+    "store_name": "Mannlich",
+    "platform": "Blinkit",
+    "campaign_type": "rating",
+    "cashback": 309,
+    "net_price": 0,
+    "original_price": 309,
+    "claim_link": "https://fkm.asia/4xn8",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/underarm-roll-on-for-men-50-ml-mtulf0a4",
+    "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
+    "product_budget": 200,
+    "is_sold_out": false,
+    "total_count": 176,
     "effectively_sold_out": false
   },
   "976": {
@@ -959,22 +959,6 @@
     "total_count": 300,
     "effectively_sold_out": true
   },
-  "1612": {
-    "name": "Premium Roasted & Salted Pistachios, 200 g",
-    "store_name": "Kharifoods",
-    "platform": "Zepto",
-    "campaign_type": "rating",
-    "cashback": 302,
-    "net_price": 74,
-    "original_price": 376,
-    "claim_link": "https://fkm.asia/4yc7",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/premium-roasted-salted-pistachios-200-g-mus0qjtz",
-    "image": "https://images.freekaamaal.com/product-images/product_1787645641_7797.jpg",
-    "product_budget": 100,
-    "is_sold_out": false,
-    "total_count": 61,
-    "effectively_sold_out": false
-  },
   "1595": {
     "name": "Silk Blend Belgian Chocolate 120 GM",
     "store_name": "Ragecoffee",
@@ -991,20 +975,20 @@
     "total_count": 12,
     "effectively_sold_out": true
   },
-  "1043": {
-    "name": "Underarm Roll-On for Men, 2% Kojic & Salicylic Acid",
-    "store_name": "Mannlich",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 299,
-    "net_price": 0,
-    "original_price": 299,
-    "claim_link": "https://fkm.asia/4w44",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/underarm-roll-on-for-men-2-kojic-salicylic-acid-msn1svit",
-    "image": "https://images.freekaamaal.com/product-images/product_1786355252_1079.jpg",
-    "product_budget": 200,
+  "1612": {
+    "name": "Premium Roasted & Salted Pistachios, 200 g",
+    "store_name": "Kharifoods",
+    "platform": "Zepto",
+    "campaign_type": "rating",
+    "cashback": 302,
+    "net_price": 74,
+    "original_price": 376,
+    "claim_link": "https://fkm.asia/4yc7",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/premium-roasted-salted-pistachios-200-g-mus0qjtz",
+    "image": "https://images.freekaamaal.com/product-images/product_1787645641_7797.jpg",
+    "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 99,
+    "total_count": 61,
     "effectively_sold_out": false
   },
   "1469": {
@@ -1036,7 +1020,23 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789714308_4106.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 34,
+    "effectively_sold_out": false
+  },
+  "1043": {
+    "name": "Underarm Roll-On for Men, 2% Kojic & Salicylic Acid",
+    "store_name": "Mannlich",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 299,
+    "net_price": 0,
+    "original_price": 299,
+    "claim_link": "https://fkm.asia/4w44",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/underarm-roll-on-for-men-2-kojic-salicylic-acid-msn1svit",
+    "image": "https://images.freekaamaal.com/product-images/product_1786355252_1079.jpg",
+    "product_budget": 200,
+    "is_sold_out": false,
+    "total_count": 99,
     "effectively_sold_out": false
   },
   "1351": {
@@ -1183,22 +1183,6 @@
     "total_count": 2,
     "effectively_sold_out": false
   },
-  "1627": {
-    "name": "Mini Bites Mood-Enhancing Dark Chocolate With Scratch Card",
-    "store_name": "Nooky",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 280,
-    "net_price": 0,
-    "original_price": 280,
-    "claim_link": "https://fkm.asia/4yco",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/mini-bites-mood-enhancing-dark-chocolate-with-scratch-card-musgfj6g",
-    "image": "https://images.freekaamaal.com/product-images/product_1791035706_2858.jpg",
-    "product_budget": 10,
-    "is_sold_out": false,
-    "total_count": null,
-    "effectively_sold_out": false
-  },
   "1621": {
     "name": "Mini Bites Luxurious Dark Chocolate for Couples ( Pack Of 1 )",
     "store_name": "Nooky",
@@ -1215,20 +1199,20 @@
     "total_count": null,
     "effectively_sold_out": false
   },
-  "1631": {
-    "name": "Invisible Sunscreen Spray SPF 50++++ ( 100 Ml )",
-    "store_name": "Neud",
+  "1627": {
+    "name": "Mini Bites Mood-Enhancing Dark Chocolate With Scratch Card",
+    "store_name": "Nooky",
     "platform": "Amazon",
     "campaign_type": "review",
-    "cashback": 279,
+    "cashback": 280,
     "net_price": 0,
-    "original_price": 279,
-    "claim_link": "https://fkm.asia/4y87",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/invisible-sunscreen-spray-spf-50-100-ml-muv1va6x",
-    "image": "https://images.freekaamaal.com/product-images/product_1790433124_9071.jpg",
-    "product_budget": 8,
+    "original_price": 280,
+    "claim_link": "https://fkm.asia/4yco",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/mini-bites-mood-enhancing-dark-chocolate-with-scratch-card-musgfj6g",
+    "image": "https://images.freekaamaal.com/product-images/product_1791035706_2858.jpg",
+    "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "1350": {
@@ -1245,6 +1229,22 @@
     "product_budget": 48,
     "is_sold_out": false,
     "total_count": 16,
+    "effectively_sold_out": false
+  },
+  "1631": {
+    "name": "Invisible Sunscreen Spray SPF 50++++ ( 100 Ml )",
+    "store_name": "Neud",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 279,
+    "net_price": 0,
+    "original_price": 279,
+    "claim_link": "https://fkm.asia/4y87",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/invisible-sunscreen-spray-spf-50-100-ml-muv1va6x",
+    "image": "https://images.freekaamaal.com/product-images/product_1790433124_9071.jpg",
+    "product_budget": 8,
+    "is_sold_out": false,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1365": {
@@ -1404,7 +1404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791206269_5725.jpg",
     "product_budget": 1625,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1045": {
@@ -1532,24 +1532,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788583354_2071.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 17,
-    "effectively_sold_out": false
-  },
-  "1642": {
-    "name": "Detoxifying Face Wash - 100 Ml",
-    "store_name": "Bynakedfact",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 220,
-    "net_price": 24,
-    "original_price": 244,
-    "claim_link": "https://fkm.asia/4yef",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/detoxifying-face-wash-100-ml-muv9u7hm",
-    "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
-    "product_budget": 125,
-    "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 18,
+    "effectively_sold_out": true
   },
   "1590": {
     "name": "Silk Blend Creamy Hazelnut 60g + Free Frother",
@@ -1567,6 +1551,22 @@
     "total_count": 12,
     "effectively_sold_out": true
   },
+  "451": {
+    "name": "Purple Whitening Toothpaste (125g ) ",
+    "store_name": "Perfora",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 220,
+    "net_price": 0,
+    "original_price": 220,
+    "claim_link": "https://fkm.asia/49i7",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/purple-whitening-toothpaste-125g-mp3qbwu5",
+    "image": "https://images.freekaamaal.com/product-images/product_1778656697_4760.jpg",
+    "product_budget": 400,
+    "is_sold_out": false,
+    "total_count": 306,
+    "effectively_sold_out": false
+  },
   "1644": {
     "name": "Rose Water Facial Tonic Mist - 100 Ml",
     "store_name": "Bynakedfact",
@@ -1583,20 +1583,20 @@
     "total_count": 1,
     "effectively_sold_out": false
   },
-  "451": {
-    "name": "Purple Whitening Toothpaste (125g ) ",
-    "store_name": "Perfora",
-    "platform": "Flipkart",
-    "campaign_type": "review",
+  "1642": {
+    "name": "Detoxifying Face Wash - 100 Ml",
+    "store_name": "Bynakedfact",
+    "platform": "Amazon",
+    "campaign_type": "order",
     "cashback": 220,
-    "net_price": 0,
-    "original_price": 220,
-    "claim_link": "https://fkm.asia/49i7",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/purple-whitening-toothpaste-125g-mp3qbwu5",
-    "image": "https://images.freekaamaal.com/product-images/product_1778656697_4760.jpg",
-    "product_budget": 400,
+    "net_price": 24,
+    "original_price": 244,
+    "claim_link": "https://fkm.asia/4yef",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/detoxifying-face-wash-100-ml-muv9u7hm",
+    "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
+    "product_budget": 125,
     "is_sold_out": false,
-    "total_count": 306,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1593": {
@@ -1647,22 +1647,6 @@
     "total_count": 79,
     "effectively_sold_out": false
   },
-  "1375": {
-    "name": "Tap Cleaner & Limescale Remover (500 ml)",
-    "store_name": "Happiplanet",
-    "platform": "Flipkart",
-    "campaign_type": "review",
-    "cashback": 200,
-    "net_price": 0,
-    "original_price": 200,
-    "claim_link": "https://fkm.asia/4xjs",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tap-cleaner-limescale-remover-500-ml-mtu1vtxg",
-    "image": "https://images.freekaamaal.com/product-images/product_1788957929_1749.jpg",
-    "product_budget": 2500,
-    "is_sold_out": false,
-    "total_count": 140,
-    "effectively_sold_out": false
-  },
   "1037": {
     "name": "Tap Cleaner & Limescale Remover - 500 Ml",
     "store_name": "Happiplanet",
@@ -1695,6 +1679,22 @@
     "total_count": 145,
     "effectively_sold_out": false
   },
+  "1375": {
+    "name": "Tap Cleaner & Limescale Remover (500 ml)",
+    "store_name": "Happiplanet",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 200,
+    "net_price": 0,
+    "original_price": 200,
+    "claim_link": "https://fkm.asia/4xjs",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tap-cleaner-limescale-remover-500-ml-mtu1vtxg",
+    "image": "https://images.freekaamaal.com/product-images/product_1788957929_1749.jpg",
+    "product_budget": 2500,
+    "is_sold_out": false,
+    "total_count": 140,
+    "effectively_sold_out": false
+  },
   "1589": {
     "name": "Instant Freeze Dried Coffee - Pack of 2 (10 Sachets each)",
     "store_name": "Ragecoffee",
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790842243_9836.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1041": {
@@ -1772,7 +1772,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1400,
     "is_sold_out": false,
-    "total_count": 139,
+    "total_count": 140,
     "effectively_sold_out": false
   },
   "1641": {
@@ -1791,22 +1791,6 @@
     "total_count": 2,
     "effectively_sold_out": false
   },
-  "1576": {
-    "name": "Tinted Sunscreen with SPF 50++++ ( 50 Ml )",
-    "store_name": "Neud",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 180,
-    "net_price": 20,
-    "original_price": 200,
-    "claim_link": "https://fkm.asia/4y86",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tinted-sunscreen-with-spf-50-50-ml-muihjc0e",
-    "image": "https://images.freekaamaal.com/product-images/product_1790432886_4264.jpg",
-    "product_budget": 20,
-    "is_sold_out": false,
-    "total_count": 20,
-    "effectively_sold_out": true
-  },
   "1376": {
     "name": "Washing Machine Cleaner & Descaler Tablets Dishwashing Detergent (8 Tablet)",
     "store_name": "Happiplanet",
@@ -1822,6 +1806,22 @@
     "is_sold_out": false,
     "total_count": 133,
     "effectively_sold_out": false
+  },
+  "1576": {
+    "name": "Tinted Sunscreen with SPF 50++++ ( 50 Ml )",
+    "store_name": "Neud",
+    "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 180,
+    "net_price": 20,
+    "original_price": 200,
+    "claim_link": "https://fkm.asia/4y86",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tinted-sunscreen-with-spf-50-50-ml-muihjc0e",
+    "image": "https://images.freekaamaal.com/product-images/product_1790432886_4264.jpg",
+    "product_budget": 20,
+    "is_sold_out": false,
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "19": {
     "name": "Teeth Whitening Serum 10ml",
@@ -1980,7 +1980,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790847733_2136.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   }
 }
