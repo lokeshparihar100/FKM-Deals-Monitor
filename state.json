@@ -684,7 +684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784726220_8278.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1638": {
@@ -700,7 +700,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1640": {
@@ -732,7 +732,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791008115_7124.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1395": {
@@ -1404,7 +1404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791206269_5725.jpg",
     "product_budget": 1625,
     "is_sold_out": false,
-    "total_count": 22,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "1364": {
