@@ -556,7 +556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791290258_2190.jpg",
     "product_budget": 8,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1601": {
@@ -572,7 +572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791005895_6410.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1357": {
@@ -844,8 +844,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790846794_9502.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 59,
-    "effectively_sold_out": false
+    "total_count": 60,
+    "effectively_sold_out": true
   },
   "1587": {
     "name": "Dishwasher Tablets | Pack of 30",
@@ -858,7 +858,7 @@
     "claim_link": "https://fkm.asia/4ya3",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/dishwasher-tablets-pack-of-30-mula1uf9",
     "image": "https://images.freekaamaal.com/product-images/product_1790603871_7699.jpg",
-    "product_budget": 60,
+    "product_budget": 70,
     "is_sold_out": false,
     "total_count": 27,
     "effectively_sold_out": false
@@ -2108,7 +2108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788586067_5488.jpg",
     "product_budget": 17,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1655": {
@@ -2124,7 +2124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791290084_7307.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1653": {
@@ -2218,10 +2218,10 @@
     "claim_link": "https://fkm.asia/4ya4",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/organic-dishwash-liquid-500ml-mul9u01a",
     "image": "https://images.freekaamaal.com/product-images/product_1790602955_9285.jpg",
-    "product_budget": 60,
+    "product_budget": 75,
     "is_sold_out": false,
     "total_count": 60,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1585": {
     "name": "Natural Disinfectant Surface & Floor Cleaning Liquid | 500 ML",
@@ -2234,7 +2234,7 @@
     "claim_link": "https://fkm.asia/4ya5",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/natural-disinfectant-surface-floor-cleaning-liquid-500-ml-mul9ocf3",
     "image": "https://images.freekaamaal.com/product-images/product_1790602277_8970.jpg",
-    "product_budget": 60,
+    "product_budget": 70,
     "is_sold_out": false,
     "total_count": 59,
     "effectively_sold_out": false
