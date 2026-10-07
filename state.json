@@ -444,7 +444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1785751305_9642.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 94,
+    "total_count": 95,
     "effectively_sold_out": false
   },
   "1676": {
@@ -668,8 +668,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791005895_6410.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1284": {
     "name": "High-Concentrate Detergent Washing Powder - 800gms",
@@ -1420,7 +1420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 105,
+    "total_count": 106,
     "effectively_sold_out": false
   },
   "1627": {
@@ -2140,7 +2140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784723274_1207.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 79,
+    "total_count": 89,
     "effectively_sold_out": false
   },
   "1294": {
@@ -2444,7 +2444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791034203_4718.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "1603": {
@@ -2524,7 +2524,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791371983_9785.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1412": {
