@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712772_3720.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "1625": {
@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "1674": {
@@ -732,7 +732,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789713096_3145.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "1618": {
@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791206269_5725.jpg",
     "product_budget": 1625,
     "is_sold_out": false,
-    "total_count": 80,
+    "total_count": 81,
     "effectively_sold_out": false
   },
   "1045": {
@@ -1852,7 +1852,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783057735_3221.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "1591": {
@@ -2028,7 +2028,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791371831_4095.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1599": {
@@ -2140,8 +2140,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784723274_1207.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 98,
-    "effectively_sold_out": false
+    "total_count": 100,
+    "effectively_sold_out": true
   },
   "1294": {
     "name": "Underarm Sweat Pads for Men & Women | 28 Pads",
@@ -2316,7 +2316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791372131_5621.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1576": {
@@ -2412,7 +2412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791282211_7142.jpg",
     "product_budget": 575,
     "is_sold_out": false,
-    "total_count": 31,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "487": {
