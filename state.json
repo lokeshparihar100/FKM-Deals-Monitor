@@ -524,8 +524,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788586722_8258.jpg",
     "product_budget": 24,
     "is_sold_out": false,
-    "total_count": 23,
-    "effectively_sold_out": false
+    "total_count": 24,
+    "effectively_sold_out": true
   },
   "1468": {
     "name": "Ceramides Moisturizer with Alpha Arbutin - 50gm",
@@ -540,7 +540,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582314_2118.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 202,
+    "total_count": 203,
     "effectively_sold_out": false
   },
   "1646": {
@@ -1004,7 +1004,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791034681_5182.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1626": {
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778658023_9312.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 206,
+    "total_count": 207,
     "effectively_sold_out": false
   },
   "1606": {
@@ -2028,7 +2028,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778656697_4760.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 315,
+    "total_count": 316,
     "effectively_sold_out": false
   },
   "1593": {
@@ -2124,7 +2124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791657900_1093.jpg",
     "product_budget": 900,
     "is_sold_out": false,
-    "total_count": 272,
+    "total_count": 284,
     "effectively_sold_out": false
   },
   "1037": {
@@ -2268,7 +2268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343467_2756.jpg",
     "product_budget": 644,
     "is_sold_out": false,
-    "total_count": 163,
+    "total_count": 164,
     "effectively_sold_out": false
   },
   "1377": {
