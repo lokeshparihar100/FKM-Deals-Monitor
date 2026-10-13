@@ -2140,7 +2140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791371831_4095.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1599": {
@@ -2171,9 +2171,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/5-tea-tree-anti-dandruff-shampoo-100-ml-mv2oyagx",
     "image": "https://images.freekaamaal.com/product-images/product_1791657900_1093.jpg",
     "product_budget": 900,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 548,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1038": {
     "name": "Washing Machine Cleaner & Descaler Tablets | 8 Tablets",
@@ -2619,9 +2619,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/comfort-all-night-pads-8-pads-xxxxl-mrstubd0",
     "image": "https://images.freekaamaal.com/product-images/product_1787210583_1526.jpg",
     "product_budget": 185,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 141,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1677": {
     "name": "Panty Liners for Women, 60 Liners 185mm with Aloe Vera & Neem",
@@ -2667,9 +2667,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/comfort-all-night-pads-10-pads-3-xl-mrstxwhs",
     "image": "https://images.freekaamaal.com/product-images/product_1787210310_8848.jpg",
     "product_budget": 181,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 176,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1361": {
     "name": "Ortho Baggy Arm Sling Hand Supporter for Fracture Recovery ( Size XL )",
