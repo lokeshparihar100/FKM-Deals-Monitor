@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791978761_2602.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1720": {
@@ -348,8 +348,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791979002_3039.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "1719": {
     "name": "Premium Diamond Soft-Touch Soap Dispenser for Bathroom - 225 Ml",
@@ -364,7 +364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791978879_6766.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1721": {
@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791979118_9511.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1664": {
@@ -1292,7 +1292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791364252_8220.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "1413": {
@@ -1372,7 +1372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042431_3977.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "976": {
@@ -1836,7 +1836,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791364392_9476.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 35,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "1606": {
@@ -2572,7 +2572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1400,
     "is_sold_out": false,
-    "total_count": 148,
+    "total_count": 149,
     "effectively_sold_out": false
   },
   "1641": {
