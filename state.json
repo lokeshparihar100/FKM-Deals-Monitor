@@ -364,7 +364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792065389_3019.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "1719": {
@@ -540,7 +540,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712772_3720.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 91,
+    "total_count": 92,
     "effectively_sold_out": false
   },
   "1625": {
@@ -1260,8 +1260,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993366_3442.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 17,
-    "effectively_sold_out": false
+    "total_count": 18,
+    "effectively_sold_out": true
   },
   "1638": {
     "name": "Ultra Hydrating Rose Body Wash - 300 Ml",
@@ -3004,7 +3004,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789989694_3794.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "1523": {
@@ -3532,7 +3532,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792156855_7952.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1619": {
@@ -3692,7 +3692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993189_7579.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "1526": {
