@@ -364,7 +364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792065389_3019.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1719": {
@@ -892,7 +892,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791984177_3594.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "974": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792065122_9124.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 17,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "1357": {
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789714308_4106.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 41,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "1469": {
@@ -2204,7 +2204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791984339_4849.jpg",
     "product_budget": 310,
     "is_sold_out": false,
-    "total_count": 96,
+    "total_count": 97,
     "effectively_sold_out": false
   },
   "1606": {
@@ -2252,7 +2252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792158198_9736.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "1046": {
@@ -2876,7 +2876,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789988448_7135.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "1490": {
@@ -2892,8 +2892,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789989115_2670.jpg",
     "product_budget": 13,
     "is_sold_out": false,
-    "total_count": 12,
-    "effectively_sold_out": false
+    "total_count": 13,
+    "effectively_sold_out": true
   },
   "1529": {
     "name": "Amla Powder - 100g",
@@ -3004,7 +3004,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789989694_3794.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "1523": {
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789988054_4808.jpg",
     "product_budget": 13,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "1692": {
