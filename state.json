@@ -316,7 +316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789996139_2430.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "1534": {
@@ -1100,7 +1100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791798998_5437.jpg",
     "product_budget": 102,
     "is_sold_out": false,
-    "total_count": 85,
+    "total_count": 86,
     "effectively_sold_out": false
   },
   "1659": {
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993366_3442.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "1639": {
@@ -1644,7 +1644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359924_8791.jpg",
     "product_budget": 165,
     "is_sold_out": false,
-    "total_count": 108,
+    "total_count": 109,
     "effectively_sold_out": false
   },
   "1469": {
@@ -2076,7 +2076,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789994251_5568.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "1632": {
@@ -2124,7 +2124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791984339_4849.jpg",
     "product_budget": 310,
     "is_sold_out": false,
-    "total_count": 94,
+    "total_count": 95,
     "effectively_sold_out": false
   },
   "1663": {
@@ -2364,7 +2364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995280_7895.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "1286": {
@@ -2716,7 +2716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788954362_1893.jpg",
     "product_budget": 81,
     "is_sold_out": false,
-    "total_count": 55,
+    "total_count": 56,
     "effectively_sold_out": false
   },
   "1038": {
@@ -2908,7 +2908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789988958_4286.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 10,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1488": {
@@ -3055,6 +3055,38 @@
     "total_count": 69,
     "effectively_sold_out": true
   },
+  "1520": {
+    "name": "Arjun Chhal Powder - 200g",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 199,
+    "net_price": 0,
+    "original_price": 199,
+    "claim_link": "https://fkm.asia/4y1r",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/arjun-chhal-powder-200g-mub8l1tf",
+    "image": "https://images.freekaamaal.com/product-images/product_1789994572_6360.jpg",
+    "product_budget": 18,
+    "is_sold_out": false,
+    "total_count": 15,
+    "effectively_sold_out": false
+  },
+  "1495": {
+    "name": "Beetroot Powder - 100g",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 199,
+    "net_price": 0,
+    "original_price": 199,
+    "claim_link": "https://fkm.asia/4y19",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/beetroot-powder-100g-mub5wte0",
+    "image": "https://images.freekaamaal.com/product-images/product_1789990066_7592.jpg",
+    "product_budget": 18,
+    "is_sold_out": false,
+    "total_count": 15,
+    "effectively_sold_out": false
+  },
   "1523": {
     "name": "Mulethi Powder - 100g",
     "store_name": "Neuherbs",
@@ -3084,7 +3116,23 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993526_1701.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
+    "effectively_sold_out": false
+  },
+  "1519": {
+    "name": "Ashwagandha Powder - 100 Gm",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 199,
+    "net_price": 0,
+    "original_price": 199,
+    "claim_link": "https://fkm.asia/4y2m",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/ashwagandha-powder-100-gm-mub8h6nn",
+    "image": "https://images.freekaamaal.com/product-images/product_1789994415_6350.jpg",
+    "product_budget": 18,
+    "is_sold_out": false,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "1487": {
@@ -3180,7 +3228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1400,
     "is_sold_out": false,
-    "total_count": 150,
+    "total_count": 151,
     "effectively_sold_out": false
   },
   "1641": {
@@ -3231,22 +3279,6 @@
     "total_count": 25,
     "effectively_sold_out": true
   },
-  "1559": {
-    "name": "Makeup & Ink Stain Remover - 50 Ml",
-    "store_name": "Ethiek",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 183,
-    "net_price": 0,
-    "original_price": 183,
-    "claim_link": "https://fkm.asia/4x3t",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/makeup-ink-stain-remover-50-ml-mudx89u7",
-    "image": "https://images.freekaamaal.com/product-images/product_1788351078_4643.jpg",
-    "product_budget": 30,
-    "is_sold_out": false,
-    "total_count": 6,
-    "effectively_sold_out": false
-  },
   "1671": {
     "name": "Specialist Stain Remover – Removes Tea, Coffee, Wine & Juice Stains - 100 Ml",
     "store_name": "Ethiek",
@@ -3263,20 +3295,20 @@
     "total_count": 9,
     "effectively_sold_out": false
   },
-  "1376": {
-    "name": "Washing Machine Cleaner & Descaler Tablets Dishwashing Detergent (8 Tablet)",
-    "store_name": "Happiplanet",
-    "platform": "Flipkart",
+  "1559": {
+    "name": "Makeup & Ink Stain Remover - 50 Ml",
+    "store_name": "Ethiek",
+    "platform": "Amazon",
     "campaign_type": "review",
-    "cashback": 180,
+    "cashback": 183,
     "net_price": 0,
-    "original_price": 180,
-    "claim_link": "https://fkm.asia/4xjt",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-cleaner-descaler-tablets-dishwashing-detergent-8-tablet-mtu20aw4",
-    "image": "https://images.freekaamaal.com/product-images/product_1788958121_6289.jpg",
-    "product_budget": 2900,
+    "original_price": 183,
+    "claim_link": "https://fkm.asia/4x3t",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/makeup-ink-stain-remover-50-ml-mudx89u7",
+    "image": "https://images.freekaamaal.com/product-images/product_1788351078_4643.jpg",
+    "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 141,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1687": {
@@ -3295,6 +3327,22 @@
     "total_count": 23,
     "effectively_sold_out": false
   },
+  "1376": {
+    "name": "Washing Machine Cleaner & Descaler Tablets Dishwashing Detergent (8 Tablet)",
+    "store_name": "Happiplanet",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 180,
+    "net_price": 0,
+    "original_price": 180,
+    "claim_link": "https://fkm.asia/4xjt",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-cleaner-descaler-tablets-dishwashing-detergent-8-tablet-mtu20aw4",
+    "image": "https://images.freekaamaal.com/product-images/product_1788958121_6289.jpg",
+    "product_budget": 2900,
+    "is_sold_out": false,
+    "total_count": 141,
+    "effectively_sold_out": false
+  },
   "1576": {
     "name": "Tinted Sunscreen with SPF 50++++ ( 50 Ml )",
     "store_name": "Neud",
@@ -3310,38 +3358,6 @@
     "is_sold_out": false,
     "total_count": 20,
     "effectively_sold_out": true
-  },
-  "1520": {
-    "name": "Arjun Chhal Powder - 200g",
-    "store_name": "Neuherbs",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 179,
-    "net_price": 20,
-    "original_price": 199,
-    "claim_link": "https://fkm.asia/4y1r",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/arjun-chhal-powder-200g-mub8l1tf",
-    "image": "https://images.freekaamaal.com/product-images/product_1789994572_6360.jpg",
-    "product_budget": 18,
-    "is_sold_out": false,
-    "total_count": 15,
-    "effectively_sold_out": false
-  },
-  "1495": {
-    "name": "Beetroot Powder - 100g",
-    "store_name": "Neuherbs",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 179,
-    "net_price": 20,
-    "original_price": 199,
-    "claim_link": "https://fkm.asia/4y19",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/beetroot-powder-100g-mub5wte0",
-    "image": "https://images.freekaamaal.com/product-images/product_1789990066_7592.jpg",
-    "product_budget": 18,
-    "is_sold_out": false,
-    "total_count": 15,
-    "effectively_sold_out": false
   },
   "1660": {
     "name": "Panty Liners for Women, 60 Liners 185mm with Aloe Vera & Neem",
@@ -3359,20 +3375,20 @@
     "total_count": 25,
     "effectively_sold_out": true
   },
-  "1519": {
-    "name": "Ashwagandha Powder - 100 Gm",
-    "store_name": "Neuherbs",
+  "1475": {
+    "name": "Charcoal Nose Strips ( 6 Count )",
+    "store_name": "Peesafe",
     "platform": "Amazon",
     "campaign_type": "review",
-    "cashback": 179,
-    "net_price": 20,
-    "original_price": 199,
-    "claim_link": "https://fkm.asia/4y2m",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/ashwagandha-powder-100-gm-mub8h6nn",
-    "image": "https://images.freekaamaal.com/product-images/product_1789994415_6350.jpg",
-    "product_budget": 18,
+    "cashback": 178,
+    "net_price": 0,
+    "original_price": 178,
+    "claim_link": "https://fkm.asia/4xy8",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/charcoal-nose-strips-6-count-mu6vif6t",
+    "image": "https://images.freekaamaal.com/product-images/product_1789730761_8098.jpg",
+    "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "19": {
@@ -3389,22 +3405,6 @@
     "product_budget": 150,
     "is_sold_out": false,
     "total_count": 75,
-    "effectively_sold_out": false
-  },
-  "1475": {
-    "name": "Charcoal Nose Strips ( 6 Count )",
-    "store_name": "Peesafe",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 178,
-    "net_price": 0,
-    "original_price": 178,
-    "claim_link": "https://fkm.asia/4xy8",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/charcoal-nose-strips-6-count-mu6vif6t",
-    "image": "https://images.freekaamaal.com/product-images/product_1789730761_8098.jpg",
-    "product_budget": 50,
-    "is_sold_out": false,
-    "total_count": 44,
     "effectively_sold_out": false
   },
   "1654": {
@@ -3487,6 +3487,22 @@
     "total_count": 26,
     "effectively_sold_out": false
   },
+  "1677": {
+    "name": "Panty Liners for Women, 60 Liners 185mm with Aloe Vera & Neem",
+    "store_name": "Everteen",
+    "platform": "Amazon",
+    "campaign_type": "rating",
+    "cashback": 159,
+    "net_price": 0,
+    "original_price": 159,
+    "claim_link": "https://fkm.asia/4xp7",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/panty-liners-for-women-60-liners-185mm-with-aloe-vera-neem-muz3v0ba",
+    "image": "https://images.freekaamaal.com/product-images/product_1791299133_5070.jpg",
+    "product_budget": 75,
+    "is_sold_out": false,
+    "total_count": 36,
+    "effectively_sold_out": false
+  },
   "882": {
     "name": "Comfort All Night Pads | 10 Pads 3 XL",
     "store_name": "Peesafe",
@@ -3519,20 +3535,20 @@
     "total_count": 141,
     "effectively_sold_out": true
   },
-  "1677": {
-    "name": "Panty Liners for Women, 60 Liners 185mm with Aloe Vera & Neem",
-    "store_name": "Everteen",
+  "1361": {
+    "name": "Ortho Baggy Arm Sling Hand Supporter for Fracture Recovery ( Size XL )",
+    "store_name": "Leeford",
     "platform": "Amazon",
-    "campaign_type": "rating",
-    "cashback": 159,
-    "net_price": 0,
-    "original_price": 159,
-    "claim_link": "https://fkm.asia/4xp7",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/panty-liners-for-women-60-liners-185mm-with-aloe-vera-neem-muz3v0ba",
-    "image": "https://images.freekaamaal.com/product-images/product_1791299133_5070.jpg",
-    "product_budget": 75,
+    "campaign_type": "review",
+    "cashback": 155,
+    "net_price": 39,
+    "original_price": 194,
+    "claim_link": "https://fkm.asia/4x8p",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/ortho-baggy-arm-sling-hand-supporter-for-fracture-recovery-size-xl-mtny4gbr",
+    "image": "https://images.freekaamaal.com/product-images/product_1788586067_5488.jpg",
+    "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 36,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1521": {
@@ -3549,22 +3565,6 @@
     "product_budget": 20,
     "is_sold_out": false,
     "total_count": 15,
-    "effectively_sold_out": false
-  },
-  "1361": {
-    "name": "Ortho Baggy Arm Sling Hand Supporter for Fracture Recovery ( Size XL )",
-    "store_name": "Leeford",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 155,
-    "net_price": 39,
-    "original_price": 194,
-    "claim_link": "https://fkm.asia/4x8p",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/ortho-baggy-arm-sling-hand-supporter-for-fracture-recovery-size-xl-mtny4gbr",
-    "image": "https://images.freekaamaal.com/product-images/product_1788586067_5488.jpg",
-    "product_budget": 12,
-    "is_sold_out": false,
-    "total_count": 4,
     "effectively_sold_out": false
   },
   "1670": {
@@ -3599,22 +3599,6 @@
     "total_count": 20,
     "effectively_sold_out": false
   },
-  "1513": {
-    "name": "Wheatgrass Powder - 100g",
-    "store_name": "Neuherbs",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 149,
-    "net_price": 0,
-    "original_price": 149,
-    "claim_link": "https://fkm.asia/4y1k",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/wheatgrass-powder-100g-mub7r1vr",
-    "image": "https://images.freekaamaal.com/product-images/product_1789993189_7579.jpg",
-    "product_budget": 18,
-    "is_sold_out": false,
-    "total_count": 15,
-    "effectively_sold_out": false
-  },
   "1492": {
     "name": "Organic Triphala Powder - 100g",
     "store_name": "Neuherbs",
@@ -3629,6 +3613,22 @@
     "product_budget": 13,
     "is_sold_out": false,
     "total_count": 10,
+    "effectively_sold_out": false
+  },
+  "1513": {
+    "name": "Wheatgrass Powder - 100g",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 149,
+    "net_price": 0,
+    "original_price": 149,
+    "claim_link": "https://fkm.asia/4y1k",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/wheatgrass-powder-100g-mub7r1vr",
+    "image": "https://images.freekaamaal.com/product-images/product_1789993189_7579.jpg",
+    "product_budget": 18,
+    "is_sold_out": false,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "1412": {
@@ -3916,7 +3916,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790602277_8970.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 69,
-    "effectively_sold_out": false
+    "total_count": 70,
+    "effectively_sold_out": true
   }
 }
