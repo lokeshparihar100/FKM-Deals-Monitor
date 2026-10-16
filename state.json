@@ -316,7 +316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792065389_3019.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "1718": {
@@ -748,7 +748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791984177_3594.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "974": {
@@ -892,7 +892,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792065122_9124.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "1284": {
@@ -972,7 +972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791798998_5437.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 73,
+    "total_count": 74,
     "effectively_sold_out": false
   },
   "1659": {
@@ -1596,7 +1596,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792066566_1155.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "1354": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791984339_4849.jpg",
     "product_budget": 310,
     "is_sold_out": false,
-    "total_count": 85,
+    "total_count": 86,
     "effectively_sold_out": false
   },
   "1606": {
@@ -2076,7 +2076,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791809862_6135.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1689": {
@@ -2588,8 +2588,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791796493_9522.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 20,
-    "effectively_sold_out": false
+    "total_count": 25,
+    "effectively_sold_out": true
   },
   "1589": {
     "name": "Instant Freeze Dried Coffee - Pack of 2 (10 Sachets each)",
@@ -2844,7 +2844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789730761_8098.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 42,
+    "total_count": 43,
     "effectively_sold_out": false
   },
   "1654": {
@@ -3084,7 +3084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791871294_4711.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 35,
+    "total_count": 39,
     "effectively_sold_out": false
   },
   "1655": {
@@ -3164,7 +3164,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791975031_4283.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 29,
     "effectively_sold_out": false
   },
   "1651": {
