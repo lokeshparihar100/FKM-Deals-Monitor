@@ -187,9 +187,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/shilajit-gold-ultra-resin-20g-mub9onjh",
     "image": "https://images.freekaamaal.com/product-images/product_1789996453_9345.jpg",
     "product_budget": 30,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 20,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1605": {
     "name": "Hair Oil & Rosemary Water Ark Combo",
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359924_8791.jpg",
     "product_budget": 165,
     "is_sold_out": false,
-    "total_count": 106,
+    "total_count": 107,
     "effectively_sold_out": false
   },
   "826": {
@@ -3115,9 +3115,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/reetha-powder-100g-mub7f9gw",
     "image": "https://images.freekaamaal.com/product-images/product_1789992626_6422.jpg",
     "product_budget": 22,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 17,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1519": {
     "name": "Ashwagandha Powder - 100 Gm",
@@ -3211,9 +3211,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/neem-powder-200g-mub5obbe",
     "image": "https://images.freekaamaal.com/product-images/product_1789989694_3794.jpg",
     "product_budget": 15,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 10,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1495": {
     "name": "Beetroot Powder - 100g",
@@ -3307,9 +3307,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/beetroot-powder-100g-mub5wzxj",
     "image": "https://images.freekaamaal.com/product-images/product_1789991894_6421.jpg",
     "product_budget": 21,
-    "is_sold_out": true,
+    "is_sold_out": false,
     "total_count": 17,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "1483": {
     "name": " Rose Petal Powder - 100g",
