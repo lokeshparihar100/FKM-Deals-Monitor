@@ -124,7 +124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789996453_9345.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 22,
+    "total_count": 23,
     "effectively_sold_out": false
   },
   "1598": {
@@ -748,7 +748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791976574_1611.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1608": {
@@ -1468,7 +1468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792143977_7329.jpg",
     "product_budget": 630,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1285": {
@@ -1548,7 +1548,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791976710_9864.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1413": {
@@ -2812,8 +2812,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789994415_6350.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 16,
-    "effectively_sold_out": false
+    "total_count": 18,
+    "effectively_sold_out": true
   },
   "1515": {
     "name": "Jamun Seed Powder - 200g",
@@ -3100,7 +3100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790060962_7213.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1489": {
@@ -3516,7 +3516,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789132476_5245.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "881": {
@@ -3596,7 +3596,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789994788_3818.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "1670": {
@@ -3676,7 +3676,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 97,
+    "total_count": 98,
     "effectively_sold_out": false
   },
   "1647": {
