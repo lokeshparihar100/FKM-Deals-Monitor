@@ -748,7 +748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791976574_1611.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1608": {
@@ -1548,7 +1548,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791976710_9864.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1413": {
@@ -2412,7 +2412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995280_7895.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 22,
+    "total_count": 23,
     "effectively_sold_out": false
   },
   "1286": {
@@ -2860,7 +2860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993680_7447.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "1484": {
@@ -2924,7 +2924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789991002_5650.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1667": {
@@ -3100,8 +3100,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790060962_7213.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 17,
-    "effectively_sold_out": false
+    "total_count": 18,
+    "effectively_sold_out": true
   },
   "1489": {
     "name": "Aloe Vera Powder - 100g",
@@ -3228,7 +3228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788351717_3080.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "1041": {
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343467_2756.jpg",
     "product_budget": 644,
     "is_sold_out": false,
-    "total_count": 167,
+    "total_count": 168,
     "effectively_sold_out": false
   },
   "1377": {
@@ -3276,7 +3276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1400,
     "is_sold_out": false,
-    "total_count": 151,
+    "total_count": 152,
     "effectively_sold_out": false
   },
   "1641": {
@@ -3436,7 +3436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789730761_8098.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "19": {
@@ -3852,7 +3852,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791976830_9470.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1665": {
