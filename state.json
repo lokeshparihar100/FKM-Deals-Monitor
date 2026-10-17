@@ -1116,8 +1116,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791798998_5437.jpg",
     "product_budget": 102,
     "is_sold_out": false,
-    "total_count": 100,
-    "effectively_sold_out": false
+    "total_count": 102,
+    "effectively_sold_out": true
   },
   "1659": {
     "name": "Dishwasher Tablets | Pack of 30",
@@ -2316,7 +2316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791450653_8768.jpg",
     "product_budget": 1625,
     "is_sold_out": false,
-    "total_count": 209,
+    "total_count": 210,
     "effectively_sold_out": false
   },
   "1045": {
@@ -2540,7 +2540,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 60,
+    "total_count": 61,
     "effectively_sold_out": false
   },
   "803": {
