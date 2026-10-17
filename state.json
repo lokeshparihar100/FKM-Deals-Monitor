@@ -620,8 +620,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791979002_3039.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "1716": {
     "name": "Premium Prism Soft-Touch Soap Dispenser for Bathroom - 225 Ml ( Pink )",
@@ -1468,7 +1468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792143977_7329.jpg",
     "product_budget": 630,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "1285": {
