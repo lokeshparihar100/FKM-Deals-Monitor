@@ -1356,7 +1356,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582564_5111.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 174,
+    "total_count": 175,
     "effectively_sold_out": false
   },
   "1622": {
@@ -1468,7 +1468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792143977_7329.jpg",
     "product_budget": 630,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "1285": {
@@ -2460,8 +2460,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995280_7895.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 24,
-    "effectively_sold_out": false
+    "total_count": 25,
+    "effectively_sold_out": true
   },
   "1666": {
     "name": "Walnut Kernels - 200g",
@@ -2780,7 +2780,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788954362_1893.jpg",
     "product_budget": 81,
     "is_sold_out": false,
-    "total_count": 57,
+    "total_count": 58,
     "effectively_sold_out": false
   },
   "1375": {
