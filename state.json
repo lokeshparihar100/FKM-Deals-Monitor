@@ -364,7 +364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792065389_3019.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "1719": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792065122_9124.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "1357": {
@@ -2556,8 +2556,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783057735_3221.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 29,
-    "effectively_sold_out": false
+    "total_count": 30,
+    "effectively_sold_out": true
   },
   "570": {
     "name": "Lip Brightening Balm for Dark Lips ( 10g )",
@@ -2620,7 +2620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786526638_1267.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 22,
+    "total_count": 23,
     "effectively_sold_out": false
   },
   "451": {
@@ -2844,8 +2844,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993680_7447.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 17,
-    "effectively_sold_out": false
+    "total_count": 18,
+    "effectively_sold_out": true
   },
   "1483": {
     "name": " Rose Petal Powder - 100g",
