@@ -1116,7 +1116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791798998_5437.jpg",
     "product_budget": 102,
     "is_sold_out": false,
-    "total_count": 98,
+    "total_count": 99,
     "effectively_sold_out": false
   },
   "1659": {
@@ -1468,7 +1468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792143977_7329.jpg",
     "product_budget": 630,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 28,
     "effectively_sold_out": false
   },
   "1285": {
@@ -2380,7 +2380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789714435_4433.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 59,
     "effectively_sold_out": false
   },
   "1688": {
@@ -3244,8 +3244,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789988054_4808.jpg",
     "product_budget": 13,
     "is_sold_out": false,
-    "total_count": 12,
-    "effectively_sold_out": false
+    "total_count": 13,
+    "effectively_sold_out": true
   },
   "1692": {
     "name": "Crunch Edition Gift Box - Protein Chips Diwali Gift Set 200g",
