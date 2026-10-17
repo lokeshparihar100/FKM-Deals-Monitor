@@ -364,7 +364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792065389_3019.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 59,
     "effectively_sold_out": false
   },
   "1721": {
@@ -540,7 +540,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712772_3720.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 95,
+    "total_count": 96,
     "effectively_sold_out": false
   },
   "1625": {
@@ -1276,7 +1276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792158446_5022.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1638": {
@@ -1292,7 +1292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 130,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "1640": {
@@ -1516,7 +1516,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791364252_8220.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 64,
+    "total_count": 65,
     "effectively_sold_out": false
   },
   "1058": {
@@ -1580,7 +1580,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 197,
+    "total_count": 198,
     "effectively_sold_out": false
   },
   "1696": {
@@ -1596,7 +1596,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791870858_2664.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 11,
+    "total_count": 12,
     "effectively_sold_out": false
   },
   "1630": {
@@ -2316,7 +2316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791450653_8768.jpg",
     "product_budget": 1625,
     "is_sold_out": false,
-    "total_count": 223,
+    "total_count": 224,
     "effectively_sold_out": false
   },
   "1695": {
@@ -3612,7 +3612,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789132476_5245.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 30,
+    "total_count": 31,
     "effectively_sold_out": false
   },
   "881": {
@@ -3724,8 +3724,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789993189_7579.jpg",
     "product_budget": 18,
     "is_sold_out": false,
-    "total_count": 17,
-    "effectively_sold_out": false
+    "total_count": 18,
+    "effectively_sold_out": true
   },
   "1739": {
     "name": "Perfora Purple Whitening Toothpaste - 75g",
