@@ -1468,7 +1468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792143977_7329.jpg",
     "product_budget": 630,
     "is_sold_out": false,
-    "total_count": 22,
+    "total_count": 23,
     "effectively_sold_out": false
   },
   "1285": {
@@ -2652,7 +2652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788348561_4746.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "1642": {
@@ -3100,8 +3100,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789992626_6422.jpg",
     "product_budget": 22,
     "is_sold_out": false,
-    "total_count": 21,
-    "effectively_sold_out": false
+    "total_count": 22,
+    "effectively_sold_out": true
   },
   "1497": {
     "name": "Henna Powder - 100g",
@@ -3164,8 +3164,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789988812_9264.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "1487": {
     "name": "Multani Mitti Powder - 200g",
