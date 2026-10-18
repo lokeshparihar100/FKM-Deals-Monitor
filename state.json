@@ -652,8 +652,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791978761_2602.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "1712": {
     "name": "Premium Prism Soft-Touch Soap Dispenser for Bathroom - 225 Ml ( Orange )",
@@ -828,7 +828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790582314_2118.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 228,
+    "total_count": 229,
     "effectively_sold_out": false
   },
   "1646": {
@@ -1068,7 +1068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792066341_2158.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1727": {
@@ -2716,7 +2716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
     "product_budget": 125,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 59,
     "effectively_sold_out": false
   },
   "451": {
@@ -3036,7 +3036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789995847_4963.jpg",
     "product_budget": 42,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "1537": {
@@ -3132,8 +3132,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789994020_9666.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "1496": {
     "name": "Orange Peel Powder - 100g",
