@@ -123,7 +123,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/shilajit-gold-ultra-resin-20g-mub9onjh",
     "image": "https://images.freekaamaal.com/product-images/product_1789996453_9345.jpg",
     "product_budget": 30,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 30,
     "effectively_sold_out": true
   },
@@ -347,9 +347,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/shilajit-resin-20g-mub9i87q",
     "image": "https://images.freekaamaal.com/product-images/product_1789996139_2430.jpg",
     "product_budget": 40,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 31,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1534": {
     "name": "Shilajit Gold Ultra Capsules (60 Count) for Men",
@@ -363,9 +363,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/shilajit-gold-ultra-capsules-60-count-for-men-mub9lsbx",
     "image": "https://images.freekaamaal.com/product-images/product_1789996297_2078.jpg",
     "product_budget": 30,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 18,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1752": {
     "name": "Rosemary & Redensyl Scalp Serum - 30ml",
@@ -716,7 +716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 98,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1750": {
@@ -988,7 +988,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791657344_7471.jpg",
     "product_budget": 127,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1530": {
@@ -2060,7 +2060,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792410052_2007.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "74": {
@@ -2092,7 +2092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792409877_9942.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "1756": {
@@ -2508,7 +2508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792410178_4912.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1577": {
@@ -3067,9 +3067,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/spirulina-powder-100g-mub9bw3y",
     "image": "https://images.freekaamaal.com/product-images/product_1789995847_4963.jpg",
     "product_budget": 42,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 30,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1489": {
     "name": "Aloe Vera Powder - 100g",
