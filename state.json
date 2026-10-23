@@ -1084,7 +1084,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792066341_2158.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "1727": {
@@ -1164,7 +1164,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782816881_5375.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "1201": {
@@ -2492,7 +2492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788348223_4466.jpg",
     "product_budget": 98,
     "is_sold_out": false,
-    "total_count": 37,
+    "total_count": 38,
     "effectively_sold_out": false
   },
   "1577": {
@@ -2620,7 +2620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "1689": {
@@ -3756,8 +3756,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792584576_6313.jpg",
     "product_budget": 16,
     "is_sold_out": false,
-    "total_count": 15,
-    "effectively_sold_out": false
+    "total_count": 16,
+    "effectively_sold_out": true
   },
   "487": {
     "name": "Purple Whitening Toothpaste (75g ) ",
@@ -4028,7 +4028,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588346_2418.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "1775": {
