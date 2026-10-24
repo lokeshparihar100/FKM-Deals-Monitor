@@ -700,8 +700,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788586722_8258.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 11,
-    "effectively_sold_out": false
+    "total_count": 12,
+    "effectively_sold_out": true
   },
   "1571": {
     "name": "Magnesium BisGlycinate Supplement 2000 mg ( 60 Tablets )",
@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359924_8791.jpg",
     "product_budget": 165,
     "is_sold_out": false,
-    "total_count": 123,
+    "total_count": 124,
     "effectively_sold_out": false
   },
   "1472": {
@@ -1852,7 +1852,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791450653_8768.jpg",
     "product_budget": 1625,
     "is_sold_out": false,
-    "total_count": 265,
+    "total_count": 267,
     "effectively_sold_out": false
   },
   "1729": {
@@ -2188,7 +2188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791984339_4849.jpg",
     "product_budget": 310,
     "is_sold_out": false,
-    "total_count": 129,
+    "total_count": 130,
     "effectively_sold_out": false
   },
   "1663": {
@@ -2668,7 +2668,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792732575_9032.jpg",
     "product_budget": 630,
     "is_sold_out": false,
-    "total_count": 113,
+    "total_count": 114,
     "effectively_sold_out": false
   },
   "1599": {
