@@ -875,9 +875,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/safed-musli-root-powder-100g-mub99irz",
     "image": "https://images.freekaamaal.com/product-images/product_1789995736_9427.jpg",
     "product_budget": 42,
-    "is_sold_out": false,
-    "total_count": 38,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 39,
+    "effectively_sold_out": true
   },
   "1596": {
     "name": "Moroccan Nila Brightening Clay Mask - 100g",
@@ -1148,7 +1148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790603871_7699.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "1473": {
@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793026367_8856.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1790": {
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793025767_6552.jpg",
     "product_budget": 35,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1349": {
@@ -2412,7 +2412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791809862_6135.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 41,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "1364": {
@@ -2508,7 +2508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793026967_3092.jpg",
     "product_budget": 35,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1771": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793026516_1859.jpg",
     "product_budget": 55,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1282": {
@@ -2668,7 +2668,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793027607_8683.jpg",
     "product_budget": 35,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1792": {
@@ -2684,7 +2684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793026108_5350.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1795": {
@@ -2700,7 +2700,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793026802_2854.jpg",
     "product_budget": 35,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1791": {
@@ -2924,7 +2924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342819_3636.jpg",
     "product_budget": 580,
     "is_sold_out": false,
-    "total_count": 164,
+    "total_count": 165,
     "effectively_sold_out": false
   },
   "1037": {
@@ -3468,7 +3468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588346_2418.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "1784": {
