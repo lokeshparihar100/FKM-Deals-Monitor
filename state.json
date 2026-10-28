@@ -2428,8 +2428,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786355963_4613.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 199,
-    "effectively_sold_out": false
+    "total_count": 200,
+    "effectively_sold_out": true
   },
   "1759": {
     "name": "Perfume Trial Set for Men - 10 Ml",
@@ -2492,7 +2492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792998809_9631.jpg",
     "product_budget": 1625,
     "is_sold_out": false,
-    "total_count": 316,
+    "total_count": 317,
     "effectively_sold_out": false
   },
   "1364": {
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792157895_1547.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "1687": {
@@ -3404,7 +3404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793184248_8375.jpg",
     "product_budget": 2200,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1603": {
@@ -3564,7 +3564,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792158771_4246.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "1770": {
@@ -3852,7 +3852,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792158592_7067.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1665": {
