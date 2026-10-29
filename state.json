@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712772_3720.jpg",
     "product_budget": 119,
     "is_sold_out": false,
-    "total_count": 114,
+    "total_count": 115,
     "effectively_sold_out": false
   },
   "1811": {
@@ -555,9 +555,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/tea-tree-anti-dandruff-shampoo-200ml-mveyrxgh",
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 120,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 119,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1750": {
     "name": "Mineral Sunscreen SPF 50 for Men & Women - 50g",
@@ -1820,7 +1820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792998809_9631.jpg",
     "product_budget": 1625,
     "is_sold_out": false,
-    "total_count": 324,
+    "total_count": 325,
     "effectively_sold_out": false
   },
   "1728": {
@@ -2460,7 +2460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 61,
+    "total_count": 62,
     "effectively_sold_out": false
   },
   "1611": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 108,
+    "total_count": 109,
     "effectively_sold_out": false
   },
   "803": {
@@ -2764,7 +2764,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793171787_8182.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 34,
     "effectively_sold_out": false
   },
   "1747": {
@@ -2844,7 +2844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792732575_9032.jpg",
     "product_budget": 630,
     "is_sold_out": false,
-    "total_count": 167,
+    "total_count": 171,
     "effectively_sold_out": false
   },
   "1599": {
@@ -3068,7 +3068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042562_6633.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 59,
     "effectively_sold_out": false
   },
   "1805": {
@@ -3468,7 +3468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792158896_1439.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 71,
+    "total_count": 72,
     "effectively_sold_out": false
   },
   "1708": {
