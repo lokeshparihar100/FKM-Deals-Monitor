@@ -380,8 +380,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712772_3720.jpg",
     "product_budget": 129,
     "is_sold_out": false,
-    "total_count": 126,
-    "effectively_sold_out": false
+    "total_count": 129,
+    "effectively_sold_out": true
   },
   "1811": {
     "name": "Steel Play Kids Stainless Steel Water Bottle 450ml ( Tottaly Adorable )",
@@ -748,7 +748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788523972_1106.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 124,
+    "total_count": 125,
     "effectively_sold_out": false
   },
   "1287": {
@@ -764,7 +764,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788410778_1922.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 102,
+    "total_count": 103,
     "effectively_sold_out": false
   },
   "1722": {
@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791870491_6171.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 38,
+    "total_count": 39,
     "effectively_sold_out": false
   },
   "1147": {
@@ -1164,7 +1164,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793117430_1566.jpg",
     "product_budget": 80,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 59,
     "effectively_sold_out": false
   },
   "1279": {
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588535_6184.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 66,
+    "total_count": 67,
     "effectively_sold_out": false
   },
   "1744": {
@@ -1260,7 +1260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792158446_5022.jpg",
     "product_budget": 73,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "1745": {
@@ -1324,7 +1324,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789043363_7369.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 169,
+    "total_count": 170,
     "effectively_sold_out": false
   },
   "1622": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 78,
+    "total_count": 79,
     "effectively_sold_out": false
   },
   "1043": {
@@ -1772,7 +1772,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792998809_9631.jpg",
     "product_budget": 1625,
     "is_sold_out": false,
-    "total_count": 334,
+    "total_count": 336,
     "effectively_sold_out": false
   },
   "1728": {
@@ -2108,7 +2108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791984339_4849.jpg",
     "product_budget": 310,
     "is_sold_out": false,
-    "total_count": 149,
+    "total_count": 150,
     "effectively_sold_out": false
   },
   "1786": {
@@ -2204,7 +2204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793272457_2157.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "1746": {
@@ -2220,7 +2220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788348223_4466.jpg",
     "product_budget": 98,
     "is_sold_out": false,
-    "total_count": 60,
+    "total_count": 61,
     "effectively_sold_out": false
   },
   "1669": {
@@ -2252,7 +2252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786355706_6227.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 73,
+    "total_count": 74,
     "effectively_sold_out": false
   },
   "1695": {
@@ -2284,7 +2284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042855_5188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 123,
+    "total_count": 124,
     "effectively_sold_out": false
   },
   "1685": {
@@ -2444,7 +2444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 114,
+    "total_count": 116,
     "effectively_sold_out": false
   },
   "803": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 174,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "1668": {
@@ -2668,7 +2668,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792156855_7952.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 60,
+    "total_count": 65,
     "effectively_sold_out": false
   },
   "1560": {
@@ -2684,7 +2684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788351216_4931.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "1766": {
@@ -3212,7 +3212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793080027_7080.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 189,
+    "total_count": 190,
     "effectively_sold_out": false
   },
   "1412": {
@@ -3292,7 +3292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792158896_1439.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 81,
+    "total_count": 82,
     "effectively_sold_out": false
   },
   "1708": {
