@@ -11,9 +11,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/women-s-weight-management-supplement-60-veg-capsules-mvw4g3hp",
     "image": "https://images.freekaamaal.com/product-images/product_1793434219_2136.jpg",
     "product_budget": 4,
-    "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "1814": {
     "name": "No.1 Women's Trimmer* | Ultimate Precision",
@@ -90,9 +90,9 @@
     "claim_link": "https://fkm.asia/4z9t",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/women-s-hormonal-balance-pms-support-60-veg-capsules-mvw4idv1",
     "image": "https://images.freekaamaal.com/product-images/product_1793434333_2211.jpg",
-    "product_budget": 4,
+    "product_budget": 2,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1617": {
@@ -235,9 +235,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/women-s-probiotic-for-gut-vaginal-health-15-sachets-mvw4desu",
     "image": "https://images.freekaamaal.com/product-images/product_1793434097_2634.jpg",
     "product_budget": 5,
-    "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "is_sold_out": true,
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "1148": {
     "name": "Pants Skin Breathe Care | Baby Diapers Large Size (L) | 52 Count | 9-14Kgs",
@@ -671,22 +671,6 @@
     "total_count": 46,
     "effectively_sold_out": false
   },
-  "1808": {
-    "name": "( Mumbai Only )-  Veigo Food Wrapping Paper Sheets (Square) - 100 Pcs",
-    "store_name": "Veigo",
-    "platform": "Blinkit",
-    "campaign_type": "rating",
-    "cashback": 399,
-    "net_price": 0,
-    "original_price": 399,
-    "claim_link": "https://fkm.asia/4z1d",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/veigo-food-wrapping-paper-sheets-square-100-pcs-mvqc1058",
-    "image": "https://images.freekaamaal.com/product-images/product_1793084153_2740.jpg",
-    "product_budget": 30,
-    "is_sold_out": false,
-    "total_count": 7,
-    "effectively_sold_out": false
-  },
   "1726": {
     "name": "Stretch Marks Removal Roll-On - 40 Ml",
     "store_name": "Cosiq",
@@ -701,6 +685,22 @@
     "product_budget": 500,
     "is_sold_out": false,
     "total_count": 56,
+    "effectively_sold_out": false
+  },
+  "1808": {
+    "name": "( Mumbai Only )-  Veigo Food Wrapping Paper Sheets (Square) - 100 Pcs",
+    "store_name": "Veigo",
+    "platform": "Blinkit",
+    "campaign_type": "rating",
+    "cashback": 399,
+    "net_price": 0,
+    "original_price": 399,
+    "claim_link": "https://fkm.asia/4z1d",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/veigo-food-wrapping-paper-sheets-square-100-pcs-mvqc1058",
+    "image": "https://images.freekaamaal.com/product-images/product_1793084153_2740.jpg",
+    "product_budget": 30,
+    "is_sold_out": false,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1727": {
@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
     "product_budget": 73,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "1741": {
@@ -879,20 +879,20 @@
     "total_count": 16,
     "effectively_sold_out": true
   },
-  "641": {
-    "name": "De-Tan & Detox Body Wash (300 ml)",
-    "store_name": "Mannlich",
+  "1587": {
+    "name": "Dishwasher Tablets | Pack of 30",
+    "store_name": "KoparoClean",
     "platform": "Amazon",
-    "campaign_type": "review",
+    "campaign_type": "rating",
     "cashback": 359,
-    "net_price": 0,
-    "original_price": 359,
-    "claim_link": "https://fkm.asia/4ut4",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/de-tan-detox-body-wash-300-ml-mq52z2ue",
-    "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
-    "product_budget": 500,
+    "net_price": 40,
+    "original_price": 399,
+    "claim_link": "https://fkm.asia/4ya3",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/dishwasher-tablets-pack-of-30-mula1uf9",
+    "image": "https://images.freekaamaal.com/product-images/product_1790603871_7699.jpg",
+    "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 488,
+    "total_count": 53,
     "effectively_sold_out": false
   },
   "1473": {
@@ -911,20 +911,36 @@
     "total_count": 1,
     "effectively_sold_out": false
   },
-  "1587": {
-    "name": "Dishwasher Tablets | Pack of 30",
-    "store_name": "KoparoClean",
+  "641": {
+    "name": "De-Tan & Detox Body Wash (300 ml)",
+    "store_name": "Mannlich",
     "platform": "Amazon",
-    "campaign_type": "rating",
+    "campaign_type": "review",
     "cashback": 359,
-    "net_price": 40,
-    "original_price": 399,
-    "claim_link": "https://fkm.asia/4ya3",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/dishwasher-tablets-pack-of-30-mula1uf9",
-    "image": "https://images.freekaamaal.com/product-images/product_1790603871_7699.jpg",
-    "product_budget": 70,
+    "net_price": 0,
+    "original_price": 359,
+    "claim_link": "https://fkm.asia/4ut4",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/de-tan-detox-body-wash-300-ml-mq52z2ue",
+    "image": "https://images.freekaamaal.com/product-images/product_1780915306_5328.jpg",
+    "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 488,
+    "effectively_sold_out": false
+  },
+  "1813": {
+    "name": "Primer + Moisturizer + Highlighter Primer - 30 g (PINK)",
+    "store_name": "Ectoraa",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 358,
+    "net_price": 40,
+    "original_price": 398,
+    "claim_link": "https://fkm.asia/4z34",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/primer-moisturizer-highlighter-primer-30-g-pink-mvqvx8qe",
+    "image": "https://images.freekaamaal.com/product-images/product_1793117565_8161.jpg",
+    "product_budget": 80,
+    "is_sold_out": false,
+    "total_count": 61,
     "effectively_sold_out": false
   },
   "1279": {
@@ -942,22 +958,6 @@
     "is_sold_out": false,
     "total_count": 20,
     "effectively_sold_out": true
-  },
-  "1813": {
-    "name": "Primer + Moisturizer + Highlighter Primer - 30 g (PINK)",
-    "store_name": "Ectoraa",
-    "platform": "Flipkart",
-    "campaign_type": "review",
-    "cashback": 358,
-    "net_price": 40,
-    "original_price": 398,
-    "claim_link": "https://fkm.asia/4z34",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/primer-moisturizer-highlighter-primer-30-g-pink-mvqvx8qe",
-    "image": "https://images.freekaamaal.com/product-images/product_1793117565_8161.jpg",
-    "product_budget": 80,
-    "is_sold_out": false,
-    "total_count": 61,
-    "effectively_sold_out": false
   },
   "1812": {
     "name": "Primer + Moisturizer + Highlighter Primer - 30 g (GOLD)",
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792066566_1155.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 107,
+    "total_count": 108,
     "effectively_sold_out": false
   },
   "1635": {
@@ -1452,7 +1452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792998809_9631.jpg",
     "product_budget": 1625,
     "is_sold_out": false,
-    "total_count": 353,
+    "total_count": 354,
     "effectively_sold_out": false
   },
   "1729": {
@@ -1564,7 +1564,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792157278_7391.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "1699": {
@@ -1676,7 +1676,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793026367_8856.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "1411": {
@@ -1852,7 +1852,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042855_5188.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 146,
+    "total_count": 148,
     "effectively_sold_out": false
   },
   "1688": {
@@ -1964,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793436716_8132.jpg",
     "product_budget": 19,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1794": {
@@ -2028,7 +2028,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 133,
+    "total_count": 134,
     "effectively_sold_out": false
   },
   "803": {
@@ -2076,7 +2076,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793026108_5350.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 35,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "570": {
@@ -2460,7 +2460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343467_2756.jpg",
     "product_budget": 447,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 28,
     "effectively_sold_out": false
   },
   "1832": {
@@ -2476,7 +2476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792661383_1732.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "487": {
@@ -2572,7 +2572,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342387_3266.jpg",
     "product_budget": 1212,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 34,
     "effectively_sold_out": false
   },
   "1787": {
@@ -2812,7 +2812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783602062_8025.jpg",
     "product_budget": 48,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1657": {
