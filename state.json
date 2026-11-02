@@ -527,18 +527,18 @@
     "total_count": 14,
     "effectively_sold_out": false
   },
-  "1848": {
-    "name": "Stainless Steel Lunch Box (Aqua Blue)",
+  "1842": {
+    "name": "Stainless Steel Lunch Box (Navy Blue)",
     "store_name": "Veigo",
     "platform": "Blinkit",
     "campaign_type": "rating",
     "cashback": 279,
     "net_price": 120,
     "original_price": 399,
-    "claim_link": "https://fkm.asia/4zb6",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/stainless-steel-lunch-box-aqua-blue-mvz1ccyn",
-    "image": "https://images.freekaamaal.com/product-images/product_1793610376_4453.jpg",
-    "product_budget": 50,
+    "claim_link": "https://fkm.asia/4zb0",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/stainless-steel-lunch-box-navy-blue-mvyylvmu",
+    "image": "https://images.freekaamaal.com/product-images/product_1793605804_6346.jpg",
+    "product_budget": 100,
     "is_sold_out": false,
     "total_count": 3,
     "effectively_sold_out": false
@@ -575,18 +575,18 @@
     "total_count": 3,
     "effectively_sold_out": false
   },
-  "1842": {
-    "name": "Stainless Steel Lunch Box (Navy Blue)",
+  "1848": {
+    "name": "Stainless Steel Lunch Box (Aqua Blue)",
     "store_name": "Veigo",
     "platform": "Blinkit",
     "campaign_type": "rating",
     "cashback": 279,
     "net_price": 120,
     "original_price": 399,
-    "claim_link": "https://fkm.asia/4zb0",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/stainless-steel-lunch-box-navy-blue-mvyylvmu",
-    "image": "https://images.freekaamaal.com/product-images/product_1793605804_6346.jpg",
-    "product_budget": 100,
+    "claim_link": "https://fkm.asia/4zb6",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/stainless-steel-lunch-box-aqua-blue-mvz1ccyn",
+    "image": "https://images.freekaamaal.com/product-images/product_1793610376_4453.jpg",
+    "product_budget": 50,
     "is_sold_out": false,
     "total_count": 3,
     "effectively_sold_out": false
@@ -687,6 +687,22 @@
     "total_count": 64,
     "effectively_sold_out": false
   },
+  "1865": {
+    "name": "Washing Machine Cleaner & Descaler 180g (Pack of 3 Pouches)",
+    "store_name": "Homehygiene",
+    "platform": "Meesho",
+    "campaign_type": "review",
+    "cashback": 266,
+    "net_price": 0,
+    "original_price": 266,
+    "claim_link": "https://fkm.asia/4zbu",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-cleaner-descaler-180g-pack-of-3-pouches-mvzaeg3q",
+    "image": "https://images.freekaamaal.com/product-images/product_1793626993_9783.jpg",
+    "product_budget": 200,
+    "is_sold_out": false,
+    "total_count": null,
+    "effectively_sold_out": false
+  },
   "1843": {
     "name": "Stainless Steel MW Safe Snack Lunch Box (Military Green)",
     "store_name": "Veigo",
@@ -748,7 +764,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788353059_5466.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "1562": {
@@ -813,6 +829,22 @@
     "product_budget": 100,
     "is_sold_out": false,
     "total_count": 70,
+    "effectively_sold_out": false
+  },
+  "1870": {
+    "name": "Washing Machine Cleaner & Descaler 180g",
+    "store_name": "Homehygiene",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 227,
+    "net_price": 0,
+    "original_price": 227,
+    "claim_link": "https://fkm.asia/4zc0",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-cleaner-descaler-180g-mvzb7yqy",
+    "image": "https://images.freekaamaal.com/product-images/product_1793626993_9783.jpg",
+    "product_budget": 250,
+    "is_sold_out": false,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "1668": {
@@ -1039,6 +1071,22 @@
     "total_count": 1,
     "effectively_sold_out": false
   },
+  "1803": {
+    "name": "Washing Machine Cleaner & Descaler Tablets | 8 Tablets",
+    "store_name": "Happiplanet",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 163,
+    "net_price": 0,
+    "original_price": 163,
+    "claim_link": "https://fkm.asia/4w39",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-cleaner-descaler-tablets-8-tablets-mvq8lk48",
+    "image": "https://images.freekaamaal.com/product-images/product_1786342819_3636.jpg",
+    "product_budget": 402,
+    "is_sold_out": false,
+    "total_count": 29,
+    "effectively_sold_out": false
+  },
   "1802": {
     "name": "Tap Cleaner & Limescale Remover - 500 Ml",
     "store_name": "Happiplanet",
@@ -1055,20 +1103,36 @@
     "total_count": 35,
     "effectively_sold_out": false
   },
-  "1803": {
-    "name": "Washing Machine Cleaner & Descaler Tablets | 8 Tablets",
-    "store_name": "Happiplanet",
-    "platform": "Amazon",
+  "1867": {
+    "name": "Kitchen Cleaner & Degreaser Spray Kitchen Cleaner (450 ml)",
+    "store_name": "Homehygiene",
+    "platform": "Flipkart",
     "campaign_type": "review",
     "cashback": 163,
-    "net_price": 0,
-    "original_price": 163,
-    "claim_link": "https://fkm.asia/4w39",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-cleaner-descaler-tablets-8-tablets-mvq8lk48",
-    "image": "https://images.freekaamaal.com/product-images/product_1786342819_3636.jpg",
-    "product_budget": 402,
+    "net_price": 18,
+    "original_price": 181,
+    "claim_link": "https://fkm.asia/4zbx",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/kitchen-cleaner-degreaser-spray-kitchen-cleaner-450-ml-mvzarn3n",
+    "image": "https://images.freekaamaal.com/product-images/product_1793626232_7493.jpg",
+    "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": null,
+    "effectively_sold_out": false
+  },
+  "1869": {
+    "name": "Drain Expert Powder 400g ( Pack Of 8 )",
+    "store_name": "Homehygiene",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 162,
+    "net_price": 0,
+    "original_price": 162,
+    "claim_link": "https://fkm.asia/4zbz",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/drain-expert-powder-400g-pack-of-8-mvzb5iem",
+    "image": "https://images.freekaamaal.com/product-images/product_1793626878_4266.jpg",
+    "product_budget": 500,
+    "is_sold_out": false,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "1817": {
@@ -1087,6 +1151,38 @@
     "total_count": 42,
     "effectively_sold_out": false
   },
+  "1866": {
+    "name": "Drain Expert Powder | Pack of 8",
+    "store_name": "Homehygiene",
+    "platform": "Meesho",
+    "campaign_type": "review",
+    "cashback": 156,
+    "net_price": 0,
+    "original_price": 156,
+    "claim_link": "https://fkm.asia/4zbw",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/drain-expert-powder-pack-of-8-mvzagrll",
+    "image": "https://images.freekaamaal.com/product-images/product_1793625707_7179.jpg",
+    "product_budget": 200,
+    "is_sold_out": false,
+    "total_count": null,
+    "effectively_sold_out": false
+  },
+  "1864": {
+    "name": "Washing Machine Descaler Tablets ( Pack Of 6 )",
+    "store_name": "Homehygiene",
+    "platform": "Meesho",
+    "campaign_type": "review",
+    "cashback": 156,
+    "net_price": 0,
+    "original_price": 156,
+    "claim_link": "https://fkm.asia/4zbt",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-descaler-tablets-pack-of-6-mvzaajxv",
+    "image": "https://images.freekaamaal.com/product-images/product_1793627842_5439.jpg",
+    "product_budget": 1000,
+    "is_sold_out": false,
+    "total_count": null,
+    "effectively_sold_out": false
+  },
   "1801": {
     "name": "Kitchen Cleaner Spray - 500 Ml",
     "store_name": "Happiplanet",
@@ -1101,6 +1197,22 @@
     "product_budget": 1212,
     "is_sold_out": false,
     "total_count": 52,
+    "effectively_sold_out": false
+  },
+  "1770": {
+    "name": "Korean Hydrocolloid Overnight Acne Pimple - 36 Patches",
+    "store_name": "Wildglow",
+    "platform": "Amazon",
+    "campaign_type": "rating",
+    "cashback": 149,
+    "net_price": 0,
+    "original_price": 149,
+    "claim_link": "https://fkm.asia/4yuy",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/korean-hydrocolloid-overnight-acne-pimple-36-patches-mvi4tws5",
+    "image": "https://images.freekaamaal.com/product-images/product_1792588346_2418.jpg",
+    "product_budget": 100,
+    "is_sold_out": false,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "1739": {
@@ -1119,20 +1231,20 @@
     "total_count": 66,
     "effectively_sold_out": false
   },
-  "1770": {
-    "name": "Korean Hydrocolloid Overnight Acne Pimple - 36 Patches",
-    "store_name": "Wildglow",
-    "platform": "Amazon",
-    "campaign_type": "rating",
-    "cashback": 149,
-    "net_price": 0,
-    "original_price": 149,
-    "claim_link": "https://fkm.asia/4yuy",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/korean-hydrocolloid-overnight-acne-pimple-36-patches-mvi4tws5",
-    "image": "https://images.freekaamaal.com/product-images/product_1792588346_2418.jpg",
+  "1868": {
+    "name": "Tap Cleaner & Limescale Remover-Bleach Free Rose (450 ml)",
+    "store_name": "Homehygiene",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 146,
+    "net_price": 16,
+    "original_price": 162,
+    "claim_link": "https://fkm.asia/4zby",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tap-cleaner-limescale-remover-bleach-free-rose-450-ml-mvzauaxr",
+    "image": "https://images.freekaamaal.com/product-images/product_1793626338_8971.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 54,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "1412": {
