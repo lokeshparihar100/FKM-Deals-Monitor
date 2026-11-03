@@ -204,7 +204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793610814_7244.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "1287": {
@@ -748,8 +748,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588447_1366.jpg",
     "product_budget": 105,
     "is_sold_out": false,
-    "total_count": 104,
-    "effectively_sold_out": false
+    "total_count": 105,
+    "effectively_sold_out": true
   },
   "1283": {
     "name": "Natural Fabric Conditioner & Fabric Softener | 1 Litre",
