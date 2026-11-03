@@ -300,7 +300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588535_6184.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 92,
+    "total_count": 94,
     "effectively_sold_out": false
   },
   "1626": {
@@ -367,22 +367,6 @@
     "total_count": 3,
     "effectively_sold_out": false
   },
-  "1769": {
-    "name": "Korean Hairline Cover-Up Powder Black - 10gm",
-    "store_name": "Wildglow",
-    "platform": "Amazon",
-    "campaign_type": "rating",
-    "cashback": 299,
-    "net_price": 0,
-    "original_price": 299,
-    "claim_link": "https://fkm.asia/4yux",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/korean-hairline-cover-up-powder-black-10gm-mvi4rzgv",
-    "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
-    "product_budget": 103,
-    "is_sold_out": false,
-    "total_count": 103,
-    "effectively_sold_out": true
-  },
   "1469": {
     "name": "Teeth Whitening Strips - Pack of 3",
     "store_name": "Perfora",
@@ -398,6 +382,22 @@
     "is_sold_out": false,
     "total_count": 34,
     "effectively_sold_out": false
+  },
+  "1769": {
+    "name": "Korean Hairline Cover-Up Powder Black - 10gm",
+    "store_name": "Wildglow",
+    "platform": "Amazon",
+    "campaign_type": "rating",
+    "cashback": 299,
+    "net_price": 0,
+    "original_price": 299,
+    "claim_link": "https://fkm.asia/4yux",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/korean-hairline-cover-up-powder-black-10gm-mvi4rzgv",
+    "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
+    "product_budget": 103,
+    "is_sold_out": false,
+    "total_count": 103,
+    "effectively_sold_out": true
   },
   "1847": {
     "name": "Stainless Steel Lunch Box (Black)",
@@ -1068,7 +1068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 219,
     "effectively_sold_out": false
   },
   "1803": {
