@@ -204,7 +204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793961450_3105.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 41,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "1851": {
@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1769": {
@@ -1196,7 +1196,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1852": {
@@ -1436,8 +1436,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788353059_5466.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 29,
-    "effectively_sold_out": false
+    "total_count": 30,
+    "effectively_sold_out": true
   },
   "1562": {
     "name": "Specialist Stain Remover for Food stains - 75 Ml",
