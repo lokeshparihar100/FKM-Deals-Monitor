@@ -151,12 +151,12 @@
     "cashback": 610,
     "net_price": 153,
     "original_price": 763,
-    "claim_link": "Chocolate Fudge Brownie Ice Cream Cup - 100 Ml::https://fkm.asia/4xvg|Dubai Chocolate Sundae Ice Cream Cup - 125 Ml::https://fkm.asia/4ziy|Caramel Bistoffi Gelato - 450 Ml::https://fkm.asia/4zij",
+    "claim_link": "Chocolate Fudge Brownie Ice Cream Cup - 450 Ml::https://fkm.asia/4zj0|Dubai Chocolate Sundae Ice Cream Cup - 125 Ml::https://fkm.asia/4ziy|Caramel Bistoffi Gelato - 450 Ml::https://fkm.asia/4zij",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/brooklyn-diwali-ice-cream-offer-mw4s80xw",
-    "image": "https://images.freekaamaal.com/product-images/product_1793958187_9099.jpg",
+    "image": "https://images.freekaamaal.com/product-images/product_1793961450_3105.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "1851": {
@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793947027_7116.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1804": {
@@ -956,7 +956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792157278_7391.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 28,
     "effectively_sold_out": false
   },
   "1734": {
@@ -1535,22 +1535,6 @@
     "total_count": 14,
     "effectively_sold_out": false
   },
-  "1940": {
-    "name": "MEGA LOOT - Cookieman Gourmet Delights Biscuits Gift Pack - 225g",
-    "store_name": "Cookieman",
-    "platform": "Blinkit",
-    "campaign_type": "rating",
-    "cashback": 217,
-    "net_price": 0,
-    "original_price": 217,
-    "claim_link": "https://fkm.asia/4zgl",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/cookieman-gourmet-delights-biscuits-gift-pack-225g-mw375r86",
-    "image": "https://images.freekaamaal.com/product-images/product_1793877257_8876.jpg",
-    "product_budget": 2000,
-    "is_sold_out": true,
-    "total_count": 1887,
-    "effectively_sold_out": true
-  },
   "1669": {
     "name": "Leather Conditioner Spray for Bags, Shoes and Jackets - 100 Ml",
     "store_name": "Ethiek",
@@ -1580,7 +1564,23 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793773311_4152.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
+    "effectively_sold_out": false
+  },
+  "1871": {
+    "name": "Natural Dishwash Liquid - 2 Litre",
+    "store_name": "Homehygiene",
+    "platform": "Amazon",
+    "campaign_type": "rating",
+    "cashback": 206,
+    "net_price": 23,
+    "original_price": 229,
+    "claim_link": "https://fkm.asia/4zc1",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/natural-dishwash-liquid-2-litre-mw07qphh",
+    "image": "https://images.freekaamaal.com/product-images/product_1793681613_5639.jpg",
+    "product_budget": 250,
+    "is_sold_out": false,
+    "total_count": 51,
     "effectively_sold_out": false
   },
   "1700": {
@@ -1599,20 +1599,20 @@
     "total_count": 10,
     "effectively_sold_out": false
   },
-  "1871": {
-    "name": "Natural Dishwash Liquid - 2 Litre",
-    "store_name": "Homehygiene",
-    "platform": "Amazon",
-    "campaign_type": "rating",
-    "cashback": 206,
+  "1883": {
+    "name": "Cream Cleanser ( 2% Bio Ceramide + 2% Glycerol ) -125 ml",
+    "store_name": "Dove",
+    "platform": "Myntra",
+    "campaign_type": "review",
+    "cashback": 202,
     "net_price": 23,
-    "original_price": 229,
-    "claim_link": "https://fkm.asia/4zc1",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/natural-dishwash-liquid-2-litre-mw07qphh",
-    "image": "https://images.freekaamaal.com/product-images/product_1793681613_5639.jpg",
-    "product_budget": 250,
+    "original_price": 225,
+    "claim_link": "https://fkm.asia/4zdi",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/cream-cleanser-2-bio-ceramide-2-glycerol-125-ml-mw0iqsg8",
+    "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
+    "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 51,
+    "total_count": 67,
     "effectively_sold_out": false
   },
   "1882": {
@@ -1647,22 +1647,6 @@
     "total_count": 70,
     "effectively_sold_out": false
   },
-  "1883": {
-    "name": "Cream Cleanser ( 2% Bio Ceramide + 2% Glycerol ) -125 ml",
-    "store_name": "Dove",
-    "platform": "Myntra",
-    "campaign_type": "review",
-    "cashback": 202,
-    "net_price": 23,
-    "original_price": 225,
-    "claim_link": "https://fkm.asia/4zdi",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/cream-cleanser-2-bio-ceramide-2-glycerol-125-ml-mw0iqsg8",
-    "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
-    "product_budget": 200,
-    "is_sold_out": false,
-    "total_count": 67,
-    "effectively_sold_out": false
-  },
   "1277": {
     "name": "Instant Stain Remover Fabric Spray - 75 Ml",
     "store_name": "Ethiek",
@@ -1679,22 +1663,6 @@
     "total_count": 39,
     "effectively_sold_out": false
   },
-  "1899": {
-    "name": "Lip Balm For Men (10G) Lip Care With Spf 50",
-    "store_name": "Mannlich",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 196,
-    "net_price": 22,
-    "original_price": 218,
-    "claim_link": "https://fkm.asia/4ze2",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/lip-balm-for-men-10g-lip-care-with-spf-50-mw0ob7oe",
-    "image": "https://images.freekaamaal.com/product-images/product_1789042562_6633.jpg",
-    "product_budget": 300,
-    "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": false
-  },
   "1878": {
     "name": "Watermelon Seeds - 200g",
     "store_name": "Kharifoods",
@@ -1709,6 +1677,22 @@
     "product_budget": 50,
     "is_sold_out": false,
     "total_count": 40,
+    "effectively_sold_out": false
+  },
+  "1899": {
+    "name": "Lip Balm For Men (10G) Lip Care With Spf 50",
+    "store_name": "Mannlich",
+    "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 196,
+    "net_price": 22,
+    "original_price": 218,
+    "claim_link": "https://fkm.asia/4ze2",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/lip-balm-for-men-10g-lip-care-with-spf-50-mw0ob7oe",
+    "image": "https://images.freekaamaal.com/product-images/product_1789042562_6633.jpg",
+    "product_budget": 300,
+    "is_sold_out": false,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "1906": {
@@ -1823,22 +1807,6 @@
     "total_count": 18,
     "effectively_sold_out": false
   },
-  "1805": {
-    "name": "Copper, Bronze & Brass Cleaner | 300 Ml",
-    "store_name": "Happiplanet",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 179,
-    "net_price": 0,
-    "original_price": 179,
-    "claim_link": "https://fkm.asia/4w3c",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/copper-bronze-brass-cleaner-300-ml-mvq8qwvb",
-    "image": "https://images.freekaamaal.com/product-images/product_1786343467_2756.jpg",
-    "product_budget": 447,
-    "is_sold_out": false,
-    "total_count": 60,
-    "effectively_sold_out": false
-  },
   "1886": {
     "name": "SPF 50 Lip Brightening Balm for Dark Lips - 10g",
     "store_name": "Mannlich",
@@ -1853,6 +1821,22 @@
     "product_budget": 100,
     "is_sold_out": false,
     "total_count": 8,
+    "effectively_sold_out": false
+  },
+  "1805": {
+    "name": "Copper, Bronze & Brass Cleaner | 300 Ml",
+    "store_name": "Happiplanet",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 179,
+    "net_price": 0,
+    "original_price": 179,
+    "claim_link": "https://fkm.asia/4w3c",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/copper-bronze-brass-cleaner-300-ml-mvq8qwvb",
+    "image": "https://images.freekaamaal.com/product-images/product_1786343467_2756.jpg",
+    "product_budget": 447,
+    "is_sold_out": false,
+    "total_count": 60,
     "effectively_sold_out": false
   },
   "1826": {
@@ -1887,22 +1871,6 @@
     "total_count": 1,
     "effectively_sold_out": false
   },
-  "1802": {
-    "name": "Tap Cleaner & Limescale Remover - 500 Ml",
-    "store_name": "Happiplanet",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 163,
-    "net_price": 0,
-    "original_price": 163,
-    "claim_link": "https://fkm.asia/4w38",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tap-cleaner-limescale-remover-500-ml-mvq8j3c8",
-    "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
-    "product_budget": 1978,
-    "is_sold_out": false,
-    "total_count": 41,
-    "effectively_sold_out": false
-  },
   "1803": {
     "name": "Washing Machine Cleaner & Descaler Tablets | 8 Tablets",
     "store_name": "Happiplanet",
@@ -1935,6 +1903,22 @@
     "total_count": 38,
     "effectively_sold_out": false
   },
+  "1802": {
+    "name": "Tap Cleaner & Limescale Remover - 500 Ml",
+    "store_name": "Happiplanet",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 163,
+    "net_price": 0,
+    "original_price": 163,
+    "claim_link": "https://fkm.asia/4w38",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/tap-cleaner-limescale-remover-500-ml-mvq8j3c8",
+    "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
+    "product_budget": 1978,
+    "is_sold_out": false,
+    "total_count": 41,
+    "effectively_sold_out": false
+  },
   "1817": {
     "name": "Tap Cleaner & Limescale Remover (500 ml)",
     "store_name": "Happiplanet",
@@ -1948,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793184248_8375.jpg",
     "product_budget": 2200,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "1869": {
@@ -1980,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793682356_8968.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 30,
+    "total_count": 31,
     "effectively_sold_out": false
   },
   "1866": {
@@ -2191,22 +2175,6 @@
     "total_count": 5,
     "effectively_sold_out": true
   },
-  "1876": {
-    "name": "Khari Foods Dates & Nuts Bar - 100g",
-    "store_name": "Kharifoods",
-    "platform": "Zepto",
-    "campaign_type": "rating",
-    "cashback": 117,
-    "net_price": 29,
-    "original_price": 146,
-    "claim_link": "https://fkm.asia/4zdb",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/khari-foods-dates-nuts-bar-100g-mw0hhtmm",
-    "image": "https://images.freekaamaal.com/product-images/product_1792680835_7369.jpg",
-    "product_budget": 25,
-    "is_sold_out": false,
-    "total_count": 17,
-    "effectively_sold_out": false
-  },
   "1875": {
     "name": "Khari Foods Dates & Nuts Bar - 100g",
     "store_name": "Kharifoods",
@@ -2221,6 +2189,22 @@
     "product_budget": 50,
     "is_sold_out": false,
     "total_count": 29,
+    "effectively_sold_out": false
+  },
+  "1876": {
+    "name": "Khari Foods Dates & Nuts Bar - 100g",
+    "store_name": "Kharifoods",
+    "platform": "Zepto",
+    "campaign_type": "rating",
+    "cashback": 117,
+    "net_price": 29,
+    "original_price": 146,
+    "claim_link": "https://fkm.asia/4zdb",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/khari-foods-dates-nuts-bar-100g-mw0hhtmm",
+    "image": "https://images.freekaamaal.com/product-images/product_1792680835_7369.jpg",
+    "product_budget": 25,
+    "is_sold_out": false,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1859": {
