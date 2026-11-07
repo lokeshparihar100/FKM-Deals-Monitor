@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793964718_9605.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1877": {
@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793788653_8045.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1908": {
@@ -444,8 +444,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788353214_4813.jpg",
     "product_budget": 35,
     "is_sold_out": false,
-    "total_count": 34,
-    "effectively_sold_out": false
+    "total_count": 35,
+    "effectively_sold_out": true
   },
   "1942": {
     "name": "Foam Based Hair Removal Spray for Men & Women -  (200 ml)",
@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 87,
+    "total_count": 88,
     "effectively_sold_out": false
   },
   "1881": {
@@ -1916,7 +1916,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343467_2756.jpg",
     "product_budget": 447,
     "is_sold_out": false,
-    "total_count": 61,
+    "total_count": 62,
     "effectively_sold_out": false
   },
   "1826": {
@@ -1948,7 +1948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 223,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1803": {
