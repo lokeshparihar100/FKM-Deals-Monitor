@@ -188,7 +188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793606307_5463.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "1945": {
@@ -252,7 +252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "1921": {
@@ -367,6 +367,22 @@
     "total_count": 24,
     "effectively_sold_out": false
   },
+  "1912": {
+    "name": "Regal Essence Fixsy Body Glue - 20ml",
+    "store_name": "Regalessence",
+    "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 449,
+    "net_price": 0,
+    "original_price": 449,
+    "claim_link": "https://fkm.asia/4zec",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/regal-essence-fixsy-body-glue-20ml-mw0qc0bk",
+    "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
+    "product_budget": 100,
+    "is_sold_out": false,
+    "total_count": 12,
+    "effectively_sold_out": false
+  },
   "1947": {
     "name": "Khari Foods Signature Festival Dry Fruits Gift Pack - 320g",
     "store_name": "Kharifoods",
@@ -397,22 +413,6 @@
     "product_budget": 50,
     "is_sold_out": false,
     "total_count": 15,
-    "effectively_sold_out": false
-  },
-  "1912": {
-    "name": "Regal Essence Fixsy Body Glue - 20ml",
-    "store_name": "Regalessence",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 404,
-    "net_price": 45,
-    "original_price": 449,
-    "claim_link": "https://fkm.asia/4zec",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/regal-essence-fixsy-body-glue-20ml-mw0qc0bk",
-    "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
-    "product_budget": 100,
-    "is_sold_out": false,
-    "total_count": 12,
     "effectively_sold_out": false
   },
   "1930": {
@@ -463,22 +463,6 @@
     "total_count": 6,
     "effectively_sold_out": false
   },
-  "1873": {
-    "name": "Dishwasher Tablets ( 24 Pieces )",
-    "store_name": "Homehygiene",
-    "platform": "Amazon",
-    "campaign_type": "rating",
-    "cashback": 360,
-    "net_price": 0,
-    "original_price": 360,
-    "claim_link": "https://fkm.asia/4zc3",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/dishwasher-tablets-24-pieces-mw0840o4",
-    "image": "https://images.freekaamaal.com/product-images/product_1793682227_1777.jpg",
-    "product_budget": 100,
-    "is_sold_out": false,
-    "total_count": 30,
-    "effectively_sold_out": false
-  },
   "1804": {
     "name": "Limescale Remover & Kitchen Cleaner Spray Combo",
     "store_name": "Happiplanet",
@@ -495,20 +479,20 @@
     "total_count": 16,
     "effectively_sold_out": true
   },
-  "1884": {
-    "name": "2% Salicylic Acid Bacne Clear Bodywash - 300 Ml",
-    "store_name": "Mannlich",
-    "platform": "Instamart",
-    "campaign_type": "review",
-    "cashback": 359,
+  "1873": {
+    "name": "Dishwasher Tablets ( 24 Pieces )",
+    "store_name": "Homehygiene",
+    "platform": "Amazon",
+    "campaign_type": "rating",
+    "cashback": 360,
     "net_price": 0,
-    "original_price": 359,
-    "claim_link": "https://fkm.asia/4zdn",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-bacne-clear-bodywash-300-ml-mw0mk4a7",
-    "image": "https://images.freekaamaal.com/product-images/product_1793706500_5260.jpg",
-    "product_budget": 200,
+    "original_price": 360,
+    "claim_link": "https://fkm.asia/4zc3",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/dishwasher-tablets-24-pieces-mw0840o4",
+    "image": "https://images.freekaamaal.com/product-images/product_1793682227_1777.jpg",
+    "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "1860": {
@@ -525,6 +509,22 @@
     "product_budget": 136,
     "is_sold_out": false,
     "total_count": 6,
+    "effectively_sold_out": false
+  },
+  "1884": {
+    "name": "2% Salicylic Acid Bacne Clear Bodywash - 300 Ml",
+    "store_name": "Mannlich",
+    "platform": "Instamart",
+    "campaign_type": "review",
+    "cashback": 359,
+    "net_price": 0,
+    "original_price": 359,
+    "claim_link": "https://fkm.asia/4zdn",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-bacne-clear-bodywash-300-ml-mw0mk4a7",
+    "image": "https://images.freekaamaal.com/product-images/product_1793706500_5260.jpg",
+    "product_budget": 200,
+    "is_sold_out": false,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "1813": {
@@ -607,22 +607,6 @@
     "total_count": 12,
     "effectively_sold_out": false
   },
-  "1907": {
-    "name": "Pura Reed Diffuser Set | Pack of 2",
-    "store_name": "Involve",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 339,
-    "net_price": 60,
-    "original_price": 399,
-    "claim_link": "https://fkm.asia/4ze7",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/pura-reed-diffuser-set-pack-of-2-mw0p3c5e",
-    "image": "https://images.freekaamaal.com/product-images/product_1793710762_6532.jpg",
-    "product_budget": 50,
-    "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
-  },
   "1901": {
     "name": "De-Tan & Detox Body Wash (300 ml)",
     "store_name": "Mannlich",
@@ -669,6 +653,22 @@
     "product_budget": 300,
     "is_sold_out": false,
     "total_count": 20,
+    "effectively_sold_out": false
+  },
+  "1907": {
+    "name": "Pura Reed Diffuser Set | Pack of 2",
+    "store_name": "Involve",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 339,
+    "net_price": 60,
+    "original_price": 399,
+    "claim_link": "https://fkm.asia/4ze7",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/pura-reed-diffuser-set-pack-of-2-mw0p3c5e",
+    "image": "https://images.freekaamaal.com/product-images/product_1793710762_6532.jpg",
+    "product_budget": 50,
+    "is_sold_out": false,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1626": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793699824_5945.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 98,
+    "total_count": 99,
     "effectively_sold_out": false
   },
   "1882": {
@@ -2220,7 +2220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784723454_9411.jpg",
     "product_budget": 48,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "1697": {
@@ -2284,7 +2284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792680835_7369.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "1859": {
