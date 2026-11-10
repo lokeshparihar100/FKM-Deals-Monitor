@@ -300,7 +300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794221450_5207.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 60,
+    "total_count": 61,
     "effectively_sold_out": false
   },
   "1952": {
@@ -412,8 +412,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794192583_8337.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 23,
-    "effectively_sold_out": false
+    "total_count": 25,
+    "effectively_sold_out": true
   },
   "1877": {
     "name": "Nutluxe Festive Gift Box | Almonds, Cashews & Berries - 300g",
@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "1947": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793681613_5639.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 93,
+    "total_count": 94,
     "effectively_sold_out": false
   },
   "1700": {
@@ -2284,7 +2284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793681877_4629.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 107,
+    "total_count": 108,
     "effectively_sold_out": false
   },
   "1879": {
