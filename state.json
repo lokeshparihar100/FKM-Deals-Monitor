@@ -236,7 +236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793961450_3105.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 89,
+    "total_count": 90,
     "effectively_sold_out": false
   },
   "1851": {
@@ -412,7 +412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1923": {
@@ -476,8 +476,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793947027_7116.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 44,
-    "effectively_sold_out": false
+    "total_count": 45,
+    "effectively_sold_out": true
   },
   "1930": {
     "name": "Multivitamin Tablets For Adults 50+ ( 60 Veg Tablets )",
@@ -508,7 +508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793117430_1566.jpg",
     "product_budget": 135,
     "is_sold_out": false,
-    "total_count": 122,
+    "total_count": 124,
     "effectively_sold_out": false
   },
   "1284": {
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588447_1366.jpg",
     "product_budget": 131,
     "is_sold_out": false,
-    "total_count": 28,
+    "total_count": 29,
     "effectively_sold_out": false
   },
   "1815": {
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793773311_4152.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 77,
+    "total_count": 78,
     "effectively_sold_out": false
   },
   "1700": {
