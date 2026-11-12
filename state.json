@@ -44,8 +44,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794479387_7519.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": null,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "1836": {
     "name": "India's No.1 Top Selling Balls & Body Trimmer ( Black ) With Back",
@@ -108,7 +108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793610686_1915.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "1779": {
@@ -444,7 +444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793698249_8799.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 28,
     "effectively_sold_out": true
   },
   "1948": {
@@ -460,8 +460,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794192583_8337.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 24,
-    "effectively_sold_out": false
+    "total_count": 25,
+    "effectively_sold_out": true
   },
   "1936": {
     "name": "Rosemary Shampoo - 200 Ml",
@@ -588,7 +588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793117430_1566.jpg",
     "product_budget": 135,
     "is_sold_out": false,
-    "total_count": 136,
+    "total_count": 137,
     "effectively_sold_out": true
   },
   "1284": {
@@ -732,7 +732,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793706623_3300.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 42,
+    "total_count": 43,
     "effectively_sold_out": false
   },
   "1907": {
@@ -1900,7 +1900,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793681613_5639.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 139,
+    "total_count": 140,
     "effectively_sold_out": false
   },
   "1294": {
@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779185953_1295.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 223,
     "effectively_sold_out": false
   },
   "1867": {
@@ -2447,20 +2447,36 @@
     "total_count": 19,
     "effectively_sold_out": false
   },
-  "1875": {
-    "name": "Khari Foods Dates & Nuts Bar - 100g",
-    "store_name": "Kharifoods",
-    "platform": "Blinkit",
+  "1963": {
+    "name": "Gel 70% Alcohol Based Hand Sanitizer Bottle (120 ml)",
+    "store_name": "Vyom",
+    "platform": "Flipkart",
     "campaign_type": "review",
-    "cashback": 117,
-    "net_price": 29,
-    "original_price": 146,
-    "claim_link": "https://fkm.asia/4zda",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/khari-foods-dates-nuts-bar-100g-mw0h5sx4",
-    "image": "https://images.freekaamaal.com/product-images/product_1792680835_7369.jpg",
-    "product_budget": 50,
+    "cashback": 120,
+    "net_price": 0,
+    "original_price": 120,
+    "claim_link": "https://fkm.asia/4zqz",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/gel-70-alcohol-based-hand-sanitizer-bottle-120-ml-mwdemurq",
+    "image": "https://images.freekaamaal.com/product-images/product_1794479258_4982.jpg",
+    "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 41,
+    "total_count": null,
+    "effectively_sold_out": false
+  },
+  "1962": {
+    "name": "Herbal Hygiene Mint Liquid Sanitizer Spray Hand Sanitizer Bottle (100 ml)",
+    "store_name": "Vyom",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 119,
+    "net_price": 0,
+    "original_price": 119,
+    "claim_link": "https://fkm.asia/4zqy",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/herbal-hygiene-mint-liquid-sanitizer-spray-hand-sanitizer-bottle-100-ml-mwdekjdi",
+    "image": "https://images.freekaamaal.com/product-images/product_1794479150_6738.jpg",
+    "product_budget": 40,
+    "is_sold_out": false,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "1876": {
@@ -2479,36 +2495,20 @@
     "total_count": 25,
     "effectively_sold_out": true
   },
-  "1963": {
-    "name": "Gel 70% Alcohol Based Hand Sanitizer Bottle (120 ml)",
-    "store_name": "Vyom",
-    "platform": "Flipkart",
+  "1875": {
+    "name": "Khari Foods Dates & Nuts Bar - 100g",
+    "store_name": "Kharifoods",
+    "platform": "Blinkit",
     "campaign_type": "review",
-    "cashback": 108,
-    "net_price": 12,
-    "original_price": 120,
-    "claim_link": "https://fkm.asia/4zqz",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/gel-70-alcohol-based-hand-sanitizer-bottle-120-ml-mwdemurq",
-    "image": "https://images.freekaamaal.com/product-images/product_1794479258_4982.jpg",
-    "product_budget": 40,
+    "cashback": 117,
+    "net_price": 29,
+    "original_price": 146,
+    "claim_link": "https://fkm.asia/4zda",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/khari-foods-dates-nuts-bar-100g-mw0h5sx4",
+    "image": "https://images.freekaamaal.com/product-images/product_1792680835_7369.jpg",
+    "product_budget": 50,
     "is_sold_out": false,
-    "total_count": null,
-    "effectively_sold_out": false
-  },
-  "1962": {
-    "name": "Herbal Hygiene Mint Liquid Sanitizer Spray Hand Sanitizer Bottle (100 ml)",
-    "store_name": "Vyom",
-    "platform": "Flipkart",
-    "campaign_type": "review",
-    "cashback": 107,
-    "net_price": 12,
-    "original_price": 119,
-    "claim_link": "https://fkm.asia/4zqy",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/herbal-hygiene-mint-liquid-sanitizer-spray-hand-sanitizer-bottle-100-ml-mwdekjdi",
-    "image": "https://images.freekaamaal.com/product-images/product_1794479150_6738.jpg",
-    "product_budget": 40,
-    "is_sold_out": false,
-    "total_count": null,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "1738": {
