@@ -284,8 +284,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793964896_1348.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 26,
-    "effectively_sold_out": false
+    "total_count": 27,
+    "effectively_sold_out": true
   },
   "1845": {
     "name": "Stainless Steel Lunch Set (Aqua Blue)",
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 215,
+    "total_count": 216,
     "effectively_sold_out": false
   },
   "1910": {
@@ -2428,7 +2428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793625707_7179.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 143,
+    "total_count": 144,
     "effectively_sold_out": false
   },
   "1864": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588346_2418.jpg",
     "product_budget": 31,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1697": {
@@ -2652,7 +2652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794479150_6738.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "1875": {
