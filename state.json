@@ -300,7 +300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793606307_5463.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "1945": {
@@ -572,8 +572,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794192583_8337.jpg",
     "product_budget": 27,
     "is_sold_out": false,
-    "total_count": 26,
-    "effectively_sold_out": false
+    "total_count": 27,
+    "effectively_sold_out": true
   },
   "1936": {
     "name": "Rosemary Shampoo - 200 Ml",
@@ -1212,7 +1212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "1933": {
@@ -2652,7 +2652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794479150_6738.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "1875": {
