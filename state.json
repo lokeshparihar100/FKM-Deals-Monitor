@@ -508,8 +508,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794651202_6449.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": null,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1845": {
     "name": "Stainless Steel Lunch Set (Aqua Blue)",
@@ -732,7 +732,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1954": {
@@ -780,7 +780,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "1909": {
@@ -1660,7 +1660,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792157002_3408.jpg",
     "product_budget": 600,
     "is_sold_out": false,
-    "total_count": 309,
+    "total_count": 310,
     "effectively_sold_out": false
   },
   "1699": {
@@ -1948,7 +1948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 83,
+    "total_count": 85,
     "effectively_sold_out": false
   },
   "1969": {
@@ -3100,7 +3100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784723454_9411.jpg",
     "product_budget": 48,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "1963": {
@@ -3116,7 +3116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794479258_4982.jpg",
     "product_budget": 65,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 52,
     "effectively_sold_out": false
   },
   "1962": {
@@ -3132,7 +3132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794479150_6738.jpg",
     "product_budget": 61,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 51,
     "effectively_sold_out": false
   },
   "2027": {
