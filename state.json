@@ -124,7 +124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793610686_1915.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "2017": {
@@ -140,8 +140,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794574076_1739.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "1779": {
     "name": "India No.1 Genz Trimmer ",
@@ -204,8 +204,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794573681_2279.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "2015": {
     "name": "Unisex Kids Hooded Sweatshirt ( Any Age )",
@@ -380,8 +380,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794574727_1761.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "2016": {
     "name": "Boys Printed Sweatshirt ( Any Age )",
@@ -1308,7 +1308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "1890": {
@@ -1404,7 +1404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789714435_4433.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 17,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "1956": {
@@ -1916,7 +1916,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793699976_5718.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 90,
+    "total_count": 91,
     "effectively_sold_out": false
   },
   "1961": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 75,
+    "total_count": 76,
     "effectively_sold_out": false
   },
   "1969": {
@@ -2060,7 +2060,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793605967_9839.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "1895": {
