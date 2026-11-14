@@ -44,8 +44,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794479387_7519.jpg",
     "product_budget": 7,
     "is_sold_out": false,
-    "total_count": 6,
-    "effectively_sold_out": false
+    "total_count": 7,
+    "effectively_sold_out": true
   },
   "1836": {
     "name": "India's No.1 Top Selling Balls & Body Trimmer ( Black ) With Back",
@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794574076_1739.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1779": {
@@ -636,7 +636,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794574536_4247.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1921": {
@@ -1916,7 +1916,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793699976_5718.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 87,
+    "total_count": 89,
     "effectively_sold_out": false
   },
   "1961": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 73,
+    "total_count": 75,
     "effectively_sold_out": false
   },
   "1969": {
@@ -1964,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794577567_7455.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1819": {
@@ -2828,7 +2828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794577316_8349.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "2008": {
