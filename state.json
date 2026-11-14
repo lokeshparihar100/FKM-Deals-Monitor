@@ -188,8 +188,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794569530_1521.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "1976": {
     "name": "Biotin Tablets for Hair Growth - 120 Tablets",
@@ -204,7 +204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794569843_4732.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "1916": {
@@ -284,8 +284,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794568951_1664.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1927": {
     "name": "Liver Detox Supplement with Milk Thistle - 120 Veg Tablets",
@@ -412,8 +412,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794567845_8726.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1851": {
     "name": "Stainless Steel Lunch Set (Red)",
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793699976_5718.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 61,
+    "total_count": 64,
     "effectively_sold_out": false
   },
   "1961": {
@@ -1740,7 +1740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 54,
+    "total_count": 57,
     "effectively_sold_out": false
   },
   "1736": {
@@ -1868,7 +1868,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 237,
+    "total_count": 239,
     "effectively_sold_out": false
   },
   "1910": {
