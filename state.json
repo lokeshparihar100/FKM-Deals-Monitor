@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794911768_3706.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1976": {
@@ -1036,7 +1036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "298": {
@@ -1260,7 +1260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794913207_2438.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1912": {
@@ -1548,8 +1548,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794912808_3535.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "1149": {
     "name": "Pants Skin Breathe Care | Baby Diapers New Born Size (NB) | 42 Count",
