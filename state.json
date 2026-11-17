@@ -860,7 +860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 106,
+    "total_count": 107,
     "effectively_sold_out": false
   },
   "2010": {
@@ -1036,7 +1036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "298": {
@@ -1260,7 +1260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 70,
+    "total_count": 71,
     "effectively_sold_out": false
   },
   "1993": {
@@ -1804,8 +1804,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791035579_5975.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 24,
-    "effectively_sold_out": false
+    "total_count": 25,
+    "effectively_sold_out": true
   },
   "1734": {
     "name": "Teeth Whitening Mini Oral Care Combo",
@@ -2636,7 +2636,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788348223_4466.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "1736": {
@@ -3404,7 +3404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342553_8670.jpg",
     "product_budget": 1978,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "1867": {
