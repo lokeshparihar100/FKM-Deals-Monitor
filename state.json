@@ -348,8 +348,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794911560_1701.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "1982": {
     "name": "Melatonin 10 mg Sleeping Pills with Tagar 250 mg - 60 Veg Tablets",
@@ -748,7 +748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794911961_4666.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1945": {
@@ -988,7 +988,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349216_1285.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "1989": {
@@ -1004,7 +1004,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794912356_1219.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1965": {
@@ -1212,7 +1212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794826605_8283.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 56,
+    "total_count": 57,
     "effectively_sold_out": false
   },
   "1948": {
@@ -1420,7 +1420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794912523_1196.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1992": {
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794912132_8695.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1930": {
@@ -1996,7 +1996,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787645641_7797.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "1897": {
@@ -2764,7 +2764,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 299,
+    "total_count": 300,
     "effectively_sold_out": false
   },
   "1910": {
@@ -3228,7 +3228,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793710643_4641.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "1816": {
@@ -3836,7 +3836,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794634474_6990.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 71,
+    "total_count": 73,
     "effectively_sold_out": false
   },
   "1740": {
