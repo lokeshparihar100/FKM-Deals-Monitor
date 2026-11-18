@@ -1260,7 +1260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794825865_6828.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 59,
     "effectively_sold_out": false
   },
   "1287": {
@@ -1820,7 +1820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793706623_3300.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 54,
+    "total_count": 55,
     "effectively_sold_out": false
   },
   "1900": {
@@ -1996,7 +1996,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793605804_6346.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "2042": {
@@ -2364,7 +2364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359924_8791.jpg",
     "product_budget": 215,
     "is_sold_out": false,
-    "total_count": 142,
+    "total_count": 143,
     "effectively_sold_out": false
   },
   "1059": {
@@ -3068,7 +3068,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588447_1366.jpg",
     "product_budget": 131,
     "is_sold_out": false,
-    "total_count": 89,
+    "total_count": 90,
     "effectively_sold_out": false
   },
   "1815": {
@@ -3420,7 +3420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784723274_1207.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 65,
+    "total_count": 67,
     "effectively_sold_out": false
   },
   "1805": {
@@ -3772,7 +3772,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793626338_8971.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "1412": {
@@ -3868,7 +3868,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784723454_9411.jpg",
     "product_budget": 48,
     "is_sold_out": false,
-    "total_count": 36,
+    "total_count": 37,
     "effectively_sold_out": false
   },
   "1962": {
@@ -3948,8 +3948,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793788824_7302.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 24,
-    "effectively_sold_out": false
+    "total_count": 25,
+    "effectively_sold_out": true
   },
   "1831": {
     "name": "Pimple Patches 12N",
