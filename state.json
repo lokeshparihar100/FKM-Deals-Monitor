@@ -28,7 +28,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793962293_2028.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 17,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "1964": {
@@ -60,7 +60,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793612683_6140.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "2014": {
@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788240156_7549.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 28,
+    "total_count": 31,
     "effectively_sold_out": false
   },
   "2033": {
@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790081243_2955.jpg",
     "product_budget": 25,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "1850": {
@@ -204,7 +204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778064438_5031.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "2001": {
@@ -268,8 +268,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794911439_1785.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1241": {
     "name": "Veg Collagen Supplement Powder - 200g",
@@ -284,7 +284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788240470_5590.jpg",
     "product_budget": 19,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1237": {
@@ -380,8 +380,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794911768_3706.jpg",
     "product_budget": 4,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 4,
+    "effectively_sold_out": true
   },
   "1976": {
     "name": "Biotin Tablets for Hair Growth - 120 Tablets",
@@ -428,7 +428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786699206_5942.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 28,
     "effectively_sold_out": false
   },
   "1916": {
@@ -444,7 +444,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790329110_6042.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1920": {
@@ -460,7 +460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793795558_2859.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "1974": {
@@ -476,7 +476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788350180_6310.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "296": {
@@ -604,7 +604,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793790278_7333.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1937": {
@@ -620,7 +620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784354265_9650.jpg",
     "product_budget": 90,
     "is_sold_out": false,
-    "total_count": 70,
+    "total_count": 72,
     "effectively_sold_out": false
   },
   "1926": {
@@ -652,7 +652,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793790165_4478.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "1949": {
@@ -716,7 +716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1778063695_5355.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 59,
     "effectively_sold_out": false
   },
   "299": {
@@ -732,7 +732,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777049283_4845.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 63,
+    "total_count": 64,
     "effectively_sold_out": false
   },
   "1987": {
@@ -748,8 +748,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794911961_4666.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1945": {
     "name": "Brooklyn  Diwali  Ice Cream Offer",
@@ -844,7 +844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712772_3720.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 97,
+    "total_count": 98,
     "effectively_sold_out": false
   },
   "1938": {
@@ -860,7 +860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 110,
+    "total_count": 112,
     "effectively_sold_out": false
   },
   "2010": {
@@ -988,7 +988,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349216_1285.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 28,
     "effectively_sold_out": false
   },
   "1989": {
@@ -1004,8 +1004,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794912356_1219.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1966": {
     "name": "Anti Dandruff Volumizing Shampoo for Men & Women - 250 Ml",
@@ -1020,7 +1020,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "1965": {
@@ -1036,7 +1036,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "298": {
@@ -1052,7 +1052,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1777049191_9042.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "1954": {
@@ -1116,7 +1116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 18,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "1968": {
@@ -1132,7 +1132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 14,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "1909": {
@@ -1164,7 +1164,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793790423_1793.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "2034": {
@@ -1180,7 +1180,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794825865_6828.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 55,
     "effectively_sold_out": false
   },
   "2035": {
@@ -1196,7 +1196,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794826605_8283.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 64,
+    "total_count": 66,
     "effectively_sold_out": false
   },
   "1287": {
@@ -1244,7 +1244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791657344_7471.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 110,
+    "total_count": 112,
     "effectively_sold_out": false
   },
   "1912": {
@@ -1260,7 +1260,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 71,
+    "total_count": 74,
     "effectively_sold_out": false
   },
   "1993": {
@@ -1276,8 +1276,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794913207_2438.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1958": {
     "name": "Female Only - Reusable Period Panty for Women & Girls ( Any Size )",
@@ -1292,8 +1292,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794395005_9771.jpg",
     "product_budget": 30,
     "is_sold_out": false,
-    "total_count": 26,
-    "effectively_sold_out": false
+    "total_count": 30,
+    "effectively_sold_out": true
   },
   "1236": {
     "name": "Mini Deep Sea Omega 3 Fish Oil Capsules 1000mg ( 60 Softgels )",
@@ -1308,7 +1308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788239515_5369.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "1947": {
@@ -1340,7 +1340,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793789619_5911.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1908": {
@@ -1372,7 +1372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794577436_6413.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "1942": {
@@ -1436,8 +1436,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794912956_8408.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1991": {
     "name": "Pimple Patches for Face Salicylic Acid & Cica ( 72 Patches )",
@@ -1452,8 +1452,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794912523_1196.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1992": {
     "name": "Rosemary Hair Spray with Rice Water - 200 Ml",
@@ -1468,8 +1468,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794912132_8695.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1812": {
     "name": "Primer + Moisturizer + Highlighter Primer - 30 g (GOLD)",
@@ -1644,7 +1644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788239346_5311.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "1813": {
@@ -1820,7 +1820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792157002_3408.jpg",
     "product_budget": 600,
     "is_sold_out": false,
-    "total_count": 329,
+    "total_count": 330,
     "effectively_sold_out": false
   },
   "1911": {
@@ -1868,7 +1868,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 28,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "1243": {
@@ -1884,7 +1884,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788240807_5405.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 37,
+    "total_count": 38,
     "effectively_sold_out": false
   },
   "1863": {
@@ -1900,7 +1900,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588535_6184.jpg",
     "product_budget": 137,
     "is_sold_out": false,
-    "total_count": 75,
+    "total_count": 76,
     "effectively_sold_out": false
   },
   "1058": {
@@ -1948,7 +1948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791870858_2664.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1894": {
@@ -1964,7 +1964,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "1890": {
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793794937_7274.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 73,
+    "total_count": 74,
     "effectively_sold_out": false
   },
   "1059": {
@@ -2268,7 +2268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791035850_9709.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 17,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "1278": {
@@ -2588,7 +2588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 128,
+    "total_count": 130,
     "effectively_sold_out": false
   },
   "1960": {
@@ -2604,7 +2604,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793699976_5718.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 140,
+    "total_count": 143,
     "effectively_sold_out": false
   },
   "2026": {
@@ -2620,7 +2620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794577567_7455.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 55,
+    "total_count": 56,
     "effectively_sold_out": false
   },
   "1969": {
@@ -2636,7 +2636,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788348223_4466.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 37,
+    "total_count": 40,
     "effectively_sold_out": false
   },
   "1736": {
@@ -2748,7 +2748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 301,
+    "total_count": 304,
     "effectively_sold_out": false
   },
   "1910": {
@@ -2812,7 +2812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794566055_5431.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 27,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "1771": {
@@ -2876,7 +2876,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788410236_8061.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 102,
+    "total_count": 103,
     "effectively_sold_out": false
   },
   "1282": {
@@ -2972,7 +2972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588447_1366.jpg",
     "product_budget": 131,
     "is_sold_out": false,
-    "total_count": 88,
+    "total_count": 89,
     "effectively_sold_out": false
   },
   "1815": {
@@ -3020,7 +3020,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792156855_7952.jpg",
     "product_budget": 190,
     "is_sold_out": false,
-    "total_count": 142,
+    "total_count": 144,
     "effectively_sold_out": false
   },
   "1902": {
@@ -3116,7 +3116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793681613_5639.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 199,
+    "total_count": 201,
     "effectively_sold_out": false
   },
   "2002": {
@@ -3132,7 +3132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794562838_9934.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "1294": {
@@ -3148,7 +3148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788434071_7161.jpg",
     "product_budget": 98,
     "is_sold_out": false,
-    "total_count": 93,
+    "total_count": 94,
     "effectively_sold_out": false
   },
   "1277": {
@@ -3420,7 +3420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793626232_7493.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 59,
+    "total_count": 61,
     "effectively_sold_out": false
   },
   "1817": {
@@ -3500,7 +3500,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794577316_8349.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 79,
+    "total_count": 80,
     "effectively_sold_out": false
   },
   "1874": {
@@ -3612,8 +3612,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794394699_7424.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 18,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "1739": {
     "name": "Perfora Purple Whitening Toothpaste - 75g",
@@ -3644,7 +3644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793626338_8971.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1412": {
@@ -3756,7 +3756,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794479150_6738.jpg",
     "product_budget": 61,
     "is_sold_out": false,
-    "total_count": 61,
+    "total_count": 62,
     "effectively_sold_out": true
   },
   "1740": {
@@ -3804,7 +3804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794395157_6697.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 17,
+    "total_count": 18,
     "effectively_sold_out": false
   },
   "1946": {
