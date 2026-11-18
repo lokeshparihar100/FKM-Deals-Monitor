@@ -191,22 +191,6 @@
     "total_count": 30,
     "effectively_sold_out": true
   },
-  "2056": {
-    "name": "Boys & Girls Full Sleeve Printed Hooded Sweatshirt ( Any Age )",
-    "store_name": "Kidbea",
-    "platform": "Flipkart",
-    "campaign_type": "review",
-    "cashback": 1020,
-    "net_price": 438,
-    "original_price": 1458,
-    "claim_link": "https://fkm.asia/52zv",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/boys-girls-full-sleeve-printed-hooded-sweatshirt-any-age-mwlrjx2w",
-    "image": "https://images.freekaamaal.com/product-images/product_1794984664_7849.jpg",
-    "product_budget": 2,
-    "is_sold_out": false,
-    "total_count": null,
-    "effectively_sold_out": false
-  },
   "2054": {
     "name": "Boys Full Sleeve Printed Hooded Sweatshirt ( Any Age )",
     "store_name": "Kidbea",
@@ -221,6 +205,22 @@
     "product_budget": 2,
     "is_sold_out": false,
     "total_count": 1,
+    "effectively_sold_out": false
+  },
+  "2056": {
+    "name": "Boys & Girls Full Sleeve Printed Hooded Sweatshirt ( Any Age )",
+    "store_name": "Kidbea",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 1020,
+    "net_price": 438,
+    "original_price": 1458,
+    "claim_link": "https://fkm.asia/52zv",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/boys-girls-full-sleeve-printed-hooded-sweatshirt-any-age-mwlrjx2w",
+    "image": "https://images.freekaamaal.com/product-images/product_1794984664_7849.jpg",
+    "product_budget": 2,
+    "is_sold_out": false,
+    "total_count": null,
     "effectively_sold_out": false
   },
   "2017": {
@@ -399,6 +399,22 @@
     "total_count": 2,
     "effectively_sold_out": true
   },
+  "1979": {
+    "name": "Eye Care Supplement - 60 Gummies",
+    "store_name": "Carbamideforte",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 799,
+    "net_price": 0,
+    "original_price": 599,
+    "claim_link": "https://fkm.asia/4zse",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/eye-care-supplement-60-gummies-mwen43h2",
+    "image": "https://images.freekaamaal.com/product-images/product_1794911560_1701.jpg",
+    "product_budget": 3,
+    "is_sold_out": false,
+    "total_count": 3,
+    "effectively_sold_out": true
+  },
   "1984": {
     "name": "Nac Supplement For Lung Detox - 60 Tablets",
     "store_name": "Carbamideforte",
@@ -429,22 +445,6 @@
     "product_budget": 5,
     "is_sold_out": false,
     "total_count": 5,
-    "effectively_sold_out": true
-  },
-  "1979": {
-    "name": "Eye Care Supplement - 60 Gummies",
-    "store_name": "Carbamideforte",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 799,
-    "net_price": 0,
-    "original_price": 599,
-    "claim_link": "https://fkm.asia/4zse",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/eye-care-supplement-60-gummies-mwen43h2",
-    "image": "https://images.freekaamaal.com/product-images/product_1794911560_1701.jpg",
-    "product_budget": 3,
-    "is_sold_out": false,
-    "total_count": 3,
     "effectively_sold_out": true
   },
   "1978": {
@@ -527,6 +527,22 @@
     "total_count": 9,
     "effectively_sold_out": false
   },
+  "296": {
+    "name": "Triple Magnesium Tablets ( 60 Tablets )",
+    "store_name": "Neuherbs",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 719,
+    "net_price": 80,
+    "original_price": 799,
+    "claim_link": "https://fkm.asia/3pem",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/triple-magnesium-tablets-60-tablets-mod53hpc",
+    "image": "https://images.freekaamaal.com/product-images/product_1777048925_3023.jpg",
+    "product_budget": 120,
+    "is_sold_out": false,
+    "total_count": 59,
+    "effectively_sold_out": false
+  },
   "1920": {
     "name": "L Threonate 2000mg Per Serving - 60 Veg Tablets",
     "store_name": "Carbamideforte",
@@ -557,22 +573,6 @@
     "product_budget": 70,
     "is_sold_out": false,
     "total_count": 10,
-    "effectively_sold_out": false
-  },
-  "296": {
-    "name": "Triple Magnesium Tablets ( 60 Tablets )",
-    "store_name": "Neuherbs",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 719,
-    "net_price": 80,
-    "original_price": 799,
-    "claim_link": "https://fkm.asia/3pem",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/triple-magnesium-tablets-60-tablets-mod53hpc",
-    "image": "https://images.freekaamaal.com/product-images/product_1777048925_3023.jpg",
-    "product_budget": 120,
-    "is_sold_out": false,
-    "total_count": 59,
     "effectively_sold_out": false
   },
   "1914": {
@@ -607,20 +607,20 @@
     "total_count": 2,
     "effectively_sold_out": true
   },
-  "1995": {
-    "name": "Hydrogel Under Eye Patches For Dark Circles ( 60 Patches )",
-    "store_name": "Carbamideforte",
-    "platform": "Amazon",
+  "2022": {
+    "name": "Unisex Kids Printed Hooded Sweatshirt ( Any Age - red boys )",
+    "store_name": "Kidbea",
+    "platform": "Myntra",
     "campaign_type": "review",
     "cashback": 699,
-    "net_price": 0,
-    "original_price": 499,
-    "claim_link": "https://fkm.asia/4zsu",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/hydrogel-under-eye-patches-for-dark-circles-60-patches-mweokc6d",
-    "image": "https://images.freekaamaal.com/product-images/product_1794568951_1664.jpg",
-    "product_budget": 6,
+    "net_price": 300,
+    "original_price": 999,
+    "claim_link": "https://fkm.asia/4zx4",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/unisex-kids-printed-hooded-sweatshirt-any-age-mwezh0m3",
+    "image": "https://images.freekaamaal.com/product-images/product_1794574727_1761.jpg",
+    "product_budget": 2,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 2,
     "effectively_sold_out": true
   },
   "2023": {
@@ -634,22 +634,6 @@
     "claim_link": "https://fkm.asia/4zx5",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/unisex-kids-printed-sweatshirt-any-age-mwezj98i",
     "image": "https://images.freekaamaal.com/product-images/product_1794574825_6879.jpg",
-    "product_budget": 2,
-    "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": true
-  },
-  "2022": {
-    "name": "Unisex Kids Printed Hooded Sweatshirt ( Any Age - red boys )",
-    "store_name": "Kidbea",
-    "platform": "Myntra",
-    "campaign_type": "review",
-    "cashback": 699,
-    "net_price": 300,
-    "original_price": 999,
-    "claim_link": "https://fkm.asia/4zx4",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/unisex-kids-printed-hooded-sweatshirt-any-age-mwezh0m3",
-    "image": "https://images.freekaamaal.com/product-images/product_1794574727_1761.jpg",
     "product_budget": 2,
     "is_sold_out": false,
     "total_count": 2,
@@ -671,6 +655,22 @@
     "total_count": 2,
     "effectively_sold_out": true
   },
+  "1995": {
+    "name": "Hydrogel Under Eye Patches For Dark Circles ( 60 Patches )",
+    "store_name": "Carbamideforte",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 699,
+    "net_price": 0,
+    "original_price": 499,
+    "claim_link": "https://fkm.asia/4zsu",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/hydrogel-under-eye-patches-for-dark-circles-60-patches-mweokc6d",
+    "image": "https://images.freekaamaal.com/product-images/product_1794568951_1664.jpg",
+    "product_budget": 6,
+    "is_sold_out": false,
+    "total_count": 6,
+    "effectively_sold_out": true
+  },
   "1927": {
     "name": "Liver Detox Supplement with Milk Thistle - 120 Veg Tablets",
     "store_name": "Carbamideforte",
@@ -685,22 +685,6 @@
     "product_budget": 15,
     "is_sold_out": false,
     "total_count": 6,
-    "effectively_sold_out": false
-  },
-  "1937": {
-    "name": "5% Tea Tree Hair Oil Shots for Dandruff & Itchy Scalp",
-    "store_name": "Brillare",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 679,
-    "net_price": 36,
-    "original_price": 715,
-    "claim_link": "https://fkm.asia/4ygo",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/5-tea-tree-hair-oil-shots-for-dandruff-itchy-scalp-mw364dpw",
-    "image": "https://images.freekaamaal.com/product-images/product_1784354265_9650.jpg",
-    "product_budget": 90,
-    "is_sold_out": false,
-    "total_count": 72,
     "effectively_sold_out": false
   },
   "1926": {
@@ -718,6 +702,22 @@
     "is_sold_out": false,
     "total_count": 10,
     "effectively_sold_out": true
+  },
+  "1937": {
+    "name": "5% Tea Tree Hair Oil Shots for Dandruff & Itchy Scalp",
+    "store_name": "Brillare",
+    "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 679,
+    "net_price": 36,
+    "original_price": 715,
+    "claim_link": "https://fkm.asia/4ygo",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/5-tea-tree-hair-oil-shots-for-dandruff-itchy-scalp-mw364dpw",
+    "image": "https://images.freekaamaal.com/product-images/product_1784354265_9650.jpg",
+    "product_budget": 90,
+    "is_sold_out": false,
+    "total_count": 72,
+    "effectively_sold_out": false
   },
   "1925": {
     "name": "Coenzyme Q10 | CoQ10 Supplement 300mg - 60 Capsules",
@@ -767,22 +767,6 @@
     "total_count": 5,
     "effectively_sold_out": true
   },
-  "1845": {
-    "name": "Stainless Steel Lunch Set (Aqua Blue)",
-    "store_name": "Veigo",
-    "platform": "Blinkit",
-    "campaign_type": "rating",
-    "cashback": 629,
-    "net_price": 270,
-    "original_price": 899,
-    "claim_link": "https://fkm.asia/4zb3",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/stainless-steel-lunch-set-aqua-blue-mvyyw65u",
-    "image": "https://images.freekaamaal.com/product-images/product_1793606307_5463.jpg",
-    "product_budget": 50,
-    "is_sold_out": false,
-    "total_count": 41,
-    "effectively_sold_out": false
-  },
   "413": {
     "name": "Hair Vitamins Tablets for Men & Women ( 60 Tablets )",
     "store_name": "Neuherbs",
@@ -797,6 +781,22 @@
     "product_budget": 70,
     "is_sold_out": false,
     "total_count": 59,
+    "effectively_sold_out": false
+  },
+  "1845": {
+    "name": "Stainless Steel Lunch Set (Aqua Blue)",
+    "store_name": "Veigo",
+    "platform": "Blinkit",
+    "campaign_type": "rating",
+    "cashback": 629,
+    "net_price": 270,
+    "original_price": 899,
+    "claim_link": "https://fkm.asia/4zb3",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/stainless-steel-lunch-set-aqua-blue-mvyyw65u",
+    "image": "https://images.freekaamaal.com/product-images/product_1793606307_5463.jpg",
+    "product_budget": 50,
+    "is_sold_out": false,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "299": {
@@ -879,22 +879,6 @@
     "total_count": 16,
     "effectively_sold_out": false
   },
-  "2018": {
-    "name": "Girls Three-Fourth Length Dungarees ( Any Age )",
-    "store_name": "Kidbea",
-    "platform": "Myntra",
-    "campaign_type": "review",
-    "cashback": 594,
-    "net_price": 255,
-    "original_price": 849,
-    "claim_link": "https://fkm.asia/4zx0",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/girls-three-fourth-length-dungarees-any-age-mwez4zvp",
-    "image": "https://images.freekaamaal.com/product-images/product_1794574155_7242.jpg",
-    "product_budget": 2,
-    "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
-  },
   "1146": {
     "name": "Pants Skin Breathe Care | Baby Diapers Medium Size (M) | 62 Count | 7-12Kgs",
     "store_name": "Mamypoko",
@@ -909,6 +893,22 @@
     "product_budget": 85,
     "is_sold_out": false,
     "total_count": 75,
+    "effectively_sold_out": false
+  },
+  "2018": {
+    "name": "Girls Three-Fourth Length Dungarees ( Any Age )",
+    "store_name": "Kidbea",
+    "platform": "Myntra",
+    "campaign_type": "review",
+    "cashback": 594,
+    "net_price": 255,
+    "original_price": 849,
+    "claim_link": "https://fkm.asia/4zx0",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/girls-three-fourth-length-dungarees-any-age-mwez4zvp",
+    "image": "https://images.freekaamaal.com/product-images/product_1794574155_7242.jpg",
+    "product_budget": 2,
+    "is_sold_out": false,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1935": {
@@ -943,37 +943,21 @@
     "total_count": 116,
     "effectively_sold_out": false
   },
-  "1921": {
-    "name": "Chelated Magnesium Glycinate Supplement 2000mg - 120 Veg Tablets",
-    "store_name": "Carbamideforte",
-    "platform": "Amazon",
+  "2021": {
+    "name": "Infants Printed Sleepsuit ( Any Age - Red Printed )",
+    "store_name": "Kidbea",
+    "platform": "Myntra",
     "campaign_type": "review",
-    "cashback": 559,
-    "net_price": 140,
-    "original_price": 699,
-    "claim_link": "https://fkm.asia/4zex",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/chelated-magnesium-glycinate-supplement-2000mg-120-veg-tablets-mw1zuow8",
-    "image": "https://images.freekaamaal.com/product-images/product_1793789295_7294.jpg",
-    "product_budget": 15,
-    "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
-  },
-  "2010": {
-    "name": "( Delhi - NCR Region Only ) - Memory Foam Cervical Pillow",
-    "store_name": "Myarmor",
-    "platform": "Blinkit",
-    "campaign_type": "rating",
     "cashback": 559,
     "net_price": 240,
     "original_price": 799,
-    "claim_link": "https://fkm.asia/4zuh",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/memory-foam-cervical-pillow-mwevfr23",
-    "image": "https://images.freekaamaal.com/product-images/product_1794567941_6650.jpg",
-    "product_budget": 40,
+    "claim_link": "https://fkm.asia/4zx3",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/infants-printed-sleepsuit-any-age-red-printed-mwezewmb",
+    "image": "https://images.freekaamaal.com/product-images/product_1794574623_1872.jpg",
+    "product_budget": 2,
     "is_sold_out": false,
-    "total_count": 7,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "2020": {
     "name": "Infants Printed Sleepsuit ( Any Age - pink printed)",
@@ -991,21 +975,37 @@
     "total_count": 2,
     "effectively_sold_out": true
   },
-  "2021": {
-    "name": "Infants Printed Sleepsuit ( Any Age - Red Printed )",
-    "store_name": "Kidbea",
-    "platform": "Myntra",
-    "campaign_type": "review",
+  "2010": {
+    "name": "( Delhi - NCR Region Only ) - Memory Foam Cervical Pillow",
+    "store_name": "Myarmor",
+    "platform": "Blinkit",
+    "campaign_type": "rating",
     "cashback": 559,
     "net_price": 240,
     "original_price": 799,
-    "claim_link": "https://fkm.asia/4zx3",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/infants-printed-sleepsuit-any-age-red-printed-mwezewmb",
-    "image": "https://images.freekaamaal.com/product-images/product_1794574623_1872.jpg",
-    "product_budget": 2,
+    "claim_link": "https://fkm.asia/4zuh",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/memory-foam-cervical-pillow-mwevfr23",
+    "image": "https://images.freekaamaal.com/product-images/product_1794567941_6650.jpg",
+    "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": true
+    "total_count": 7,
+    "effectively_sold_out": false
+  },
+  "1921": {
+    "name": "Chelated Magnesium Glycinate Supplement 2000mg - 120 Veg Tablets",
+    "store_name": "Carbamideforte",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 559,
+    "net_price": 140,
+    "original_price": 699,
+    "claim_link": "https://fkm.asia/4zex",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/chelated-magnesium-glycinate-supplement-2000mg-120-veg-tablets-mw1zuow8",
+    "image": "https://images.freekaamaal.com/product-images/product_1793789295_7294.jpg",
+    "product_budget": 15,
+    "is_sold_out": false,
+    "total_count": 14,
+    "effectively_sold_out": false
   },
   "1973": {
     "name": "Mineral Sunscreen SPF 50 for Men & Women - 50g",
@@ -1087,22 +1087,6 @@
     "total_count": 6,
     "effectively_sold_out": true
   },
-  "1966": {
-    "name": "Anti Dandruff Volumizing Shampoo for Men & Women - 250 Ml",
-    "store_name": "Bynakedfact",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 530,
-    "net_price": 59,
-    "original_price": 589,
-    "claim_link": "https://fkm.asia/4ye8",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/anti-dandruff-volumizing-shampoo-for-men-women-250-ml-mwdf51kk",
-    "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
-    "product_budget": 100,
-    "is_sold_out": false,
-    "total_count": 22,
-    "effectively_sold_out": false
-  },
   "1965": {
     "name": "Black Soil Anti Dandruff Shampoo for Men & Women - 250 Ml",
     "store_name": "Bynakedfact",
@@ -1114,6 +1098,22 @@
     "claim_link": "https://fkm.asia/4ye7",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/black-soil-anti-dandruff-shampoo-for-men-women-250-ml-mwdf1sd1",
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
+    "product_budget": 100,
+    "is_sold_out": false,
+    "total_count": 22,
+    "effectively_sold_out": false
+  },
+  "1966": {
+    "name": "Anti Dandruff Volumizing Shampoo for Men & Women - 250 Ml",
+    "store_name": "Bynakedfact",
+    "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 530,
+    "net_price": 59,
+    "original_price": 589,
+    "claim_link": "https://fkm.asia/4ye8",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/anti-dandruff-volumizing-shampoo-for-men-women-250-ml-mwdf51kk",
+    "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
     "product_budget": 100,
     "is_sold_out": false,
     "total_count": 22,
@@ -1151,22 +1151,6 @@
     "total_count": 5,
     "effectively_sold_out": true
   },
-  "1366": {
-    "name": "Vitamin D3 (600 IU) Tablets with K2 MK7 ( 120 Tablets )",
-    "store_name": "Neuherbs",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 494,
-    "net_price": 55,
-    "original_price": 549,
-    "claim_link": "https://fkm.asia/4xcl",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/vitamin-d3-600-iu-tablets-with-k2-mk7-120-tablets-mtr1hu1d",
-    "image": "https://images.freekaamaal.com/product-images/product_1788773354_9330.jpg",
-    "product_budget": 40,
-    "is_sold_out": false,
-    "total_count": 30,
-    "effectively_sold_out": false
-  },
   "1968": {
     "name": "Cupid Marshmallow Revitalizing Body Wash for Couples - 300 Ml",
     "store_name": "Bynakedfact",
@@ -1183,20 +1167,20 @@
     "total_count": 16,
     "effectively_sold_out": false
   },
-  "1967": {
-    "name": "Ultra Hydrating Rose Body Wash - 300 Ml",
-    "store_name": "Bynakedfact",
+  "1366": {
+    "name": "Vitamin D3 (600 IU) Tablets with K2 MK7 ( 120 Tablets )",
+    "store_name": "Neuherbs",
     "platform": "Amazon",
-    "campaign_type": "order",
+    "campaign_type": "review",
     "cashback": 494,
     "net_price": 55,
     "original_price": 549,
-    "claim_link": "https://fkm.asia/4ye9",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/ultra-hydrating-rose-body-wash-300-ml-mwdf85i9",
-    "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
-    "product_budget": 70,
+    "claim_link": "https://fkm.asia/4xcl",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/vitamin-d3-600-iu-tablets-with-k2-mk7-120-tablets-mtr1hu1d",
+    "image": "https://images.freekaamaal.com/product-images/product_1788773354_9330.jpg",
+    "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "1242": {
@@ -1213,6 +1197,22 @@
     "product_budget": 10,
     "is_sold_out": false,
     "total_count": 7,
+    "effectively_sold_out": false
+  },
+  "1967": {
+    "name": "Ultra Hydrating Rose Body Wash - 300 Ml",
+    "store_name": "Bynakedfact",
+    "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 494,
+    "net_price": 55,
+    "original_price": 549,
+    "claim_link": "https://fkm.asia/4ye9",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/ultra-hydrating-rose-body-wash-300-ml-mwdf85i9",
+    "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
+    "product_budget": 70,
+    "is_sold_out": false,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "1909": {
@@ -1292,7 +1292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794826605_8283.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 70,
+    "total_count": 72,
     "effectively_sold_out": false
   },
   "1948": {
@@ -1327,6 +1327,22 @@
     "total_count": 116,
     "effectively_sold_out": false
   },
+  "1912": {
+    "name": "Regal Essence Fixsy Body Glue - 20ml",
+    "store_name": "Regalessence",
+    "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 449,
+    "net_price": 0,
+    "original_price": 449,
+    "claim_link": "https://fkm.asia/4zec",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/regal-essence-fixsy-body-glue-20ml-mw0qc0bk",
+    "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
+    "product_budget": 100,
+    "is_sold_out": false,
+    "total_count": 75,
+    "effectively_sold_out": false
+  },
   "1958": {
     "name": "Female Only - Reusable Period Panty for Women & Girls ( Any Size )",
     "store_name": "Peesafe",
@@ -1358,22 +1374,6 @@
     "is_sold_out": false,
     "total_count": 6,
     "effectively_sold_out": true
-  },
-  "1912": {
-    "name": "Regal Essence Fixsy Body Glue - 20ml",
-    "store_name": "Regalessence",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 449,
-    "net_price": 0,
-    "original_price": 449,
-    "claim_link": "https://fkm.asia/4zec",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/regal-essence-fixsy-body-glue-20ml-mw0qc0bk",
-    "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
-    "product_budget": 100,
-    "is_sold_out": false,
-    "total_count": 75,
-    "effectively_sold_out": false
   },
   "1236": {
     "name": "Mini Deep Sea Omega 3 Fish Oil Capsules 1000mg ( 60 Softgels )",
@@ -1503,22 +1503,6 @@
     "total_count": 6,
     "effectively_sold_out": true
   },
-  "1985": {
-    "name": "Licorice/Mulethi Powder Organic - 100g",
-    "store_name": "Carbamideforte",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 399,
-    "net_price": 0,
-    "original_price": 199,
-    "claim_link": "https://fkm.asia/4zsk",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/licorice-mulethi-powder-organic-100g-mwenmth6",
-    "image": "https://images.freekaamaal.com/product-images/product_1794912956_8408.jpg",
-    "product_budget": 5,
-    "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": true
-  },
   "1930": {
     "name": "Multivitamin Tablets For Adults 50+ ( 60 Veg Tablets )",
     "store_name": "Carbamideforte",
@@ -1533,6 +1517,22 @@
     "product_budget": 10,
     "is_sold_out": false,
     "total_count": 11,
+    "effectively_sold_out": true
+  },
+  "1985": {
+    "name": "Licorice/Mulethi Powder Organic - 100g",
+    "store_name": "Carbamideforte",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 399,
+    "net_price": 0,
+    "original_price": 199,
+    "claim_link": "https://fkm.asia/4zsk",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/licorice-mulethi-powder-organic-100g-mwenmth6",
+    "image": "https://images.freekaamaal.com/product-images/product_1794912956_8408.jpg",
+    "product_budget": 5,
+    "is_sold_out": false,
+    "total_count": 5,
     "effectively_sold_out": true
   },
   "1992": {
@@ -1583,22 +1583,6 @@
     "total_count": 35,
     "effectively_sold_out": true
   },
-  "1201": {
-    "name": "Mamypoko Pants Premium Diapers ( 56 Counts, Size - S )",
-    "store_name": "Mamypoko",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 382,
-    "net_price": 43,
-    "original_price": 425,
-    "claim_link": "https://fkm.asia/4yw7",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/mamypoko-pants-premium-diapers-56-counts-size-s-mt6vihwd",
-    "image": "https://images.freekaamaal.com/product-images/product_1782817035_2451.jpg",
-    "product_budget": 95,
-    "is_sold_out": false,
-    "total_count": 45,
-    "effectively_sold_out": false
-  },
   "1202": {
     "name": "Mamypoko Pants Premium Diapers ( 62 Counts, Size - XS )",
     "store_name": "Mamypoko",
@@ -1613,6 +1597,22 @@
     "product_budget": 100,
     "is_sold_out": false,
     "total_count": 47,
+    "effectively_sold_out": false
+  },
+  "1201": {
+    "name": "Mamypoko Pants Premium Diapers ( 56 Counts, Size - S )",
+    "store_name": "Mamypoko",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 382,
+    "net_price": 43,
+    "original_price": 425,
+    "claim_link": "https://fkm.asia/4yw7",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/mamypoko-pants-premium-diapers-56-counts-size-s-mt6vihwd",
+    "image": "https://images.freekaamaal.com/product-images/product_1782817035_2451.jpg",
+    "product_budget": 95,
+    "is_sold_out": false,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "1986": {
@@ -1679,20 +1679,20 @@
     "total_count": 16,
     "effectively_sold_out": true
   },
-  "1860": {
-    "name": "Korean Hairline Cover-Up Powder Black - 10gm",
-    "store_name": "Wildglow",
+  "1235": {
+    "name": "Magnesium Bisglycinate Tablets 1600mg ( 60 Tablets )",
+    "store_name": "Neuherbs",
     "platform": "Amazon",
-    "campaign_type": "order",
+    "campaign_type": "review",
     "cashback": 359,
     "net_price": 40,
     "original_price": 399,
-    "claim_link": "https://fkm.asia/4yux",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/korean-hairline-cover-up-powder-black-10gm-mvz8pp02",
-    "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
-    "product_budget": 136,
+    "claim_link": "https://fkm.asia/4x93",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/magnesium-bisglycinate-tablets-1600mg-60-tablets-mti7kex5",
+    "image": "https://images.freekaamaal.com/product-images/product_1788239346_5311.jpg",
+    "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "1884": {
@@ -1711,20 +1711,20 @@
     "total_count": 48,
     "effectively_sold_out": false
   },
-  "1235": {
-    "name": "Magnesium Bisglycinate Tablets 1600mg ( 60 Tablets )",
-    "store_name": "Neuherbs",
+  "1860": {
+    "name": "Korean Hairline Cover-Up Powder Black - 10gm",
+    "store_name": "Wildglow",
     "platform": "Amazon",
-    "campaign_type": "review",
+    "campaign_type": "order",
     "cashback": 359,
     "net_price": 40,
     "original_price": 399,
-    "claim_link": "https://fkm.asia/4x93",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/magnesium-bisglycinate-tablets-1600mg-60-tablets-mti7kex5",
-    "image": "https://images.freekaamaal.com/product-images/product_1788239346_5311.jpg",
-    "product_budget": 15,
+    "claim_link": "https://fkm.asia/4yux",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/korean-hairline-cover-up-powder-black-10gm-mvz8pp02",
+    "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
+    "product_budget": 136,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "1813": {
@@ -1804,7 +1804,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793606665_4308.jpg",
     "product_budget": 31,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1885": {
@@ -1823,22 +1823,6 @@
     "total_count": 54,
     "effectively_sold_out": false
   },
-  "1907": {
-    "name": "Pura Reed Diffuser Set | Pack of 2",
-    "store_name": "Involve",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 339,
-    "net_price": 60,
-    "original_price": 399,
-    "claim_link": "https://fkm.asia/4ze7",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/pura-reed-diffuser-set-pack-of-2-mw0p3c5e",
-    "image": "https://images.freekaamaal.com/product-images/product_1793710762_6532.jpg",
-    "product_budget": 50,
-    "is_sold_out": false,
-    "total_count": 25,
-    "effectively_sold_out": false
-  },
   "1900": {
     "name": "2% Salicylic Acid Body Acne Wash for Men (300 ml)",
     "store_name": "Mannlich",
@@ -1855,20 +1839,36 @@
     "total_count": 35,
     "effectively_sold_out": false
   },
-  "1892": {
+  "1907": {
+    "name": "Pura Reed Diffuser Set | Pack of 2",
+    "store_name": "Involve",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 339,
+    "net_price": 60,
+    "original_price": 399,
+    "claim_link": "https://fkm.asia/4ze7",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/pura-reed-diffuser-set-pack-of-2-mw0p3c5e",
+    "image": "https://images.freekaamaal.com/product-images/product_1793710762_6532.jpg",
+    "product_budget": 50,
+    "is_sold_out": false,
+    "total_count": 25,
+    "effectively_sold_out": false
+  },
+  "1887": {
     "name": "Intimate Foaming Wash For Men Ph Balanced - 150 Ml",
     "store_name": "Mannlich",
-    "platform": "Blinkit",
-    "campaign_type": "rating",
+    "platform": "Instamart",
+    "campaign_type": "review",
     "cashback": 339,
     "net_price": 0,
     "original_price": 339,
-    "claim_link": "https://fkm.asia/4zdv",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/intimate-foaming-wash-for-men-ph-balanced-150-ml-mw0nrq80",
+    "claim_link": "https://fkm.asia/4zdq",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/intimate-foaming-wash-for-men-ph-balanced-150-ml-mw0msdla",
     "image": "https://images.freekaamaal.com/product-images/product_1789043363_7369.jpg",
-    "product_budget": 100,
+    "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 38,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "1901": {
@@ -1887,20 +1887,20 @@
     "total_count": 46,
     "effectively_sold_out": false
   },
-  "1887": {
+  "1892": {
     "name": "Intimate Foaming Wash For Men Ph Balanced - 150 Ml",
     "store_name": "Mannlich",
-    "platform": "Instamart",
-    "campaign_type": "review",
+    "platform": "Blinkit",
+    "campaign_type": "rating",
     "cashback": 339,
     "net_price": 0,
     "original_price": 339,
-    "claim_link": "https://fkm.asia/4zdq",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/intimate-foaming-wash-for-men-ph-balanced-150-ml-mw0msdla",
+    "claim_link": "https://fkm.asia/4zdv",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/intimate-foaming-wash-for-men-ph-balanced-150-ml-mw0nrq80",
     "image": "https://images.freekaamaal.com/product-images/product_1789043363_7369.jpg",
-    "product_budget": 200,
+    "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 17,
+    "total_count": 38,
     "effectively_sold_out": false
   },
   "1626": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792157002_3408.jpg",
     "product_budget": 600,
     "is_sold_out": false,
-    "total_count": 331,
+    "total_count": 332,
     "effectively_sold_out": false
   },
   "1911": {
@@ -1983,6 +1983,22 @@
     "total_count": 1,
     "effectively_sold_out": false
   },
+  "2036": {
+    "name": "Stainless Steel Lunch Box (Navy Blue)",
+    "store_name": "Veigo",
+    "platform": "Blinkit",
+    "campaign_type": "rating",
+    "cashback": 319,
+    "net_price": 80,
+    "original_price": 399,
+    "claim_link": "https://fkm.asia/4zb0",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/stainless-steel-lunch-box-navy-blue-mwklwghk",
+    "image": "https://images.freekaamaal.com/product-images/product_1793605804_6346.jpg",
+    "product_budget": 75,
+    "is_sold_out": false,
+    "total_count": 9,
+    "effectively_sold_out": false
+  },
   "2042": {
     "name": "Stainless Steel Jumbo Lunch Box",
     "store_name": "Veigo",
@@ -2015,22 +2031,6 @@
     "total_count": 4,
     "effectively_sold_out": false
   },
-  "2036": {
-    "name": "Stainless Steel Lunch Box (Navy Blue)",
-    "store_name": "Veigo",
-    "platform": "Blinkit",
-    "campaign_type": "rating",
-    "cashback": 319,
-    "net_price": 80,
-    "original_price": 399,
-    "claim_link": "https://fkm.asia/4zb0",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/stainless-steel-lunch-box-navy-blue-mwklwghk",
-    "image": "https://images.freekaamaal.com/product-images/product_1793605804_6346.jpg",
-    "product_budget": 75,
-    "is_sold_out": false,
-    "total_count": 7,
-    "effectively_sold_out": false
-  },
   "2041": {
     "name": "Jute Insulated Lunch Bag",
     "store_name": "Veigo",
@@ -2047,20 +2047,20 @@
     "total_count": null,
     "effectively_sold_out": false
   },
-  "1243": {
-    "name": "Plant-Based Vitamin B12 Tablets 60 Count",
-    "store_name": "Neuherbs",
+  "1971": {
+    "name": "Detoxifying Face Wash - 100 Ml",
+    "store_name": "Bynakedfact",
     "platform": "Amazon",
-    "campaign_type": "review",
+    "campaign_type": "order",
     "cashback": 314,
     "net_price": 35,
     "original_price": 349,
-    "claim_link": "https://fkm.asia/4wzt",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/plant-based-vitamin-b12-tablets-60-count-mti8f3tf",
-    "image": "https://images.freekaamaal.com/product-images/product_1788240807_5405.jpg",
-    "product_budget": 45,
+    "claim_link": "https://fkm.asia/4yef",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/detoxifying-face-wash-100-ml-mwdfveey",
+    "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
+    "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 39,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "1863": {
@@ -2079,20 +2079,20 @@
     "total_count": 77,
     "effectively_sold_out": false
   },
-  "1971": {
-    "name": "Detoxifying Face Wash - 100 Ml",
-    "store_name": "Bynakedfact",
+  "1243": {
+    "name": "Plant-Based Vitamin B12 Tablets 60 Count",
+    "store_name": "Neuherbs",
     "platform": "Amazon",
-    "campaign_type": "order",
+    "campaign_type": "review",
     "cashback": 314,
     "net_price": 35,
     "original_price": 349,
-    "claim_link": "https://fkm.asia/4yef",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/detoxifying-face-wash-100-ml-mwdfveey",
-    "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
-    "product_budget": 70,
+    "claim_link": "https://fkm.asia/4wzt",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/plant-based-vitamin-b12-tablets-60-count-mti8f3tf",
+    "image": "https://images.freekaamaal.com/product-images/product_1788240807_5405.jpg",
+    "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 39,
     "effectively_sold_out": false
   },
   "1058": {
@@ -2175,20 +2175,20 @@
     "total_count": 37,
     "effectively_sold_out": false
   },
-  "1897": {
-    "name": "2% Salicylic Acid Body Acne Wash for Men (300 ml)",
-    "store_name": "Mannlich",
-    "platform": "Amazon",
-    "campaign_type": "order",
-    "cashback": 305,
-    "net_price": 34,
-    "original_price": 339,
-    "claim_link": "https://fkm.asia/4ze0",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-body-acne-wash-for-men-300-ml-mw0o69of",
-    "image": "https://images.freekaamaal.com/product-images/product_1789714435_4433.jpg",
-    "product_budget": 300,
+  "2029": {
+    "name": "Premium Roasted & Salted Pistachios - 200g",
+    "store_name": "Kharifoods",
+    "platform": "Blinkit",
+    "campaign_type": "review",
+    "cashback": 307,
+    "net_price": 77,
+    "original_price": 384,
+    "claim_link": "https://fkm.asia/501z",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/premium-roasted-salted-pistachios-200g-mwfz6mjs",
+    "image": "https://images.freekaamaal.com/product-images/product_1787645641_7797.jpg",
+    "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 35,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "1898": {
@@ -2207,52 +2207,36 @@
     "total_count": 55,
     "effectively_sold_out": false
   },
-  "1057": {
-    "name": "Durable Absorb Adult Diaper Pants | Size L | 35–49 Inches ( 10 Count )",
-    "store_name": "Lifree",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 299,
-    "net_price": 0,
-    "original_price": 299,
-    "claim_link": "https://fkm.asia/4w4m",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/durable-absorb-adult-diaper-pants-size-l-35-49-inches-10-count-msn6xq78",
-    "image": "https://images.freekaamaal.com/product-images/product_1787494976_7832.jpg",
-    "product_budget": 28,
-    "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
-  },
-  "1769": {
-    "name": "Korean Hairline Cover-Up Powder Black - 10gm",
-    "store_name": "Wildglow",
-    "platform": "Amazon",
-    "campaign_type": "rating",
-    "cashback": 299,
-    "net_price": 0,
-    "original_price": 299,
-    "claim_link": "https://fkm.asia/4yux",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/korean-hairline-cover-up-powder-black-10gm-mvi4rzgv",
-    "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
-    "product_budget": 103,
-    "is_sold_out": false,
-    "total_count": 103,
-    "effectively_sold_out": true
-  },
-  "1904": {
-    "name": "Underarm Roll-On for Men - 50 Ml",
+  "1897": {
+    "name": "2% Salicylic Acid Body Acne Wash for Men (300 ml)",
     "store_name": "Mannlich",
     "platform": "Amazon",
+    "campaign_type": "order",
+    "cashback": 305,
+    "net_price": 34,
+    "original_price": 339,
+    "claim_link": "https://fkm.asia/4ze0",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/2-salicylic-acid-body-acne-wash-for-men-300-ml-mw0o69of",
+    "image": "https://images.freekaamaal.com/product-images/product_1789714435_4433.jpg",
+    "product_budget": 300,
+    "is_sold_out": false,
+    "total_count": 35,
+    "effectively_sold_out": false
+  },
+  "1469": {
+    "name": "Teeth Whitening Strips - Pack of 3",
+    "store_name": "Perfora",
+    "platform": "Amazon",
     "campaign_type": "review",
     "cashback": 299,
     "net_price": 0,
     "original_price": 299,
-    "claim_link": "https://fkm.asia/4ze4",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/underarm-roll-on-for-men-50-ml-mw0oo5r2",
-    "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
-    "product_budget": 300,
+    "claim_link": "https://fkm.asia/4xxb",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/teeth-whitening-strips-pack-of-3-mu6jvyg0",
+    "image": "https://images.freekaamaal.com/product-images/product_1789711240_2901.jpg",
+    "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 36,
     "effectively_sold_out": false
   },
   "1889": {
@@ -2271,36 +2255,20 @@
     "total_count": 36,
     "effectively_sold_out": false
   },
-  "1956": {
-    "name": "5-in-1 Full Face Pimple Patch",
-    "store_name": "Peesafe",
+  "1904": {
+    "name": "Underarm Roll-On for Men - 50 Ml",
+    "store_name": "Mannlich",
     "platform": "Amazon",
     "campaign_type": "review",
     "cashback": 299,
     "net_price": 0,
     "original_price": 299,
-    "claim_link": "https://fkm.asia/4zow",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/5-in-1-full-face-pimple-patch-mwbyngha",
-    "image": "https://images.freekaamaal.com/product-images/product_1794391905_4800.jpg",
-    "product_budget": 5,
+    "claim_link": "https://fkm.asia/4ze4",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/underarm-roll-on-for-men-50-ml-mw0oo5r2",
+    "image": "https://images.freekaamaal.com/product-images/product_1789043482_2110.jpg",
+    "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": true
-  },
-  "1469": {
-    "name": "Teeth Whitening Strips - Pack of 3",
-    "store_name": "Perfora",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 299,
-    "net_price": 0,
-    "original_price": 299,
-    "claim_link": "https://fkm.asia/4xxb",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/teeth-whitening-strips-pack-of-3-mu6jvyg0",
-    "image": "https://images.freekaamaal.com/product-images/product_1789711240_2901.jpg",
-    "product_budget": 50,
-    "is_sold_out": false,
-    "total_count": 36,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "1896": {
@@ -2319,22 +2287,6 @@
     "total_count": 46,
     "effectively_sold_out": false
   },
-  "1059": {
-    "name": "Durable Absorb Adult Diaper Pants | Size XL | 39–55 Inches ( 10 Count )",
-    "store_name": "Lifree",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 299,
-    "net_price": 0,
-    "original_price": 299,
-    "claim_link": "https://fkm.asia/4w4n",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/durable-absorb-adult-diaper-pants-size-xl-39-55-inches-10-count-msn738f7",
-    "image": "https://images.freekaamaal.com/product-images/product_1787495175_7671.jpg",
-    "product_budget": 28,
-    "is_sold_out": false,
-    "total_count": 13,
-    "effectively_sold_out": false
-  },
   "1933": {
     "name": "Mannlich Kojic Acid Detan Soap for Tan Removal - 75g ( Pack Of 2 )",
     "store_name": "Mannlich",
@@ -2349,6 +2301,54 @@
     "product_budget": 300,
     "is_sold_out": false,
     "total_count": 78,
+    "effectively_sold_out": false
+  },
+  "1956": {
+    "name": "5-in-1 Full Face Pimple Patch",
+    "store_name": "Peesafe",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 299,
+    "net_price": 0,
+    "original_price": 299,
+    "claim_link": "https://fkm.asia/4zow",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/5-in-1-full-face-pimple-patch-mwbyngha",
+    "image": "https://images.freekaamaal.com/product-images/product_1794391905_4800.jpg",
+    "product_budget": 5,
+    "is_sold_out": false,
+    "total_count": 5,
+    "effectively_sold_out": true
+  },
+  "1769": {
+    "name": "Korean Hairline Cover-Up Powder Black - 10gm",
+    "store_name": "Wildglow",
+    "platform": "Amazon",
+    "campaign_type": "rating",
+    "cashback": 299,
+    "net_price": 0,
+    "original_price": 299,
+    "claim_link": "https://fkm.asia/4yux",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/korean-hairline-cover-up-powder-black-10gm-mvi4rzgv",
+    "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
+    "product_budget": 103,
+    "is_sold_out": false,
+    "total_count": 103,
+    "effectively_sold_out": true
+  },
+  "1057": {
+    "name": "Durable Absorb Adult Diaper Pants | Size L | 35–49 Inches ( 10 Count )",
+    "store_name": "Lifree",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 299,
+    "net_price": 0,
+    "original_price": 299,
+    "claim_link": "https://fkm.asia/4w4m",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/durable-absorb-adult-diaper-pants-size-l-35-49-inches-10-count-msn6xq78",
+    "image": "https://images.freekaamaal.com/product-images/product_1787494976_7832.jpg",
+    "product_budget": 28,
+    "is_sold_out": false,
+    "total_count": 19,
     "effectively_sold_out": false
   },
   "1054": {
@@ -2367,18 +2367,34 @@
     "total_count": 142,
     "effectively_sold_out": false
   },
-  "1934": {
-    "name": "Intimate Hair Removal Cream - 100ml",
+  "1059": {
+    "name": "Durable Absorb Adult Diaper Pants | Size XL | 39–55 Inches ( 10 Count )",
+    "store_name": "Lifree",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 299,
+    "net_price": 0,
+    "original_price": 299,
+    "claim_link": "https://fkm.asia/4w4n",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/durable-absorb-adult-diaper-pants-size-xl-39-55-inches-10-count-msn738f7",
+    "image": "https://images.freekaamaal.com/product-images/product_1787495175_7671.jpg",
+    "product_budget": 28,
+    "is_sold_out": false,
+    "total_count": 13,
+    "effectively_sold_out": false
+  },
+  "1888": {
+    "name": "Hair Removal Cream For Men - 100 Ml",
     "store_name": "Mannlich",
-    "platform": "Zepto",
-    "campaign_type": "rating",
+    "platform": "Instamart",
+    "campaign_type": "review",
     "cashback": 295,
     "net_price": 0,
     "original_price": 295,
-    "claim_link": "https://fkm.asia/4vr0",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/intimate-hair-removal-cream-100ml-mw239l66",
-    "image": "https://images.freekaamaal.com/product-images/product_1793795031_7359.jpg",
-    "product_budget": 300,
+    "claim_link": "https://fkm.asia/4zdr",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/hair-removal-cream-for-men-100-ml-mw0muvul",
+    "image": "https://images.freekaamaal.com/product-images/product_1786355501_2738.jpg",
+    "product_budget": 200,
     "is_sold_out": false,
     "total_count": 13,
     "effectively_sold_out": false
@@ -2399,18 +2415,18 @@
     "total_count": 5,
     "effectively_sold_out": false
   },
-  "1888": {
-    "name": "Hair Removal Cream For Men - 100 Ml",
+  "1934": {
+    "name": "Intimate Hair Removal Cream - 100ml",
     "store_name": "Mannlich",
-    "platform": "Instamart",
-    "campaign_type": "review",
+    "platform": "Zepto",
+    "campaign_type": "rating",
     "cashback": 295,
     "net_price": 0,
     "original_price": 295,
-    "claim_link": "https://fkm.asia/4zdr",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/hair-removal-cream-for-men-100-ml-mw0muvul",
-    "image": "https://images.freekaamaal.com/product-images/product_1786355501_2738.jpg",
-    "product_budget": 200,
+    "claim_link": "https://fkm.asia/4vr0",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/intimate-hair-removal-cream-100ml-mw239l66",
+    "image": "https://images.freekaamaal.com/product-images/product_1793795031_7359.jpg",
+    "product_budget": 300,
     "is_sold_out": false,
     "total_count": 13,
     "effectively_sold_out": false
@@ -2463,22 +2479,6 @@
     "total_count": 83,
     "effectively_sold_out": false
   },
-  "1849": {
-    "name": "Stainless Steel Leakproof MW Safe Container (Grey)",
-    "store_name": "Veigo",
-    "platform": "Blinkit",
-    "campaign_type": "rating",
-    "cashback": 283,
-    "net_price": 122,
-    "original_price": 405,
-    "claim_link": "https://fkm.asia/4zb7",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/stainless-steel-leakproof-mw-safe-container-grey-mvz1fjx1",
-    "image": "https://images.freekaamaal.com/product-images/product_1793610574_4644.jpg",
-    "product_budget": 20,
-    "is_sold_out": false,
-    "total_count": 7,
-    "effectively_sold_out": false
-  },
   "1733": {
     "name": "Teeth Whitening Strips ( Pack of 3 )",
     "store_name": "Perfora",
@@ -2493,6 +2493,22 @@
     "product_budget": 300,
     "is_sold_out": false,
     "total_count": 31,
+    "effectively_sold_out": false
+  },
+  "1849": {
+    "name": "Stainless Steel Leakproof MW Safe Container (Grey)",
+    "store_name": "Veigo",
+    "platform": "Blinkit",
+    "campaign_type": "rating",
+    "cashback": 283,
+    "net_price": 122,
+    "original_price": 405,
+    "claim_link": "https://fkm.asia/4zb7",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/stainless-steel-leakproof-mw-safe-container-grey-mvz1fjx1",
+    "image": "https://images.freekaamaal.com/product-images/product_1793610574_4644.jpg",
+    "product_budget": 20,
+    "is_sold_out": false,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1699": {
@@ -2543,6 +2559,38 @@
     "total_count": 23,
     "effectively_sold_out": false
   },
+  "1932": {
+    "name": "Flaxseed Oil Capsules – 1000mg Cold Pressed ( 60 Capsules )",
+    "store_name": "Carbamideforte",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 279,
+    "net_price": 70,
+    "original_price": 349,
+    "claim_link": "https://fkm.asia/4zfb",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/flaxseed-oil-capsules-1000mg-cold-pressed-60-capsules-mw20xyu2",
+    "image": "https://images.freekaamaal.com/product-images/product_1793791134_3875.jpg",
+    "product_budget": 20,
+    "is_sold_out": false,
+    "total_count": 9,
+    "effectively_sold_out": false
+  },
+  "1905": {
+    "name": "Anti-Acne Soap 75g ( Pack Of 2 )",
+    "store_name": "Mannlich",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 279,
+    "net_price": 0,
+    "original_price": 279,
+    "claim_link": "https://fkm.asia/4ze5",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/anti-acne-soap-75g-pack-of-2-mw0oq2r0",
+    "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
+    "product_budget": 100,
+    "is_sold_out": false,
+    "total_count": 25,
+    "effectively_sold_out": false
+  },
   "2003": {
     "name": "Club Makeup Brush Kit Set - 10pcs",
     "store_name": "Feelgoodclub",
@@ -2573,38 +2621,6 @@
     "product_budget": 1000,
     "is_sold_out": false,
     "total_count": 14,
-    "effectively_sold_out": false
-  },
-  "1905": {
-    "name": "Anti-Acne Soap 75g ( Pack Of 2 )",
-    "store_name": "Mannlich",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 279,
-    "net_price": 0,
-    "original_price": 279,
-    "claim_link": "https://fkm.asia/4ze5",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/anti-acne-soap-75g-pack-of-2-mw0oq2r0",
-    "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
-    "product_budget": 100,
-    "is_sold_out": false,
-    "total_count": 25,
-    "effectively_sold_out": false
-  },
-  "1932": {
-    "name": "Flaxseed Oil Capsules – 1000mg Cold Pressed ( 60 Capsules )",
-    "store_name": "Carbamideforte",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 279,
-    "net_price": 70,
-    "original_price": 349,
-    "claim_link": "https://fkm.asia/4zfb",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/flaxseed-oil-capsules-1000mg-cold-pressed-60-capsules-mw20xyu2",
-    "image": "https://images.freekaamaal.com/product-images/product_1793791134_3875.jpg",
-    "product_budget": 20,
-    "is_sold_out": false,
-    "total_count": 9,
     "effectively_sold_out": false
   },
   "1924": {
@@ -2671,6 +2687,22 @@
     "total_count": 19,
     "effectively_sold_out": false
   },
+  "1961": {
+    "name": "Cream Cleanser ( 2% Bio Ceramide + 2% Glycerol ) -125 ml",
+    "store_name": "Dove",
+    "platform": "Nykaa",
+    "campaign_type": "review",
+    "cashback": 270,
+    "net_price": 30,
+    "original_price": 300,
+    "claim_link": "https://fkm.asia/4zpn",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/cream-cleanser-2-bio-ceramide-2-glycerol-125-ml-mwd4s04d",
+    "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
+    "product_budget": 150,
+    "is_sold_out": false,
+    "total_count": 131,
+    "effectively_sold_out": false
+  },
   "1960": {
     "name": "Creme Cleanser ( 2% Bio Ceramide + 1% Niacinamide ) -  125 ml",
     "store_name": "Dove",
@@ -2687,20 +2719,20 @@
     "total_count": 143,
     "effectively_sold_out": false
   },
-  "1961": {
-    "name": "Cream Cleanser ( 2% Bio Ceramide + 2% Glycerol ) -125 ml",
-    "store_name": "Dove",
-    "platform": "Nykaa",
+  "2026": {
+    "name": "Purple Teeth Whitening Mouthwash - 200 Ml",
+    "store_name": "Perfora",
+    "platform": "Amazon",
     "campaign_type": "review",
-    "cashback": 270,
-    "net_price": 30,
-    "original_price": 300,
-    "claim_link": "https://fkm.asia/4zpn",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/cream-cleanser-2-bio-ceramide-2-glycerol-125-ml-mwd4s04d",
-    "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
-    "product_budget": 150,
+    "cashback": 269,
+    "net_price": 0,
+    "original_price": 269,
+    "claim_link": "https://fkm.asia/4zy2",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/purple-teeth-whitening-mouthwash-200-ml-mwf15yt5",
+    "image": "https://images.freekaamaal.com/product-images/product_1794577567_7455.jpg",
+    "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 131,
+    "total_count": 56,
     "effectively_sold_out": false
   },
   "1819": {
@@ -2733,22 +2765,6 @@
     "product_budget": 100,
     "is_sold_out": false,
     "total_count": 42,
-    "effectively_sold_out": false
-  },
-  "2026": {
-    "name": "Purple Teeth Whitening Mouthwash - 200 Ml",
-    "store_name": "Perfora",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 269,
-    "net_price": 0,
-    "original_price": 269,
-    "claim_link": "https://fkm.asia/4zy2",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/purple-teeth-whitening-mouthwash-200-ml-mwf15yt5",
-    "image": "https://images.freekaamaal.com/product-images/product_1794577567_7455.jpg",
-    "product_budget": 300,
-    "is_sold_out": false,
-    "total_count": 56,
     "effectively_sold_out": false
   },
   "1736": {
@@ -2847,22 +2863,6 @@
     "total_count": 22,
     "effectively_sold_out": false
   },
-  "1830": {
-    "name": "Hair Removal Spray 200ml",
-    "store_name": "Peesafe",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 249,
-    "net_price": 0,
-    "original_price": 249,
-    "claim_link": "https://fkm.asia/4z9u",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/hair-removal-spray-200ml-mvw5q3ra",
-    "image": "https://images.freekaamaal.com/product-images/product_1784199869_9011.jpg",
-    "product_budget": 90,
-    "is_sold_out": false,
-    "total_count": 27,
-    "effectively_sold_out": false
-  },
   "2009": {
     "name": "Germ Defence Kitchen Cleaner Spray",
     "store_name": "Happiplanet",
@@ -2877,6 +2877,22 @@
     "product_budget": 100,
     "is_sold_out": false,
     "total_count": 32,
+    "effectively_sold_out": false
+  },
+  "1830": {
+    "name": "Hair Removal Spray 200ml",
+    "store_name": "Peesafe",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 249,
+    "net_price": 0,
+    "original_price": 249,
+    "claim_link": "https://fkm.asia/4z9u",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/hair-removal-spray-200ml-mvw5q3ra",
+    "image": "https://images.freekaamaal.com/product-images/product_1784199869_9011.jpg",
+    "product_budget": 90,
+    "is_sold_out": false,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "1893": {
@@ -2911,22 +2927,6 @@
     "total_count": 105,
     "effectively_sold_out": true
   },
-  "1283": {
-    "name": "Natural Fabric Conditioner & Fabric Softener | 1 Litre",
-    "store_name": "Ethiek",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 247,
-    "net_price": 62,
-    "original_price": 309,
-    "claim_link": "https://fkm.asia/4x43",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/natural-fabric-conditioner-fabric-softener-1-litre-mtk39l2y",
-    "image": "https://images.freekaamaal.com/product-images/product_1788353059_5466.jpg",
-    "product_budget": 30,
-    "is_sold_out": false,
-    "total_count": 30,
-    "effectively_sold_out": true
-  },
   "1562": {
     "name": "Specialist Stain Remover for Food stains - 75 Ml",
     "store_name": "Ethiek",
@@ -2942,6 +2942,22 @@
     "is_sold_out": false,
     "total_count": 16,
     "effectively_sold_out": false
+  },
+  "1283": {
+    "name": "Natural Fabric Conditioner & Fabric Softener | 1 Litre",
+    "store_name": "Ethiek",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 247,
+    "net_price": 62,
+    "original_price": 309,
+    "claim_link": "https://fkm.asia/4x43",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/natural-fabric-conditioner-fabric-softener-1-litre-mtk39l2y",
+    "image": "https://images.freekaamaal.com/product-images/product_1788353059_5466.jpg",
+    "product_budget": 30,
+    "is_sold_out": false,
+    "total_count": 30,
+    "effectively_sold_out": true
   },
   "1286": {
     "name": "Connect White Romance Booster Kit ( 80g )",
@@ -3039,22 +3055,6 @@
     "total_count": 7,
     "effectively_sold_out": false
   },
-  "1815": {
-    "name": "Pore Minimizer & Oil Control,Smooth Velvet Finish, 30 g Primer",
-    "store_name": "Ectoraa",
-    "platform": "Flipkart",
-    "campaign_type": "review",
-    "cashback": 223,
-    "net_price": 25,
-    "original_price": 248,
-    "claim_link": "https://fkm.asia/4z3s",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/pore-minimizer-oil-control-smooth-velvet-finish-30-g-primer-mvrs8a0z",
-    "image": "https://images.freekaamaal.com/product-images/product_1793171787_8182.jpg",
-    "product_budget": 80,
-    "is_sold_out": false,
-    "total_count": 80,
-    "effectively_sold_out": true
-  },
   "1862": {
     "name": "Korean Foot Hydration Mask With Cherry Blossom - 50 Ml",
     "store_name": "Wildglow",
@@ -3070,6 +3070,22 @@
     "is_sold_out": false,
     "total_count": 89,
     "effectively_sold_out": false
+  },
+  "1815": {
+    "name": "Pore Minimizer & Oil Control,Smooth Velvet Finish, 30 g Primer",
+    "store_name": "Ectoraa",
+    "platform": "Flipkart",
+    "campaign_type": "review",
+    "cashback": 223,
+    "net_price": 25,
+    "original_price": 248,
+    "claim_link": "https://fkm.asia/4z3s",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/pore-minimizer-oil-control-smooth-velvet-finish-30-g-primer-mvrs8a0z",
+    "image": "https://images.freekaamaal.com/product-images/product_1793171787_8182.jpg",
+    "product_budget": 80,
+    "is_sold_out": false,
+    "total_count": 80,
+    "effectively_sold_out": true
   },
   "451": {
     "name": "Purple Whitening Toothpaste (125g ) ",
@@ -3151,22 +3167,6 @@
     "total_count": 4,
     "effectively_sold_out": false
   },
-  "1871": {
-    "name": "Natural Dishwash Liquid - 2 Litre",
-    "store_name": "Homehygiene",
-    "platform": "Amazon",
-    "campaign_type": "rating",
-    "cashback": 206,
-    "net_price": 23,
-    "original_price": 229,
-    "claim_link": "https://fkm.asia/4zc1",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/natural-dishwash-liquid-2-litre-mw07qphh",
-    "image": "https://images.freekaamaal.com/product-images/product_1793681613_5639.jpg",
-    "product_budget": 250,
-    "is_sold_out": false,
-    "total_count": 202,
-    "effectively_sold_out": false
-  },
   "1700": {
     "name": "Dark Chocolate for Men and Women With FREE Scratch Card",
     "store_name": "Nooky",
@@ -3181,6 +3181,22 @@
     "product_budget": 100,
     "is_sold_out": false,
     "total_count": 13,
+    "effectively_sold_out": false
+  },
+  "1871": {
+    "name": "Natural Dishwash Liquid - 2 Litre",
+    "store_name": "Homehygiene",
+    "platform": "Amazon",
+    "campaign_type": "rating",
+    "cashback": 206,
+    "net_price": 23,
+    "original_price": 229,
+    "claim_link": "https://fkm.asia/4zc1",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/natural-dishwash-liquid-2-litre-mw07qphh",
+    "image": "https://images.freekaamaal.com/product-images/product_1793681613_5639.jpg",
+    "product_budget": 250,
+    "is_sold_out": false,
+    "total_count": 202,
     "effectively_sold_out": false
   },
   "1913": {
@@ -3263,6 +3279,22 @@
     "total_count": 20,
     "effectively_sold_out": false
   },
+  "2031": {
+    "name": "Premium Black Afghan Dates / Khajur - 400g",
+    "store_name": "Kharifoods",
+    "platform": "Blinkit",
+    "campaign_type": "review",
+    "cashback": 195,
+    "net_price": 49,
+    "original_price": 244,
+    "claim_link": "https://fkm.asia/5021",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/premium-black-afghan-dates-khajur-400g-mwfzalz6",
+    "image": "https://images.freekaamaal.com/product-images/product_1779252686_2006.jpg",
+    "product_budget": 200,
+    "is_sold_out": false,
+    "total_count": 45,
+    "effectively_sold_out": false
+  },
   "1906": {
     "name": "Lavender Automatic Room Freshener Refill | 225ml",
     "store_name": "Involve",
@@ -3276,7 +3308,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793710643_4641.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 47,
+    "total_count": 48,
     "effectively_sold_out": false
   },
   "1816": {
@@ -3295,22 +3327,6 @@
     "total_count": 43,
     "effectively_sold_out": false
   },
-  "1559": {
-    "name": "Makeup & Ink Stain Remover - 50 Ml",
-    "store_name": "Ethiek",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 183,
-    "net_price": 0,
-    "original_price": 183,
-    "claim_link": "https://fkm.asia/4x3t",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/makeup-ink-stain-remover-50-ml-mudx89u7",
-    "image": "https://images.freekaamaal.com/product-images/product_1788351078_4643.jpg",
-    "product_budget": 60,
-    "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
-  },
   "1671": {
     "name": "Specialist Stain Remover – Removes Tea, Coffee, Wine & Juice Stains - 100 Ml",
     "store_name": "Ethiek",
@@ -3325,6 +3341,22 @@
     "product_budget": 20,
     "is_sold_out": false,
     "total_count": 16,
+    "effectively_sold_out": false
+  },
+  "1559": {
+    "name": "Makeup & Ink Stain Remover - 50 Ml",
+    "store_name": "Ethiek",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 183,
+    "net_price": 0,
+    "original_price": 183,
+    "claim_link": "https://fkm.asia/4x3t",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/makeup-ink-stain-remover-50-ml-mudx89u7",
+    "image": "https://images.freekaamaal.com/product-images/product_1788351078_4643.jpg",
+    "product_budget": 60,
+    "is_sold_out": false,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1735": {
@@ -3373,6 +3405,22 @@
     "product_budget": 100,
     "is_sold_out": false,
     "total_count": 18,
+    "effectively_sold_out": false
+  },
+  "2030": {
+    "name": "Kimia Gold Dates /Khajur (Khajur) - 400g",
+    "store_name": "Kharifoods",
+    "platform": "Blinkit",
+    "campaign_type": "review",
+    "cashback": 179,
+    "net_price": 45,
+    "original_price": 224,
+    "claim_link": "https://fkm.asia/5020",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/kimia-gold-dates-khajur-khajur-400g-mwfz904s",
+    "image": "https://images.freekaamaal.com/product-images/product_1784723274_1207.jpg",
+    "product_budget": 150,
+    "is_sold_out": false,
+    "total_count": 62,
     "effectively_sold_out": false
   },
   "1805": {
@@ -3455,6 +3503,22 @@
     "total_count": 1,
     "effectively_sold_out": false
   },
+  "1803": {
+    "name": "Washing Machine Cleaner & Descaler Tablets | 8 Tablets",
+    "store_name": "Happiplanet",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 163,
+    "net_price": 0,
+    "original_price": 163,
+    "claim_link": "https://fkm.asia/4w39",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-cleaner-descaler-tablets-8-tablets-mvq8lk48",
+    "image": "https://images.freekaamaal.com/product-images/product_1786342819_3636.jpg",
+    "product_budget": 402,
+    "is_sold_out": false,
+    "total_count": 36,
+    "effectively_sold_out": false
+  },
   "1802": {
     "name": "Tap Cleaner & Limescale Remover - 500 Ml",
     "store_name": "Happiplanet",
@@ -3485,22 +3549,6 @@
     "product_budget": 250,
     "is_sold_out": false,
     "total_count": 61,
-    "effectively_sold_out": false
-  },
-  "1803": {
-    "name": "Washing Machine Cleaner & Descaler Tablets | 8 Tablets",
-    "store_name": "Happiplanet",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 163,
-    "net_price": 0,
-    "original_price": 163,
-    "claim_link": "https://fkm.asia/4w39",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-cleaner-descaler-tablets-8-tablets-mvq8lk48",
-    "image": "https://images.freekaamaal.com/product-images/product_1786342819_3636.jpg",
-    "product_budget": 402,
-    "is_sold_out": false,
-    "total_count": 36,
     "effectively_sold_out": false
   },
   "1817": {
@@ -3535,22 +3583,6 @@
     "total_count": 259,
     "effectively_sold_out": false
   },
-  "2006": {
-    "name": "7 Pcs Makeup Blender Beauty Sponge Set",
-    "store_name": "Feelgoodclub",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 159,
-    "net_price": 40,
-    "original_price": 199,
-    "claim_link": "https://fkm.asia/4ztl",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/7-pcs-makeup-blender-beauty-sponge-set-mwet67wh",
-    "image": "https://images.freekaamaal.com/product-images/product_1794564141_3076.jpg",
-    "product_budget": 8,
-    "is_sold_out": false,
-    "total_count": 8,
-    "effectively_sold_out": true
-  },
   "2008": {
     "name": "Satin Hair Bonnet for Sleeping",
     "store_name": "Feelgoodclub",
@@ -3567,21 +3599,21 @@
     "total_count": 5,
     "effectively_sold_out": true
   },
-  "1874": {
-    "name": "Washing Machine Descaler Tablets ( Pack Of 6 )",
-    "store_name": "Homehygiene",
+  "2006": {
+    "name": "7 Pcs Makeup Blender Beauty Sponge Set",
+    "store_name": "Feelgoodclub",
     "platform": "Amazon",
-    "campaign_type": "rating",
+    "campaign_type": "review",
     "cashback": 159,
-    "net_price": 0,
-    "original_price": 159,
-    "claim_link": "https://fkm.asia/4zc4",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-descaler-tablets-pack-of-6-mw087nuz",
-    "image": "https://images.freekaamaal.com/product-images/product_1793682356_8968.jpg",
-    "product_budget": 1000,
+    "net_price": 40,
+    "original_price": 199,
+    "claim_link": "https://fkm.asia/4ztl",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/7-pcs-makeup-blender-beauty-sponge-set-mwet67wh",
+    "image": "https://images.freekaamaal.com/product-images/product_1794564141_3076.jpg",
+    "product_budget": 8,
     "is_sold_out": false,
-    "total_count": 49,
-    "effectively_sold_out": false
+    "total_count": 8,
+    "effectively_sold_out": true
   },
   "2024": {
     "name": "Dream White Toothbrush For Kids & Adults ( Pack Of 2 )",
@@ -3597,6 +3629,22 @@
     "product_budget": 500,
     "is_sold_out": false,
     "total_count": 82,
+    "effectively_sold_out": false
+  },
+  "1874": {
+    "name": "Washing Machine Descaler Tablets ( Pack Of 6 )",
+    "store_name": "Homehygiene",
+    "platform": "Amazon",
+    "campaign_type": "rating",
+    "cashback": 159,
+    "net_price": 0,
+    "original_price": 159,
+    "claim_link": "https://fkm.asia/4zc4",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/washing-machine-descaler-tablets-pack-of-6-mw087nuz",
+    "image": "https://images.freekaamaal.com/product-images/product_1793682356_8968.jpg",
+    "product_budget": 1000,
+    "is_sold_out": false,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "1866": {
@@ -3679,22 +3727,6 @@
     "total_count": 72,
     "effectively_sold_out": false
   },
-  "1957": {
-    "name": "Female Only - Comfort Night Pads XXXXL - 8 Pads",
-    "store_name": "Peesafe",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 149,
-    "net_price": 0,
-    "original_price": 149,
-    "claim_link": "https://fkm.asia/4zox",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/female-only-comfort-night-pads-xxxxl-8-pads-mwc0ah7r",
-    "image": "https://images.freekaamaal.com/product-images/product_1794394699_7424.jpg",
-    "product_budget": 20,
-    "is_sold_out": false,
-    "total_count": 21,
-    "effectively_sold_out": true
-  },
   "1739": {
     "name": "Perfora Purple Whitening Toothpaste - 75g",
     "store_name": "Perfora",
@@ -3710,6 +3742,22 @@
     "is_sold_out": false,
     "total_count": 80,
     "effectively_sold_out": false
+  },
+  "1957": {
+    "name": "Female Only - Comfort Night Pads XXXXL - 8 Pads",
+    "store_name": "Peesafe",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 149,
+    "net_price": 0,
+    "original_price": 149,
+    "claim_link": "https://fkm.asia/4zox",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/female-only-comfort-night-pads-xxxxl-8-pads-mwc0ah7r",
+    "image": "https://images.freekaamaal.com/product-images/product_1794394699_7424.jpg",
+    "product_budget": 20,
+    "is_sold_out": false,
+    "total_count": 21,
+    "effectively_sold_out": true
   },
   "1868": {
     "name": "Tap Cleaner & Limescale Remover-Bleach Free Rose (450 ml)",
