@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 70,
+    "total_count": 71,
     "effectively_sold_out": false
   },
   "1682": {
@@ -108,7 +108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791641033_5864.jpg",
     "product_budget": 12,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "2058": {
@@ -812,7 +812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784354265_9650.jpg",
     "product_budget": 90,
     "is_sold_out": false,
-    "total_count": 77,
+    "total_count": 78,
     "effectively_sold_out": false
   },
   "1925": {
@@ -1084,8 +1084,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 119,
-    "effectively_sold_out": false
+    "total_count": 120,
+    "effectively_sold_out": true
   },
   "1921": {
     "name": "Chelated Magnesium Glycinate Supplement 2000mg - 120 Veg Tablets",
@@ -2556,7 +2556,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793794937_7274.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 82,
+    "total_count": 85,
     "effectively_sold_out": false
   },
   "1956": {
@@ -2972,7 +2972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 131,
+    "total_count": 132,
     "effectively_sold_out": false
   },
   "1960": {
@@ -2988,7 +2988,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793699976_5718.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 146,
+    "total_count": 147,
     "effectively_sold_out": false
   },
   "1969": {
@@ -3116,7 +3116,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 310,
+    "total_count": 311,
     "effectively_sold_out": false
   },
   "1910": {
