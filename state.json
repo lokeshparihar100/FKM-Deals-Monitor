@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 73,
+    "total_count": 75,
     "effectively_sold_out": false
   },
   "1682": {
@@ -1564,7 +1564,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794825865_6828.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 63,
+    "total_count": 64,
     "effectively_sold_out": false
   },
   "1936": {
@@ -1580,8 +1580,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791657344_7471.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 119,
-    "effectively_sold_out": false
+    "total_count": 120,
+    "effectively_sold_out": true
   },
   "1993": {
     "name": "Underarm Roll On with 6% AHA BHA - 50 Ml",
@@ -1612,7 +1612,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
     "product_budget": 80,
     "is_sold_out": false,
-    "total_count": 76,
+    "total_count": 77,
     "effectively_sold_out": false
   },
   "1958": {
@@ -2636,7 +2636,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793795031_7359.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 15,
     "effectively_sold_out": false
   },
   "2037": {
@@ -2812,7 +2812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "1932": {
