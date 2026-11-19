@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 93,
+    "total_count": 95,
     "effectively_sold_out": false
   },
   "1682": {
@@ -1004,8 +1004,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794574155_7242.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "1851": {
     "name": "Stainless Steel Lunch Set (Red)",
@@ -1116,8 +1116,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793789295_7294.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "2021": {
     "name": "Infants Printed Sleepsuit ( Any Age - Red Printed )",
@@ -2412,7 +2412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791211_5168.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 42,
+    "total_count": 43,
     "effectively_sold_out": false
   },
   "1696": {
