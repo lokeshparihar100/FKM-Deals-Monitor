@@ -812,7 +812,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784354265_9650.jpg",
     "product_budget": 90,
     "is_sold_out": false,
-    "total_count": 86,
+    "total_count": 87,
     "effectively_sold_out": false
   },
   "1926": {
@@ -3132,7 +3132,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 313,
+    "total_count": 314,
     "effectively_sold_out": false
   },
   "1910": {
@@ -3628,8 +3628,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793710643_4641.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 48,
-    "effectively_sold_out": false
+    "total_count": 50,
+    "effectively_sold_out": true
   },
   "1816": {
     "name": "Washing Machine Cleaner & Descaler Tablets Dishwashing Detergent (8 Tablet)",
@@ -3772,7 +3772,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784723274_1207.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 78,
+    "total_count": 79,
     "effectively_sold_out": false
   },
   "1891": {
@@ -3980,7 +3980,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794577316_8349.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 95,
+    "total_count": 97,
     "effectively_sold_out": false
   },
   "1874": {
