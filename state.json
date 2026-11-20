@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 144,
+    "total_count": 145,
     "effectively_sold_out": false
   },
   "1682": {
@@ -828,7 +828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794994615_1016.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "2023": {
@@ -908,7 +908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784354265_9650.jpg",
     "product_budget": 120,
     "is_sold_out": false,
-    "total_count": 105,
+    "total_count": 107,
     "effectively_sold_out": false
   },
   "2072": {
@@ -1676,7 +1676,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794825865_6828.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 86,
+    "total_count": 87,
     "effectively_sold_out": false
   },
   "2035": {
@@ -1692,7 +1692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794826605_8283.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 103,
+    "total_count": 104,
     "effectively_sold_out": false
   },
   "1936": {
@@ -1708,7 +1708,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791657344_7471.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 131,
+    "total_count": 135,
     "effectively_sold_out": false
   },
   "1912": {
@@ -1724,8 +1724,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
     "product_budget": 80,
     "is_sold_out": false,
-    "total_count": 79,
-    "effectively_sold_out": false
+    "total_count": 80,
+    "effectively_sold_out": true
   },
   "1958": {
     "name": "Female Only - Reusable Period Panty for Women & Girls ( Any Size )",
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
     "product_budget": 136,
     "is_sold_out": false,
-    "total_count": 61,
+    "total_count": 62,
     "effectively_sold_out": false
   },
   "1930": {
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588535_6184.jpg",
     "product_budget": 137,
     "is_sold_out": false,
-    "total_count": 95,
+    "total_count": 97,
     "effectively_sold_out": false
   },
   "1772": {
@@ -2764,7 +2764,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779793561_3822.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 41,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "1054": {
@@ -3131,7 +3131,7 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/creme-cleanser-2-bio-ceramide-1-niacinamide-125-ml-mwd4pfgu",
     "image": "https://images.freekaamaal.com/product-images/product_1793699976_5718.jpg",
     "product_budget": 150,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 150,
     "effectively_sold_out": true
   },
@@ -3147,9 +3147,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/cream-cleanser-2-bio-ceramide-2-glycerol-125-ml-mwd4s04d",
     "image": "https://images.freekaamaal.com/product-images/product_1793700096_1218.jpg",
     "product_budget": 150,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 140,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1969": {
     "name": "Aloe Vera Gel for Face Skin & Hair - 100g",
@@ -3276,7 +3276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 329,
+    "total_count": 334,
     "effectively_sold_out": false
   },
   "1910": {
@@ -3372,7 +3372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588447_1366.jpg",
     "product_budget": 131,
     "is_sold_out": false,
-    "total_count": 110,
+    "total_count": 111,
     "effectively_sold_out": false
   },
   "1562": {
@@ -3452,7 +3452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794993874_9567.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "1280": {
@@ -3948,7 +3948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792661383_1732.jpg",
     "product_budget": 60,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "1826": {
