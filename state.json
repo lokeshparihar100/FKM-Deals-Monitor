@@ -556,8 +556,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794569257_8175.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1979": {
     "name": "Eye Care Supplement - 60 Gummies",
@@ -588,7 +588,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795159184_8122.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "2076": {
@@ -1148,7 +1148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712772_3720.jpg",
     "product_budget": 180,
     "is_sold_out": false,
-    "total_count": 116,
+    "total_count": 117,
     "effectively_sold_out": false
   },
   "1938": {
@@ -1564,7 +1564,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 21,
+    "total_count": 22,
     "effectively_sold_out": false
   },
   "1967": {
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
     "product_budget": 136,
     "is_sold_out": false,
-    "total_count": 51,
+    "total_count": 57,
     "effectively_sold_out": false
   },
   "1930": {
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588535_6184.jpg",
     "product_budget": 137,
     "is_sold_out": false,
-    "total_count": 86,
+    "total_count": 91,
     "effectively_sold_out": false
   },
   "1772": {
@@ -2332,7 +2332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795159286_6270.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1626": {
@@ -2508,7 +2508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 36,
+    "total_count": 37,
     "effectively_sold_out": false
   },
   "1058": {
@@ -3276,7 +3276,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 328,
+    "total_count": 329,
     "effectively_sold_out": false
   },
   "1910": {
@@ -3372,7 +3372,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588447_1366.jpg",
     "product_budget": 131,
     "is_sold_out": false,
-    "total_count": 97,
+    "total_count": 102,
     "effectively_sold_out": false
   },
   "1562": {
@@ -3692,7 +3692,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794997269_9345.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1294": {
