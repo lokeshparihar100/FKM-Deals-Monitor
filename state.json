@@ -44,7 +44,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795192726_9088.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "2079": {
@@ -60,7 +60,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 165,
+    "total_count": 167,
     "effectively_sold_out": false
   },
   "2096": {
@@ -76,7 +76,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795192508_6174.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1682": {
@@ -108,7 +108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795179500_3436.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "2033": {
@@ -156,7 +156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795191782_6451.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "2014": {
@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795179383_8835.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "2095": {
@@ -236,7 +236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795192150_4116.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "2091": {
@@ -252,7 +252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795089546_6532.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "2089": {
@@ -268,7 +268,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795089300_8557.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "1850": {
@@ -300,7 +300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795089425_6514.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "2054": {
@@ -508,7 +508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788240470_5590.jpg",
     "product_budget": 19,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "2015": {
@@ -620,8 +620,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795159184_8122.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1982": {
     "name": "Melatonin 10 mg Sleeping Pills with Tagar 250 mg - 60 Veg Tablets",
@@ -700,7 +700,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786699206_5942.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "2083": {
@@ -748,7 +748,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788350180_6310.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 13,
+    "total_count": 14,
     "effectively_sold_out": false
   },
   "1920": {
@@ -780,7 +780,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793434097_2634.jpg",
     "product_budget": 11,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "2080": {
@@ -1404,8 +1404,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795159698_3561.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1972": {
     "name": "Non sticky Light Moisturizer - 100g",
@@ -1420,7 +1420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349216_1285.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 35,
     "effectively_sold_out": false
   },
   "1989": {
@@ -1452,7 +1452,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "1966": {
@@ -1468,7 +1468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725840_5494.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "2065": {
@@ -1548,8 +1548,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795159722_1923.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1954": {
     "name": "Glow Up Enzyme Face Scrub | Natural Extracts ( 50g )",
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 24,
+    "total_count": 25,
     "effectively_sold_out": false
   },
   "2066": {
@@ -1676,8 +1676,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795159665_8272.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "1928": {
     "name": "Natural Vitamin C Tablets - 120 Tablets",
@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794825865_6828.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 88,
+    "total_count": 90,
     "effectively_sold_out": false
   },
   "2035": {
@@ -1756,7 +1756,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791657344_7471.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 142,
+    "total_count": 145,
     "effectively_sold_out": false
   },
   "1958": {
@@ -1772,8 +1772,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794395005_9771.jpg",
     "product_budget": 42,
     "is_sold_out": false,
-    "total_count": 38,
-    "effectively_sold_out": false
+    "total_count": 42,
+    "effectively_sold_out": true
   },
   "1993": {
     "name": "Underarm Roll On with 6% AHA BHA - 50 Ml",
@@ -1932,7 +1932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
     "product_budget": 136,
     "is_sold_out": false,
-    "total_count": 81,
+    "total_count": 89,
     "effectively_sold_out": false
   },
   "1992": {
@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788239346_5311.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1884": {
@@ -2236,7 +2236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588535_6184.jpg",
     "product_budget": 137,
     "is_sold_out": false,
-    "total_count": 109,
+    "total_count": 122,
     "effectively_sold_out": false
   },
   "1772": {
@@ -2412,7 +2412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792157002_3408.jpg",
     "product_budget": 600,
     "is_sold_out": false,
-    "total_count": 348,
+    "total_count": 349,
     "effectively_sold_out": false
   },
   "1911": {
@@ -2540,8 +2540,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788240807_5405.jpg",
     "product_budget": 45,
     "is_sold_out": false,
-    "total_count": 44,
-    "effectively_sold_out": false
+    "total_count": 45,
+    "effectively_sold_out": true
   },
   "1971": {
     "name": "Detoxifying Face Wash - 100 Ml",
@@ -2668,7 +2668,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042431_3977.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 63,
+    "total_count": 65,
     "effectively_sold_out": false
   },
   "1897": {
@@ -2684,7 +2684,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789714435_4433.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 46,
     "effectively_sold_out": false
   },
   "1933": {
@@ -2700,7 +2700,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793794937_7274.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 99,
+    "total_count": 101,
     "effectively_sold_out": false
   },
   "1469": {
@@ -3212,7 +3212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788348223_4466.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 52,
     "effectively_sold_out": false
   },
   "1736": {
@@ -3324,7 +3324,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 342,
+    "total_count": 344,
     "effectively_sold_out": false
   },
   "1910": {
@@ -3420,7 +3420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588447_1366.jpg",
     "product_budget": 131,
     "is_sold_out": false,
-    "total_count": 115,
+    "total_count": 128,
     "effectively_sold_out": false
   },
   "1283": {
@@ -3516,7 +3516,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794993874_9567.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 56,
+    "total_count": 58,
     "effectively_sold_out": false
   },
   "1280": {
@@ -3788,7 +3788,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042562_6633.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 25,
+    "total_count": 26,
     "effectively_sold_out": false
   },
   "1906": {
@@ -3820,7 +3820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793184019_8032.jpg",
     "product_budget": 2700,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "1671": {
@@ -4092,7 +4092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794977834_7024.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "1874": {
@@ -4156,7 +4156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794976842_4316.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 23,
     "effectively_sold_out": false
   },
   "1866": {
