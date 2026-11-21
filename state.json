@@ -92,7 +92,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 208,
+    "total_count": 210,
     "effectively_sold_out": false
   },
   "2096": {
@@ -604,7 +604,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788240470_5590.jpg",
     "product_budget": 19,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "2013": {
@@ -828,7 +828,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788350180_6310.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 15,
+    "total_count": 16,
     "effectively_sold_out": false
   },
   "296": {
@@ -1436,7 +1436,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788350034_6099.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "2082": {
@@ -3420,7 +3420,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 363,
+    "total_count": 364,
     "effectively_sold_out": false
   },
   "1910": {
@@ -3820,8 +3820,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794562838_9934.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "2078": {
     "name": "Steel Baby Feeding Bottle 250ml ( Pack Of 1 )",
