@@ -1500,8 +1500,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794994158_7768.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "2060": {
     "name": "Bamboo Cotton Baby Girl Dresses ( Pack Of 5, Any Combo ) Any Age",
@@ -2716,7 +2716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779790742_6231.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 55,
+    "total_count": 56,
     "effectively_sold_out": false
   },
   "1890": {
@@ -2732,7 +2732,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779791211_5168.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 53,
+    "total_count": 54,
     "effectively_sold_out": false
   },
   "1696": {
@@ -3484,7 +3484,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794566055_5431.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "1893": {
