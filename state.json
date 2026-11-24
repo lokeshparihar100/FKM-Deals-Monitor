@@ -124,7 +124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 295,
+    "total_count": 296,
     "effectively_sold_out": false
   },
   "1682": {
@@ -924,7 +924,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795411716_3391.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "2122": {
@@ -1532,8 +1532,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786698654_8054.jpg",
     "product_budget": 85,
     "is_sold_out": false,
-    "total_count": 84,
-    "effectively_sold_out": false
+    "total_count": 85,
+    "effectively_sold_out": true
   },
   "2084": {
     "name": "Magnesium BisGlycinate Supplement 2000 mg ( 60 Tablets )",
@@ -2044,7 +2044,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795495624_9435.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 162,
+    "total_count": 165,
     "effectively_sold_out": false
   },
   "1909": {
@@ -2428,7 +2428,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
     "product_budget": 136,
     "is_sold_out": false,
-    "total_count": 122,
+    "total_count": 123,
     "effectively_sold_out": false
   },
   "1930": {
@@ -2492,7 +2492,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1782817035_2451.jpg",
     "product_budget": 95,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "1202": {
@@ -3740,7 +3740,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794577567_7455.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 77,
+    "total_count": 78,
     "effectively_sold_out": false
   },
   "1736": {
@@ -3788,7 +3788,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793626993_9783.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 32,
+    "total_count": 33,
     "effectively_sold_out": false
   },
   "2005": {
@@ -4380,7 +4380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793626232_7493.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 73,
+    "total_count": 74,
     "effectively_sold_out": false
   },
   "1735": {
@@ -4604,7 +4604,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793626338_8971.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 58,
+    "total_count": 60,
     "effectively_sold_out": false
   },
   "1817": {
