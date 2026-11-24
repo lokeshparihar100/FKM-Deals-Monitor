@@ -1820,7 +1820,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
     "product_budget": 180,
     "is_sold_out": false,
-    "total_count": 81,
+    "total_count": 82,
     "effectively_sold_out": false
   },
   "1993": {
@@ -3932,7 +3932,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779252686_2006.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 102,
+    "total_count": 104,
     "effectively_sold_out": false
   },
   "1906": {
@@ -4572,8 +4572,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784723454_9411.jpg",
     "product_budget": 48,
     "is_sold_out": false,
-    "total_count": 47,
-    "effectively_sold_out": false
+    "total_count": 48,
+    "effectively_sold_out": true
   },
   "1962": {
     "name": "Herbal Hygiene Mint Liquid Sanitizer Spray Hand Sanitizer Bottle (100 ml)",
