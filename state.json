@@ -124,7 +124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 299,
+    "total_count": 300,
     "effectively_sold_out": false
   },
   "1682": {
@@ -2060,7 +2060,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795495624_9435.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 169,
+    "total_count": 171,
     "effectively_sold_out": false
   },
   "1998": {
@@ -3100,8 +3100,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1787494892_9731.jpg",
     "product_budget": 37,
     "is_sold_out": false,
-    "total_count": 36,
-    "effectively_sold_out": false
+    "total_count": 37,
+    "effectively_sold_out": true
   },
   "1846": {
     "name": "Stainless Steel MW Safe Snack Box (Peach)",
@@ -4044,7 +4044,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793773311_4152.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 123,
+    "total_count": 125,
     "effectively_sold_out": false
   },
   "1870": {
@@ -4396,7 +4396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793626232_7493.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 74,
+    "total_count": 76,
     "effectively_sold_out": false
   },
   "1735": {
@@ -4508,7 +4508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042562_6633.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 48,
+    "total_count": 49,
     "effectively_sold_out": false
   },
   "1832": {
@@ -4636,7 +4636,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793626338_8971.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 60,
+    "total_count": 63,
     "effectively_sold_out": false
   },
   "1874": {
