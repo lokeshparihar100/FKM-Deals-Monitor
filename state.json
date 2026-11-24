@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795512563_9048.jpg",
     "product_budget": 1005,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "1399": {
@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 305,
+    "total_count": 306,
     "effectively_sold_out": false
   },
   "2045": {
@@ -1291,9 +1291,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/coenzyme-q10-coq10-supplement-300mg-60-capsules-mw209gee",
     "image": "https://images.freekaamaal.com/product-images/product_1793790165_4478.jpg",
     "product_budget": 10,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 4,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1937": {
     "name": "5% Tea Tree Hair Oil Shots for Dandruff & Itchy Scalp",
@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794826605_8283.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 126,
+    "total_count": 127,
     "effectively_sold_out": false
   },
   "2034": {
@@ -4284,7 +4284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793626232_7493.jpg",
     "product_budget": 250,
     "is_sold_out": false,
-    "total_count": 77,
+    "total_count": 78,
     "effectively_sold_out": false
   },
   "1929": {
