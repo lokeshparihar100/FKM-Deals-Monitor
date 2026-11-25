@@ -623,6 +623,22 @@
     "total_count": 1,
     "effectively_sold_out": false
   },
+  "2001": {
+    "name": "Female Only - Face & Neck | Super Oxidized Solution | Hypochlorous Acid | 100 ml",
+    "store_name": "Vidapure",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 959,
+    "net_price": 0,
+    "original_price": 959,
+    "claim_link": "https://fkm.asia/4ztc",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/face-neck-super-oxidized-solution-hypochlorous-acid-100-ml-mwesbg8b",
+    "image": "https://images.freekaamaal.com/product-images/product_1794562696_8525.jpg",
+    "product_budget": 10,
+    "is_sold_out": false,
+    "total_count": 5,
+    "effectively_sold_out": false
+  },
   "2012": {
     "name": "( Delhi - NCR Region Only ) - Orthopedic Memory Foam Cervical Pillow",
     "store_name": "Myarmor",
@@ -637,6 +653,22 @@
     "product_budget": 50,
     "is_sold_out": false,
     "total_count": 28,
+    "effectively_sold_out": false
+  },
+  "2109": {
+    "name": "Biotin Tablets for Hair Growth - 120 Tablets",
+    "store_name": "Carbamideforte",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 949,
+    "net_price": 0,
+    "original_price": 549,
+    "claim_link": "https://fkm.asia/4zsa",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/biotin-tablets-for-hair-growth-120-tablets-mwsvaecg",
+    "image": "https://images.freekaamaal.com/product-images/product_1795414211_4473.jpg",
+    "product_budget": 3,
+    "is_sold_out": false,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1829": {
@@ -671,22 +703,6 @@
     "total_count": 1,
     "effectively_sold_out": true
   },
-  "2109": {
-    "name": "Biotin Tablets for Hair Growth - 120 Tablets",
-    "store_name": "Carbamideforte",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 949,
-    "net_price": 0,
-    "original_price": 549,
-    "claim_link": "https://fkm.asia/4zsa",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/biotin-tablets-for-hair-growth-120-tablets-mwsvaecg",
-    "image": "https://images.freekaamaal.com/product-images/product_1795414211_4473.jpg",
-    "product_budget": 3,
-    "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
-  },
   "1779": {
     "name": "India No.1 Genz Trimmer ",
     "store_name": "Amazonp",
@@ -701,22 +717,6 @@
     "product_budget": 25,
     "is_sold_out": false,
     "total_count": 11,
-    "effectively_sold_out": false
-  },
-  "2141": {
-    "name": "Hydrogel Under Eye Patches For Dark Circles ( 60 Patches )",
-    "store_name": "Carbamideforte",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 899,
-    "net_price": 0,
-    "original_price": 499,
-    "claim_link": "https://fkm.asia/4zsu",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/hydrogel-under-eye-patches-for-dark-circles-60-patches-mwtapuh9",
-    "image": "https://images.freekaamaal.com/product-images/product_1795496508_7944.jpg",
-    "product_budget": 3,
-    "is_sold_out": false,
-    "total_count": 2,
     "effectively_sold_out": false
   },
   "415": {
@@ -735,20 +735,20 @@
     "total_count": 46,
     "effectively_sold_out": false
   },
-  "2001": {
-    "name": "Female Only - Face & Neck | Super Oxidized Solution | Hypochlorous Acid | 100 ml",
-    "store_name": "Vidapure",
+  "2141": {
+    "name": "Hydrogel Under Eye Patches For Dark Circles ( 60 Patches )",
+    "store_name": "Carbamideforte",
     "platform": "Amazon",
     "campaign_type": "review",
-    "cashback": 863,
-    "net_price": 96,
-    "original_price": 959,
-    "claim_link": "https://fkm.asia/4ztc",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/face-neck-super-oxidized-solution-hypochlorous-acid-100-ml-mwesbg8b",
-    "image": "https://images.freekaamaal.com/product-images/product_1794562696_8525.jpg",
-    "product_budget": 10,
+    "cashback": 899,
+    "net_price": 0,
+    "original_price": 499,
+    "claim_link": "https://fkm.asia/4zsu",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/hydrogel-under-eye-patches-for-dark-circles-60-patches-mwtapuh9",
+    "image": "https://images.freekaamaal.com/product-images/product_1795496508_7944.jpg",
+    "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1994": {
@@ -1996,7 +1996,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793789455_3897.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "298": {
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795495624_9435.jpg",
     "product_budget": 400,
     "is_sold_out": false,
-    "total_count": 193,
+    "total_count": 194,
     "effectively_sold_out": false
   },
   "1998": {
@@ -2508,7 +2508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588253_5625.jpg",
     "product_budget": 136,
     "is_sold_out": false,
-    "total_count": 128,
+    "total_count": 129,
     "effectively_sold_out": false
   },
   "1930": {
@@ -3148,7 +3148,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795598961_6734.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "1058": {
@@ -3468,7 +3468,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795598583_4639.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 11,
     "effectively_sold_out": false
   },
   "2145": {
@@ -3484,7 +3484,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795598775_5209.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "1733": {
@@ -4300,7 +4300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779252686_2006.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 117,
+    "total_count": 118,
     "effectively_sold_out": false
   },
   "1906": {
@@ -4956,7 +4956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1783602062_8025.jpg",
     "product_budget": 148,
     "is_sold_out": false,
-    "total_count": 37,
+    "total_count": 38,
     "effectively_sold_out": false
   }
 }
