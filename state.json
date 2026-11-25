@@ -476,8 +476,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795494221_1821.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "2056": {
     "name": "Boys & Girls Full Sleeve Printed Hooded Sweatshirt ( Any Age )",
@@ -956,7 +956,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795494986_1010.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "2104": {
@@ -1500,8 +1500,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795493875_3675.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "2118": {
     "name": "Licorice/Mulethi Powder Organic - 100g",
@@ -2700,7 +2700,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795505699_9627.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 12,
+    "total_count": 13,
     "effectively_sold_out": false
   },
   "2040": {
@@ -4188,7 +4188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779252686_2006.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 110,
+    "total_count": 112,
     "effectively_sold_out": false
   },
   "1906": {
@@ -4524,7 +4524,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794977834_7024.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "1874": {
@@ -4668,7 +4668,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792158771_4246.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 87,
+    "total_count": 88,
     "effectively_sold_out": false
   },
   "1957": {
@@ -4860,7 +4860,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794977323_1606.jpg",
     "product_budget": 75,
     "is_sold_out": false,
-    "total_count": 42,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "1831": {
