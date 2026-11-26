@@ -236,7 +236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795703893_9551.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "2094": {
@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795192150_4116.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "2089": {
@@ -1292,7 +1292,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784354265_9650.jpg",
     "product_budget": 150,
     "is_sold_out": false,
-    "total_count": 131,
+    "total_count": 132,
     "effectively_sold_out": false
   },
   "1851": {
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 215,
     "is_sold_out": false,
-    "total_count": 187,
+    "total_count": 188,
     "effectively_sold_out": false
   },
   "1921": {
@@ -1868,7 +1868,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793789455_3897.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "298": {
@@ -1980,7 +1980,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793789619_5911.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "1975": {
@@ -2092,7 +2092,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794221370_9863.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 50,
+    "total_count": 51,
     "effectively_sold_out": false
   },
   "2034": {
@@ -2108,7 +2108,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794825865_6828.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 119,
+    "total_count": 120,
     "effectively_sold_out": false
   },
   "1287": {
@@ -2988,8 +2988,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793791134_3875.jpg",
     "product_budget": 20,
     "is_sold_out": false,
-    "total_count": 19,
-    "effectively_sold_out": false
+    "total_count": 20,
+    "effectively_sold_out": true
   },
   "1971": {
     "name": "Detoxifying Face Wash - 100 Ml",
@@ -3212,7 +3212,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359924_8791.jpg",
     "product_budget": 215,
     "is_sold_out": false,
-    "total_count": 153,
+    "total_count": 154,
     "effectively_sold_out": false
   },
   "1469": {
@@ -3404,7 +3404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1790167269_9220.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 33,
+    "total_count": 34,
     "effectively_sold_out": false
   },
   "1903": {
@@ -4204,7 +4204,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786343467_2756.jpg",
     "product_budget": 447,
     "is_sold_out": false,
-    "total_count": 85,
+    "total_count": 87,
     "effectively_sold_out": false
   },
   "1832": {
@@ -4284,7 +4284,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786342819_3636.jpg",
     "product_budget": 402,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "1817": {
@@ -4316,7 +4316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793626878_4266.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 309,
+    "total_count": 310,
     "effectively_sold_out": false
   },
   "1868": {
@@ -4508,7 +4508,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792588346_2418.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 78,
+    "total_count": 79,
     "effectively_sold_out": false
   },
   "1739": {
@@ -4540,8 +4540,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794394699_7424.jpg",
     "product_budget": 32,
     "is_sold_out": false,
-    "total_count": 31,
-    "effectively_sold_out": false
+    "total_count": 32,
+    "effectively_sold_out": true
   },
   "1412": {
     "name": "Purple Whitening Toothpaste - 75g",
