@@ -220,7 +220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795703893_9551.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 8,
+    "total_count": 9,
     "effectively_sold_out": false
   },
   "2094": {
@@ -508,8 +508,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795492977_5881.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 2,
-    "effectively_sold_out": false
+    "total_count": 3,
+    "effectively_sold_out": true
   },
   "2114": {
     "name": "L Citrulline Malate - 200g - 95 Servings",
@@ -1836,7 +1836,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795495018_1864.jpg",
     "product_budget": 3,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 1,
     "effectively_sold_out": false
   },
   "1989": {
@@ -2156,7 +2156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794221370_9863.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 56,
+    "total_count": 58,
     "effectively_sold_out": false
   },
   "1287": {
@@ -2236,7 +2236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1791657344_7471.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 187,
+    "total_count": 188,
     "effectively_sold_out": false
   },
   "2101": {
@@ -2620,7 +2620,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794995091_6032.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 2,
+    "total_count": 3,
     "effectively_sold_out": false
   },
   "2064": {
@@ -2636,8 +2636,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794994016_8612.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "1235": {
     "name": "Magnesium Bisglycinate Tablets 1600mg ( 60 Tablets )",
@@ -3388,7 +3388,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792130513_7192.jpg",
     "product_budget": 40,
     "is_sold_out": false,
-    "total_count": 26,
+    "total_count": 27,
     "effectively_sold_out": false
   },
   "1628": {
@@ -3756,7 +3756,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 493,
     "is_sold_out": false,
-    "total_count": 23,
+    "total_count": 24,
     "effectively_sold_out": false
   },
   "1910": {
@@ -3916,7 +3916,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794993874_9567.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 125,
+    "total_count": 126,
     "effectively_sold_out": false
   },
   "1913": {
@@ -4236,7 +4236,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1779252686_2006.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 133,
+    "total_count": 134,
     "effectively_sold_out": false
   },
   "1906": {
@@ -4412,7 +4412,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793362663_5635.jpg",
     "product_budget": 418,
     "is_sold_out": false,
-    "total_count": 5,
+    "total_count": 6,
     "effectively_sold_out": false
   },
   "487": {
