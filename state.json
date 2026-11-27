@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 421,
+    "total_count": 423,
     "effectively_sold_out": false
   },
   "2045": {
@@ -988,8 +988,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786698654_8054.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 4,
-    "effectively_sold_out": false
+    "total_count": 5,
+    "effectively_sold_out": true
   },
   "2155": {
     "name": "Pants Skin Breathe Care | Baby Diapers Large Size (L) | 52 Count | 9-14Kgs",
@@ -2172,7 +2172,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794826605_8283.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 146,
+    "total_count": 147,
     "effectively_sold_out": false
   },
   "1287": {
@@ -3404,7 +3404,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792157278_7391.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 36,
+    "total_count": 37,
     "effectively_sold_out": false
   },
   "1910": {
@@ -4476,7 +4476,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793682356_8968.jpg",
     "product_budget": 1000,
     "is_sold_out": false,
-    "total_count": 62,
+    "total_count": 63,
     "effectively_sold_out": false
   },
   "2006": {
