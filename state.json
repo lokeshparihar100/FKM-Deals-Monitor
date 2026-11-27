@@ -12,7 +12,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795512563_9048.jpg",
     "product_budget": 1005,
     "is_sold_out": false,
-    "total_count": 49,
+    "total_count": 50,
     "effectively_sold_out": false
   },
   "1399": {
@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 401,
+    "total_count": 402,
     "effectively_sold_out": false
   },
   "2045": {
@@ -156,7 +156,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795511962_3525.jpg",
     "product_budget": 495,
     "is_sold_out": false,
-    "total_count": 31,
+    "total_count": 32,
     "effectively_sold_out": false
   },
   "1682": {
@@ -1052,8 +1052,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793434097_2634.jpg",
     "product_budget": 11,
     "is_sold_out": false,
-    "total_count": 10,
-    "effectively_sold_out": false
+    "total_count": 11,
+    "effectively_sold_out": true
   },
   "2127": {
     "name": "Peeling & Exfoliating Foot Peel off Mask for Dry & Calloused Feet ( 1 Pair )",
@@ -1644,7 +1644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786712772_3720.jpg",
     "product_budget": 230,
     "is_sold_out": false,
-    "total_count": 150,
+    "total_count": 151,
     "effectively_sold_out": false
   },
   "1938": {
@@ -4060,8 +4060,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795428752_5273.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "2078": {
     "name": "Steel Baby Feeding Bottle 250ml ( Pack Of 1 )",
