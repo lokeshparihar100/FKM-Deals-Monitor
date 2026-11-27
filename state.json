@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 406,
+    "total_count": 408,
     "effectively_sold_out": false
   },
   "2045": {
@@ -268,8 +268,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788240156_7549.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 49,
-    "effectively_sold_out": false
+    "total_count": 50,
+    "effectively_sold_out": true
   },
   "2098": {
     "name": "Female Only - Top Selling - Facial Hair Remover",
@@ -380,7 +380,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794568369_3084.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 30,
+    "total_count": 31,
     "effectively_sold_out": false
   },
   "2095": {
@@ -1788,7 +1788,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788349216_1285.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 52,
+    "total_count": 53,
     "effectively_sold_out": false
   },
   "1909": {
@@ -2140,7 +2140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794221370_9863.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 62,
+    "total_count": 63,
     "effectively_sold_out": false
   },
   "2034": {
@@ -2316,7 +2316,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
     "product_budget": 180,
     "is_sold_out": false,
-    "total_count": 91,
+    "total_count": 92,
     "effectively_sold_out": false
   },
   "2154": {
@@ -3324,8 +3324,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788352597_9875.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 99,
-    "effectively_sold_out": false
+    "total_count": 100,
+    "effectively_sold_out": true
   },
   "2037": {
     "name": "Stainless Steel MW Safe Snack Lunch Box (Military Green)",
@@ -3724,7 +3724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 493,
     "is_sold_out": false,
-    "total_count": 39,
+    "total_count": 40,
     "effectively_sold_out": false
   },
   "2009": {
@@ -4076,7 +4076,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794997269_9345.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1294": {
