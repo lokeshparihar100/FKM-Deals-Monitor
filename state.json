@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795003736_6749.jpg",
     "product_budget": 5000,
     "is_sold_out": false,
-    "total_count": 398,
+    "total_count": 401,
     "effectively_sold_out": false
   },
   "2045": {
@@ -220,8 +220,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795703893_9551.jpg",
     "product_budget": 14,
     "is_sold_out": false,
-    "total_count": 13,
-    "effectively_sold_out": false
+    "total_count": 14,
+    "effectively_sold_out": true
   },
   "2094": {
     "name": "Female Only - Top Selling - Facial Hair Remover",
@@ -572,8 +572,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795493312_5772.jpg",
     "product_budget": 2,
     "is_sold_out": false,
-    "total_count": 1,
-    "effectively_sold_out": false
+    "total_count": 2,
+    "effectively_sold_out": true
   },
   "2001": {
     "name": "Female Only - Face & Neck | Super Oxidized Solution | Hypochlorous Acid | 100 ml",
@@ -988,7 +988,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786698654_8054.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 4,
     "effectively_sold_out": false
   },
   "2155": {
@@ -2252,8 +2252,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795409559_4873.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "2102": {
     "name": "Food Wrapping Paper Sheets (Rectangle)",
@@ -2364,7 +2364,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786699483_7698.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 4,
+    "total_count": 5,
     "effectively_sold_out": false
   },
   "2099": {
@@ -3644,7 +3644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794568108_8095.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 7,
     "effectively_sold_out": false
   },
   "1669": {
