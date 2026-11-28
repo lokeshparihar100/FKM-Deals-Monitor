@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795511962_3525.jpg",
     "product_budget": 495,
     "is_sold_out": false,
-    "total_count": 43,
+    "total_count": 44,
     "effectively_sold_out": false
   },
   "1682": {
@@ -1644,7 +1644,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 215,
     "is_sold_out": false,
-    "total_count": 202,
+    "total_count": 203,
     "effectively_sold_out": false
   },
   "1921": {
@@ -1676,7 +1676,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788350034_6099.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 20,
+    "total_count": 21,
     "effectively_sold_out": false
   },
   "2082": {
@@ -1868,7 +1868,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1784725675_3589.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 36,
+    "total_count": 37,
     "effectively_sold_out": false
   },
   "1922": {
@@ -2220,7 +2220,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795089546_6532.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 16,
+    "total_count": 17,
     "effectively_sold_out": false
   },
   "2090": {
@@ -2252,7 +2252,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795089300_8557.jpg",
     "product_budget": 100,
     "is_sold_out": false,
-    "total_count": 19,
+    "total_count": 20,
     "effectively_sold_out": false
   },
   "2101": {
@@ -2300,7 +2300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793712838_6603.jpg",
     "product_budget": 180,
     "is_sold_out": false,
-    "total_count": 94,
+    "total_count": 96,
     "effectively_sold_out": false
   },
   "2165": {
@@ -2444,8 +2444,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794577436_6413.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 49,
-    "effectively_sold_out": false
+    "total_count": 50,
+    "effectively_sold_out": true
   },
   "1942": {
     "name": "Foam Based Hair Removal Spray for Men & Women -  (200 ml)",
@@ -2716,7 +2716,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795505699_9627.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 35,
+    "total_count": 37,
     "effectively_sold_out": false
   },
   "2040": {
@@ -2908,7 +2908,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795429016_2273.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": null,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1849": {
@@ -3724,7 +3724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 493,
     "is_sold_out": false,
-    "total_count": 51,
+    "total_count": 52,
     "effectively_sold_out": false
   },
   "2166": {
@@ -4540,7 +4540,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793625707_7179.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 170,
+    "total_count": 171,
     "effectively_sold_out": false
   },
   "1864": {
