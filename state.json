@@ -1724,7 +1724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1793710970_7609.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 29,
+    "total_count": 30,
     "effectively_sold_out": false
   },
   "2108": {
@@ -1900,8 +1900,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794555775_3029.jpg",
     "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": false
+    "total_count": 6,
+    "effectively_sold_out": true
   },
   "298": {
     "name": "Glucosamine Plus 1500mg ( 60 Tablets )",
@@ -2124,7 +2124,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794221370_9863.jpg",
     "product_budget": 200,
     "is_sold_out": false,
-    "total_count": 67,
+    "total_count": 68,
     "effectively_sold_out": false
   },
   "1287": {
