@@ -140,7 +140,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795511962_3525.jpg",
     "product_budget": 495,
     "is_sold_out": false,
-    "total_count": 40,
+    "total_count": 41,
     "effectively_sold_out": false
   },
   "2096": {
@@ -396,7 +396,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794568369_3084.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 34,
+    "total_count": 35,
     "effectively_sold_out": false
   },
   "2095": {
@@ -972,7 +972,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795411716_3391.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 7,
+    "total_count": 8,
     "effectively_sold_out": false
   },
   "2122": {
@@ -2012,7 +2012,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 70,
     "is_sold_out": false,
-    "total_count": 46,
+    "total_count": 47,
     "effectively_sold_out": false
   },
   "1923": {
@@ -2300,7 +2300,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795860803_3324.jpg",
     "product_budget": 5,
     "is_sold_out": false,
-    "total_count": 1,
+    "total_count": 2,
     "effectively_sold_out": false
   },
   "1958": {
@@ -2828,8 +2828,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795411577_6338.jpg",
     "product_budget": 10,
     "is_sold_out": false,
-    "total_count": 9,
-    "effectively_sold_out": false
+    "total_count": 10,
+    "effectively_sold_out": true
   },
   "1901": {
     "name": "De-Tan & Detox Body Wash (300 ml)",
@@ -3082,10 +3082,10 @@
     "claim_link": "https://fkm.asia/4yef",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/detoxifying-face-wash-100-ml-mwdfveey",
     "image": "https://images.freekaamaal.com/product-images/product_1788349010_2846.jpg",
-    "product_budget": 70,
-    "is_sold_out": false,
+    "product_budget": 80,
+    "is_sold_out": true,
     "total_count": 67,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "2161": {
     "name": "\tDates & Nuts Bar - 100g + Premium Black Afghan Dates / Khajur - 400g",
@@ -3100,7 +3100,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795773118_1733.jpg",
     "product_budget": 175,
     "is_sold_out": false,
-    "total_count": 37,
+    "total_count": 38,
     "effectively_sold_out": false
   },
   "1058": {
@@ -3244,7 +3244,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786359924_8791.jpg",
     "product_budget": 215,
     "is_sold_out": false,
-    "total_count": 154,
+    "total_count": 155,
     "effectively_sold_out": false
   },
   "1469": {
@@ -3579,9 +3579,9 @@
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/aloe-vera-gel-for-face-skin-hair-100g-mwdfmqs3",
     "image": "https://images.freekaamaal.com/product-images/product_1788348223_4466.jpg",
     "product_budget": 100,
-    "is_sold_out": false,
+    "is_sold_out": true,
     "total_count": 88,
-    "effectively_sold_out": false
+    "effectively_sold_out": true
   },
   "1819": {
     "name": "PH Reactive Lip & Cheek Tint | Dewy Blush Tint (Pink, 3.5 ml)",
@@ -3724,7 +3724,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792559273_9581.jpg",
     "product_budget": 493,
     "is_sold_out": false,
-    "total_count": 44,
+    "total_count": 45,
     "effectively_sold_out": false
   },
   "2166": {
@@ -4460,7 +4460,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1794577316_8349.jpg",
     "product_budget": 500,
     "is_sold_out": false,
-    "total_count": 172,
+    "total_count": 173,
     "effectively_sold_out": false
   },
   "2047": {
