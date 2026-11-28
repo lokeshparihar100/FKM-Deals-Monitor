@@ -188,7 +188,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795179500_3436.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 41,
+    "total_count": 42,
     "effectively_sold_out": false
   },
   "1828": {
@@ -751,17 +751,17 @@
     "total_count": 15,
     "effectively_sold_out": false
   },
-  "1981": {
-    "name": "L Citrulline Malate - 200g - 95 Servings",
-    "store_name": "Carbamideforte",
+  "2076": {
+    "name": "Steel Baby Feeding Bottle 250ML ( Pack of 4 )",
+    "store_name": "Kidbea",
     "platform": "Amazon",
     "campaign_type": "review",
     "cashback": 799,
-    "net_price": 0,
-    "original_price": 599,
-    "claim_link": "https://fkm.asia/4zsg",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/l-citrulline-malate-200g-95-servings-mwen9b7p",
-    "image": "https://images.freekaamaal.com/product-images/product_1795159184_8122.jpg",
+    "net_price": 200,
+    "original_price": 999,
+    "claim_link": "https://fkm.asia/532k",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/steel-baby-feeding-bottle-250ml-pack-of-4-mwlyw331",
+    "image": "https://images.freekaamaal.com/product-images/product_1794997011_4788.jpg",
     "product_budget": 5,
     "is_sold_out": false,
     "total_count": 5,
@@ -783,17 +783,17 @@
     "total_count": 4,
     "effectively_sold_out": true
   },
-  "2076": {
-    "name": "Steel Baby Feeding Bottle 250ML ( Pack of 4 )",
-    "store_name": "Kidbea",
+  "1981": {
+    "name": "L Citrulline Malate - 200g - 95 Servings",
+    "store_name": "Carbamideforte",
     "platform": "Amazon",
     "campaign_type": "review",
     "cashback": 799,
-    "net_price": 200,
-    "original_price": 999,
-    "claim_link": "https://fkm.asia/532k",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/steel-baby-feeding-bottle-250ml-pack-of-4-mwlyw331",
-    "image": "https://images.freekaamaal.com/product-images/product_1794997011_4788.jpg",
+    "net_price": 0,
+    "original_price": 599,
+    "claim_link": "https://fkm.asia/4zsg",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/l-citrulline-malate-200g-95-servings-mwen9b7p",
+    "image": "https://images.freekaamaal.com/product-images/product_1795159184_8122.jpg",
     "product_budget": 5,
     "is_sold_out": false,
     "total_count": 5,
@@ -906,10 +906,10 @@
     "claim_link": "https://fkm.asia/4zsp",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/female-only-collagen-peel-off-mask-for-korean-glass-skin-100-ml-mwswvavb",
     "image": "https://images.freekaamaal.com/product-images/product_1795494731_9511.jpg",
-    "product_budget": 6,
+    "product_budget": 7,
     "is_sold_out": false,
     "total_count": 6,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "2156": {
     "name": "Pants Skin Breathe Care | Baby Diapers Medium Size (M) | 62 Count | 7-12Kgs",
@@ -943,36 +943,20 @@
     "total_count": 5,
     "effectively_sold_out": true
   },
-  "1827": {
-    "name": "Female Only Offer - Women’s Probiotic for Gut & Vaginal Health ( 15 Sachets )",
-    "store_name": "Within",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 749,
-    "net_price": 0,
-    "original_price": 749,
-    "claim_link": "https://fkm.asia/4z9r",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/women-s-probiotic-for-gut-vaginal-health-15-sachets-mvw4desu",
-    "image": "https://images.freekaamaal.com/product-images/product_1793434097_2634.jpg",
-    "product_budget": 14,
-    "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": true
-  },
-  "2127": {
-    "name": "Peeling & Exfoliating Foot Peel off Mask for Dry & Calloused Feet ( 1 Pair )",
+  "1976": {
+    "name": "Biotin Tablets for Hair Growth - 120 Tablets",
     "store_name": "Carbamideforte",
     "platform": "Amazon",
     "campaign_type": "review",
     "cashback": 749,
     "net_price": 0,
-    "original_price": 349,
-    "claim_link": "https://fkm.asia/4zsv",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/peeling-exfoliating-foot-peel-off-mask-for-dry-calloused-feet-1-pair-mwsxagkt",
-    "image": "https://images.freekaamaal.com/product-images/product_1795494331_2711.jpg",
-    "product_budget": 3,
+    "original_price": 549,
+    "claim_link": "https://fkm.asia/4zsa",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/biotin-tablets-for-hair-growth-120-tablets-mwemojap",
+    "image": "https://images.freekaamaal.com/product-images/product_1794569843_4732.jpg",
+    "product_budget": 6,
     "is_sold_out": false,
-    "total_count": 3,
+    "total_count": 6,
     "effectively_sold_out": true
   },
   "1978": {
@@ -991,20 +975,36 @@
     "total_count": 6,
     "effectively_sold_out": true
   },
-  "1976": {
-    "name": "Biotin Tablets for Hair Growth - 120 Tablets",
+  "2127": {
+    "name": "Peeling & Exfoliating Foot Peel off Mask for Dry & Calloused Feet ( 1 Pair )",
     "store_name": "Carbamideforte",
     "platform": "Amazon",
     "campaign_type": "review",
     "cashback": 749,
     "net_price": 0,
-    "original_price": 549,
-    "claim_link": "https://fkm.asia/4zsa",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/biotin-tablets-for-hair-growth-120-tablets-mwemojap",
-    "image": "https://images.freekaamaal.com/product-images/product_1794569843_4732.jpg",
-    "product_budget": 6,
+    "original_price": 349,
+    "claim_link": "https://fkm.asia/4zsv",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/peeling-exfoliating-foot-peel-off-mask-for-dry-calloused-feet-1-pair-mwsxagkt",
+    "image": "https://images.freekaamaal.com/product-images/product_1795494331_2711.jpg",
+    "product_budget": 3,
     "is_sold_out": false,
-    "total_count": 6,
+    "total_count": 3,
+    "effectively_sold_out": true
+  },
+  "1827": {
+    "name": "Female Only Offer - Women’s Probiotic for Gut & Vaginal Health ( 15 Sachets )",
+    "store_name": "Within",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 749,
+    "net_price": 0,
+    "original_price": 749,
+    "claim_link": "https://fkm.asia/4z9r",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/women-s-probiotic-for-gut-vaginal-health-15-sachets-mvw4desu",
+    "image": "https://images.freekaamaal.com/product-images/product_1793434097_2634.jpg",
+    "product_budget": 14,
+    "is_sold_out": false,
+    "total_count": 14,
     "effectively_sold_out": true
   },
   "2121": {
@@ -1455,38 +1455,6 @@
     "total_count": 143,
     "effectively_sold_out": false
   },
-  "2124": {
-    "name": "Rosemary Hair Spray with Rice Water - 200 Ml",
-    "store_name": "Carbamideforte",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 599,
-    "net_price": 0,
-    "original_price": 199,
-    "claim_link": "https://fkm.asia/4zsr",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/rosemary-hair-spray-with-rice-water-200-ml-mwsx1f0u",
-    "image": "https://images.freekaamaal.com/product-images/product_1795493978_3524.jpg",
-    "product_budget": 3,
-    "is_sold_out": false,
-    "total_count": 3,
-    "effectively_sold_out": true
-  },
-  "2077": {
-    "name": "Steel Baby Feeding Bottle 250ML ( Pack Of 3 )",
-    "store_name": "Kidbea",
-    "platform": "Amazon",
-    "campaign_type": "review",
-    "cashback": 599,
-    "net_price": 150,
-    "original_price": 749,
-    "claim_link": "https://fkm.asia/532l",
-    "tryouts_url": "https://tryouts.freekaamaal.com/deal/steel-baby-feeding-bottle-250ml-pack-of-3-mwlyyjnh",
-    "image": "https://images.freekaamaal.com/product-images/product_1794997118_9285.jpg",
-    "product_budget": 5,
-    "is_sold_out": false,
-    "total_count": 5,
-    "effectively_sold_out": true
-  },
   "1999": {
     "name": "DHT Blocker with Biotin Tablets for Hair growth - 60 Tablets",
     "store_name": "Carbamideforte",
@@ -1533,6 +1501,38 @@
     "product_budget": 3,
     "is_sold_out": false,
     "total_count": 3,
+    "effectively_sold_out": true
+  },
+  "2124": {
+    "name": "Rosemary Hair Spray with Rice Water - 200 Ml",
+    "store_name": "Carbamideforte",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 599,
+    "net_price": 0,
+    "original_price": 199,
+    "claim_link": "https://fkm.asia/4zsr",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/rosemary-hair-spray-with-rice-water-200-ml-mwsx1f0u",
+    "image": "https://images.freekaamaal.com/product-images/product_1795493978_3524.jpg",
+    "product_budget": 3,
+    "is_sold_out": false,
+    "total_count": 3,
+    "effectively_sold_out": true
+  },
+  "2077": {
+    "name": "Steel Baby Feeding Bottle 250ML ( Pack Of 3 )",
+    "store_name": "Kidbea",
+    "platform": "Amazon",
+    "campaign_type": "review",
+    "cashback": 599,
+    "net_price": 150,
+    "original_price": 749,
+    "claim_link": "https://fkm.asia/532l",
+    "tryouts_url": "https://tryouts.freekaamaal.com/deal/steel-baby-feeding-bottle-250ml-pack-of-3-mwlyyjnh",
+    "image": "https://images.freekaamaal.com/product-images/product_1794997118_9285.jpg",
+    "product_budget": 5,
+    "is_sold_out": false,
+    "total_count": 5,
     "effectively_sold_out": true
   },
   "2046": {
@@ -1628,7 +1628,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1786711902_5105.jpg",
     "product_budget": 215,
     "is_sold_out": false,
-    "total_count": 210,
+    "total_count": 211,
     "effectively_sold_out": false
   },
   "1936": {
@@ -1898,10 +1898,10 @@
     "claim_link": "https://fkm.asia/4zsp",
     "tryouts_url": "https://tryouts.freekaamaal.com/deal/female-only-collagen-peel-off-mask-for-korean-glass-skin-100-ml-mweo71eg",
     "image": "https://images.freekaamaal.com/product-images/product_1794555775_3029.jpg",
-    "product_budget": 6,
+    "product_budget": 7,
     "is_sold_out": false,
     "total_count": 6,
-    "effectively_sold_out": true
+    "effectively_sold_out": false
   },
   "298": {
     "name": "Glucosamine Plus 1500mg ( 60 Tablets )",
@@ -1996,7 +1996,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1788347690_6643.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 39,
+    "total_count": 40,
     "effectively_sold_out": false
   },
   "1242": {
@@ -3948,7 +3948,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1789042562_6633.jpg",
     "product_budget": 300,
     "is_sold_out": false,
-    "total_count": 45,
+    "total_count": 46,
     "effectively_sold_out": false
   },
   "1871": {
