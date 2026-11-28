@@ -332,7 +332,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795088422_6121.jpg",
     "product_budget": 50,
     "is_sold_out": false,
-    "total_count": 9,
+    "total_count": 10,
     "effectively_sold_out": false
   },
   "2086": {
@@ -700,8 +700,8 @@
     "image": "https://images.freekaamaal.com/product-images/product_1795703658_8548.jpg",
     "product_budget": 15,
     "is_sold_out": false,
-    "total_count": 14,
-    "effectively_sold_out": false
+    "total_count": 15,
+    "effectively_sold_out": true
   },
   "2120": {
     "name": "Hydrogel Under Eye Patches For Dark Circles ( 30 Pairs )",
@@ -2844,7 +2844,7 @@
     "image": "https://images.freekaamaal.com/product-images/product_1792157002_3408.jpg",
     "product_budget": 600,
     "is_sold_out": false,
-    "total_count": 391,
+    "total_count": 392,
     "effectively_sold_out": false
   },
   "1849": {
